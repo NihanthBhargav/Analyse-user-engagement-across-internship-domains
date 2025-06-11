@@ -1,0 +1,2001 @@
+Internship_ID,Domain,Student_ID,University,Year_of_Study,Program,Application_Date,Status,Participation,Clicks_on_Internship
+754,Blockchain,S0000,Oxford,3rd Year,MBA,2025-01-01,Rejected,No,29
+214,Data Science,S0001,Cambridge,4th Year,MBA,2025-01-02,Pending,Yes,11
+125,Web Development,S0002,Stanford,3rd Year,M.Tech,2025-01-03,Accepted,Yes,12
+859,AI/ML,S0003,NUS,2nd Year,MBA,2025-01-04,Accepted,Yes,26
+381,Data Science,S0004,IIT Delhi,3rd Year,M.Sc,2025-01-05,Rejected,Yes,19
+350,Embedded Systems,S0005,MIT,1st Year,M.Tech,2025-01-06,Accepted,No,1
+328,Cybersecurity,S0006,Cambridge,1st Year,B.Sc,2025-01-07,Rejected,Yes,35
+242,Blockchain,S0007,Berkeley,2nd Year,M.Tech,2025-01-08,Pending,Yes,22
+854,Blockchain,S0008,Oxford,3rd Year,B.Tech,2025-01-09,Pending,No,49
+204,IoT,S0009,NTU,3rd Year,M.Tech,2025-01-10,Pending,No,30
+792,UI/UX Design,S0010,Oxford,4th Year,M.Tech,2025-01-11,Accepted,Yes,42
+858,Web Development,S0011,NTU,1st Year,B.Tech,2025-01-12,Pending,Yes,12
+658,UI/UX Design,S0012,Berkeley,4th Year,M.Tech,2025-01-13,Pending,Yes,44
+189,Cloud Computing,S0013,IIT Delhi,4th Year,MBA,2025-01-14,Pending,No,7
+704,UI/UX Design,S0014,Cambridge,3rd Year,B.Sc,2025-01-15,Accepted,Yes,25
+532,AR/VR,S0015,NTU,1st Year,B.Sc,2025-01-16,Rejected,Yes,38
+132,AR/VR,S0016,IIT Delhi,4th Year,M.Sc,2025-01-17,Pending,No,42
+130,Data Science,S0017,Berkeley,3rd Year,B.Sc,2025-01-18,Rejected,No,27
+195,AI/ML,S0018,NUS,2nd Year,B.Sc,2025-01-19,Pending,Yes,27
+323,Web Development,S0019,Berkeley,1st Year,B.Tech,2025-01-20,Accepted,No,27
+338,Web Development,S0020,Harvard,3rd Year,M.Tech,2025-01-21,Rejected,Yes,13
+617,AR/VR,S0021,MIT,2nd Year,M.Tech,2025-01-22,Accepted,Yes,41
+716,AI/ML,S0022,IIT Bombay,4th Year,MBA,2025-01-23,Pending,Yes,2
+127,Data Science,S0023,MIT,4th Year,M.Tech,2025-01-24,Pending,Yes,40
+674,Cloud Computing,S0024,Berkeley,4th Year,B.Tech,2025-01-25,Pending,Yes,15
+303,IoT,S0025,NUS,2nd Year,MBA,2025-01-26,Accepted,No,9
+833,Blockchain,S0026,Cambridge,2nd Year,MBA,2025-01-27,Accepted,Yes,40
+765,IoT,S0027,MIT,4th Year,M.Sc,2025-01-28,Accepted,Yes,40
+818,AR/VR,S0028,Cambridge,4th Year,M.Tech,2025-01-29,Accepted,Yes,33
+658,IoT,S0029,MIT,2nd Year,B.Tech,2025-01-30,Pending,No,6
+529,Blockchain,S0030,IIT Bombay,3rd Year,B.Sc,2025-01-31,Pending,No,39
+325,Cloud Computing,S0031,Oxford,1st Year,B.Tech,2025-02-01,Rejected,Yes,37
+559,Cybersecurity,S0032,Stanford,4th Year,B.Tech,2025-02-02,Rejected,Yes,47
+703,Embedded Systems,S0033,Berkeley,2nd Year,B.Tech,2025-02-03,Pending,Yes,27
+384,Data Science,S0034,NUS,3rd Year,MBA,2025-02-04,Pending,No,2
+928,UI/UX Design,S0035,Berkeley,3rd Year,M.Sc,2025-02-05,Accepted,No,21
+990,Blockchain,S0036,IIT Bombay,3rd Year,MBA,2025-02-06,Pending,Yes,40
+106,Data Science,S0037,IIT Delhi,4th Year,B.Tech,2025-02-07,Accepted,No,16
+877,Cloud Computing,S0038,MIT,2nd Year,B.Sc,2025-02-08,Rejected,Yes,11
+925,AR/VR,S0039,Harvard,1st Year,MBA,2025-02-09,Accepted,No,37
+263,IoT,S0040,Oxford,2nd Year,B.Tech,2025-02-10,Rejected,Yes,41
+814,Embedded Systems,S0041,Stanford,2nd Year,B.Sc,2025-02-11,Rejected,No,31
+532,Cloud Computing,S0042,MIT,3rd Year,M.Tech,2025-02-12,Pending,Yes,44
+448,AI/ML,S0043,Berkeley,1st Year,M.Tech,2025-02-13,Rejected,No,6
+384,Cybersecurity,S0044,NUS,4th Year,B.Tech,2025-02-14,Pending,Yes,24
+259,Blockchain,S0045,IIT Bombay,4th Year,M.Sc,2025-02-15,Pending,Yes,2
+320,AR/VR,S0046,Cambridge,3rd Year,M.Sc,2025-02-16,Pending,No,48
+881,AI/ML,S0047,IIT Delhi,4th Year,B.Tech,2025-02-17,Rejected,No,39
+444,AI/ML,S0048,Stanford,2nd Year,M.Sc,2025-02-18,Pending,No,42
+204,Cybersecurity,S0049,NTU,3rd Year,M.Sc,2025-02-19,Rejected,No,25
+194,Cloud Computing,S0050,Stanford,1st Year,M.Sc,2025-02-20,Pending,Yes,36
+489,Cybersecurity,S0051,NUS,2nd Year,MBA,2025-02-21,Rejected,Yes,33
+199,Web Development,S0052,Harvard,1st Year,B.Sc,2025-02-22,Pending,No,13
+467,Cloud Computing,S0053,IIT Bombay,1st Year,B.Tech,2025-02-23,Accepted,Yes,11
+967,Cloud Computing,S0054,Stanford,2nd Year,M.Tech,2025-02-24,Accepted,Yes,30
+452,UI/UX Design,S0055,NTU,1st Year,M.Sc,2025-02-25,Pending,Yes,24
+718,Data Science,S0056,NTU,3rd Year,B.Tech,2025-02-26,Pending,Yes,47
+370,AI/ML,S0057,MIT,3rd Year,MBA,2025-02-27,Rejected,No,16
+926,IoT,S0058,IIT Bombay,2nd Year,MBA,2025-02-28,Accepted,No,12
+144,Blockchain,S0059,Harvard,4th Year,M.Sc,2025-03-01,Rejected,No,31
+847,Web Development,S0060,Berkeley,1st Year,B.Sc,2025-03-02,Pending,Yes,46
+570,Web Development,S0061,Oxford,2nd Year,M.Tech,2025-03-03,Accepted,Yes,13
+649,Blockchain,S0062,Oxford,1st Year,B.Sc,2025-03-04,Pending,No,21
+227,Embedded Systems,S0063,Cambridge,2nd Year,M.Tech,2025-03-05,Rejected,Yes,9
+487,Cybersecurity,S0064,IIT Bombay,1st Year,M.Tech,2025-03-06,Pending,Yes,19
+180,Embedded Systems,S0065,Cambridge,4th Year,B.Tech,2025-03-07,Rejected,Yes,5
+665,Embedded Systems,S0066,Cambridge,2nd Year,M.Tech,2025-03-08,Accepted,Yes,2
+400,UI/UX Design,S0067,IIT Delhi,3rd Year,M.Tech,2025-03-09,Accepted,Yes,14
+949,Data Science,S0068,Oxford,4th Year,MBA,2025-03-10,Rejected,Yes,37
+743,Blockchain,S0069,Berkeley,3rd Year,B.Sc,2025-03-11,Accepted,No,30
+733,AI/ML,S0070,Stanford,4th Year,B.Sc,2025-03-12,Accepted,Yes,30
+982,Blockchain,S0071,Berkeley,3rd Year,MBA,2025-03-13,Accepted,Yes,16
+470,AI/ML,S0072,Harvard,4th Year,M.Sc,2025-03-14,Pending,Yes,44
+691,IoT,S0073,NTU,1st Year,B.Tech,2025-03-15,Rejected,No,39
+296,Data Science,S0074,Stanford,3rd Year,B.Sc,2025-03-16,Pending,Yes,29
+821,UI/UX Design,S0075,Harvard,1st Year,M.Sc,2025-03-17,Rejected,Yes,16
+171,AR/VR,S0076,Stanford,2nd Year,MBA,2025-03-18,Pending,Yes,12
+146,Blockchain,S0077,Harvard,1st Year,B.Tech,2025-03-19,Rejected,Yes,30
+777,AR/VR,S0078,IIT Delhi,3rd Year,MBA,2025-03-20,Pending,No,33
+333,Blockchain,S0079,IIT Delhi,4th Year,M.Sc,2025-03-21,Rejected,No,42
+891,Blockchain,S0080,Cambridge,1st Year,B.Sc,2025-03-22,Accepted,No,8
+396,Cloud Computing,S0081,IIT Bombay,4th Year,B.Sc,2025-03-23,Accepted,Yes,39
+181,Data Science,S0082,Stanford,2nd Year,M.Tech,2025-03-24,Rejected,Yes,22
+975,Blockchain,S0083,NUS,2nd Year,MBA,2025-03-25,Accepted,No,11
+338,AI/ML,S0084,Cambridge,3rd Year,M.Tech,2025-03-26,Pending,No,16
+987,UI/UX Design,S0085,Berkeley,4th Year,MBA,2025-03-27,Accepted,No,30
+203,Web Development,S0086,IIT Delhi,1st Year,B.Sc,2025-03-28,Accepted,No,47
+489,AR/VR,S0087,Oxford,1st Year,MBA,2025-03-29,Rejected,No,5
+384,IoT,S0088,IIT Delhi,2nd Year,MBA,2025-03-30,Accepted,No,1
+564,UI/UX Design,S0089,Oxford,4th Year,B.Tech,2025-03-31,Pending,Yes,48
+750,Data Science,S0090,Stanford,4th Year,M.Sc,2025-04-01,Accepted,No,3
+954,Blockchain,S0091,Stanford,2nd Year,B.Tech,2025-04-02,Rejected,Yes,44
+473,Data Science,S0092,Harvard,1st Year,B.Tech,2025-04-03,Pending,Yes,44
+266,Cybersecurity,S0093,Oxford,2nd Year,M.Tech,2025-04-04,Accepted,No,27
+479,Blockchain,S0094,NTU,4th Year,MBA,2025-04-05,Accepted,No,34
+463,AR/VR,S0095,MIT,1st Year,M.Sc,2025-04-06,Accepted,Yes,31
+314,Blockchain,S0096,Berkeley,2nd Year,B.Sc,2025-04-07,Accepted,No,25
+786,Embedded Systems,S0097,Cambridge,4th Year,MBA,2025-04-08,Pending,Yes,5
+373,Data Science,S0098,Harvard,4th Year,MBA,2025-04-09,Accepted,Yes,27
+818,Blockchain,S0099,Stanford,3rd Year,B.Tech,2025-04-10,Accepted,No,17
+799,Cloud Computing,S0100,Berkeley,3rd Year,M.Sc,2025-04-11,Rejected,No,46
+763,UI/UX Design,S0101,Cambridge,2nd Year,M.Tech,2025-04-12,Rejected,No,35
+173,Cybersecurity,S0102,IIT Bombay,1st Year,B.Sc,2025-04-13,Rejected,No,8
+723,UI/UX Design,S0103,NUS,1st Year,B.Sc,2025-04-14,Pending,No,46
+750,Web Development,S0104,MIT,3rd Year,B.Tech,2025-04-15,Pending,No,50
+275,Data Science,S0105,Oxford,4th Year,B.Sc,2025-04-16,Accepted,Yes,39
+646,Embedded Systems,S0106,Oxford,3rd Year,MBA,2025-04-17,Pending,No,42
+846,Data Science,S0107,Harvard,2nd Year,MBA,2025-04-18,Accepted,No,35
+350,Embedded Systems,S0108,MIT,3rd Year,B.Tech,2025-04-19,Accepted,Yes,46
+267,Embedded Systems,S0109,IIT Bombay,1st Year,M.Tech,2025-04-20,Rejected,No,2
+573,Cybersecurity,S0110,IIT Delhi,2nd Year,MBA,2025-04-21,Accepted,No,29
+488,UI/UX Design,S0111,NUS,1st Year,M.Tech,2025-04-22,Rejected,Yes,31
+376,UI/UX Design,S0112,NUS,2nd Year,M.Tech,2025-04-23,Accepted,No,47
+755,Web Development,S0113,Berkeley,4th Year,B.Sc,2025-04-24,Rejected,Yes,4
+804,Cybersecurity,S0114,Stanford,3rd Year,MBA,2025-04-25,Accepted,Yes,19
+670,Data Science,S0115,IIT Delhi,1st Year,B.Sc,2025-04-26,Rejected,No,26
+324,Web Development,S0116,Stanford,2nd Year,B.Tech,2025-04-27,Accepted,No,47
+801,Cloud Computing,S0117,Harvard,3rd Year,MBA,2025-04-28,Pending,No,50
+432,Cybersecurity,S0118,Stanford,1st Year,B.Tech,2025-04-29,Accepted,No,3
+963,Web Development,S0119,MIT,4th Year,B.Sc,2025-04-30,Rejected,No,24
+886,AR/VR,S0120,MIT,2nd Year,B.Sc,2025-05-01,Rejected,Yes,26
+894,Web Development,S0121,Berkeley,1st Year,B.Sc,2025-05-02,Pending,Yes,46
+157,Data Science,S0122,Harvard,1st Year,MBA,2025-05-03,Accepted,Yes,33
+334,Web Development,S0123,Berkeley,4th Year,B.Sc,2025-05-04,Accepted,No,41
+941,IoT,S0124,IIT Bombay,2nd Year,B.Tech,2025-05-05,Accepted,No,42
+132,IoT,S0125,Cambridge,3rd Year,M.Tech,2025-05-06,Rejected,Yes,29
+924,AR/VR,S0126,Stanford,1st Year,MBA,2025-05-07,Accepted,No,28
+423,AR/VR,S0127,NTU,2nd Year,M.Sc,2025-05-08,Pending,Yes,8
+510,IoT,S0128,NTU,2nd Year,B.Tech,2025-05-09,Pending,Yes,7
+374,AR/VR,S0129,Oxford,4th Year,MBA,2025-05-10,Accepted,Yes,10
+167,AR/VR,S0130,Stanford,1st Year,B.Sc,2025-05-11,Accepted,No,17
+316,UI/UX Design,S0131,MIT,3rd Year,M.Sc,2025-05-12,Accepted,No,49
+680,UI/UX Design,S0132,Stanford,1st Year,M.Sc,2025-05-13,Pending,Yes,38
+997,Web Development,S0133,Berkeley,1st Year,MBA,2025-05-14,Accepted,No,49
+835,IoT,S0134,IIT Delhi,3rd Year,B.Sc,2025-05-15,Rejected,Yes,8
+422,Data Science,S0135,Harvard,2nd Year,B.Tech,2025-05-16,Pending,Yes,47
+317,IoT,S0136,Stanford,1st Year,B.Tech,2025-05-17,Pending,No,11
+771,IoT,S0137,Cambridge,2nd Year,M.Tech,2025-05-18,Rejected,Yes,24
+611,Cloud Computing,S0138,Stanford,4th Year,B.Sc,2025-05-19,Rejected,No,27
+505,Cloud Computing,S0139,MIT,2nd Year,M.Tech,2025-05-20,Rejected,Yes,43
+758,AR/VR,S0140,IIT Delhi,3rd Year,B.Tech,2025-05-21,Rejected,No,22
+569,AI/ML,S0141,MIT,3rd Year,B.Sc,2025-05-22,Pending,No,10
+246,UI/UX Design,S0142,Harvard,4th Year,M.Tech,2025-05-23,Rejected,Yes,16
+371,Embedded Systems,S0143,NTU,2nd Year,MBA,2025-05-24,Rejected,Yes,31
+242,Data Science,S0144,IIT Bombay,1st Year,MBA,2025-05-25,Rejected,No,14
+352,Cloud Computing,S0145,IIT Bombay,4th Year,M.Sc,2025-05-26,Pending,No,17
+862,IoT,S0146,IIT Delhi,3rd Year,B.Tech,2025-05-27,Rejected,Yes,7
+674,IoT,S0147,MIT,2nd Year,B.Tech,2025-05-28,Rejected,Yes,22
+651,AI/ML,S0148,IIT Bombay,3rd Year,M.Tech,2025-05-29,Accepted,Yes,42
+369,AI/ML,S0149,IIT Bombay,1st Year,M.Tech,2025-05-30,Rejected,No,45
+864,UI/UX Design,S0150,Harvard,4th Year,M.Sc,2025-05-31,Pending,Yes,5
+698,Cloud Computing,S0151,Cambridge,4th Year,M.Tech,2025-06-01,Rejected,No,30
+538,Data Science,S0152,Berkeley,3rd Year,M.Sc,2025-06-02,Rejected,No,46
+697,Data Science,S0153,Harvard,4th Year,B.Sc,2025-06-03,Pending,No,32
+508,AR/VR,S0154,Oxford,2nd Year,MBA,2025-06-04,Accepted,No,49
+470,AR/VR,S0155,Oxford,2nd Year,B.Sc,2025-06-05,Rejected,Yes,16
+324,Embedded Systems,S0156,IIT Delhi,3rd Year,B.Sc,2025-06-06,Rejected,Yes,49
+241,Blockchain,S0157,Harvard,3rd Year,M.Tech,2025-06-07,Accepted,Yes,17
+621,IoT,S0158,MIT,4th Year,MBA,2025-06-08,Accepted,No,22
+605,AR/VR,S0159,NTU,3rd Year,M.Tech,2025-06-09,Rejected,No,19
+193,Embedded Systems,S0160,NTU,2nd Year,M.Sc,2025-06-10,Pending,Yes,45
+873,AI/ML,S0161,NTU,1st Year,MBA,2025-06-11,Rejected,No,29
+148,IoT,S0162,Berkeley,2nd Year,MBA,2025-06-12,Pending,No,22
+981,AR/VR,S0163,Oxford,4th Year,M.Tech,2025-06-13,Accepted,Yes,29
+212,Cybersecurity,S0164,IIT Delhi,3rd Year,B.Tech,2025-06-14,Accepted,Yes,45
+256,UI/UX Design,S0165,IIT Bombay,3rd Year,B.Sc,2025-06-15,Pending,No,17
+742,AR/VR,S0166,NUS,3rd Year,MBA,2025-06-16,Accepted,Yes,37
+263,IoT,S0167,IIT Delhi,4th Year,M.Tech,2025-06-17,Pending,No,18
+911,Embedded Systems,S0168,MIT,1st Year,B.Sc,2025-06-18,Rejected,No,39
+796,Web Development,S0169,Stanford,4th Year,B.Sc,2025-06-19,Pending,Yes,3
+532,AI/ML,S0170,Oxford,2nd Year,M.Sc,2025-06-20,Accepted,Yes,49
+710,IoT,S0171,IIT Bombay,1st Year,M.Tech,2025-06-21,Rejected,No,9
+165,Data Science,S0172,Harvard,3rd Year,B.Tech,2025-06-22,Rejected,Yes,10
+494,UI/UX Design,S0173,IIT Bombay,2nd Year,B.Tech,2025-06-23,Pending,Yes,34
+490,Data Science,S0174,Berkeley,3rd Year,M.Sc,2025-06-24,Pending,No,19
+710,Embedded Systems,S0175,NUS,1st Year,M.Sc,2025-06-25,Pending,No,2
+579,Web Development,S0176,Berkeley,4th Year,M.Tech,2025-06-26,Rejected,Yes,15
+641,AI/ML,S0177,NUS,2nd Year,B.Tech,2025-06-27,Pending,No,24
+357,Cybersecurity,S0178,MIT,4th Year,B.Sc,2025-06-28,Rejected,Yes,37
+666,IoT,S0179,IIT Bombay,2nd Year,M.Tech,2025-06-29,Pending,Yes,24
+981,IoT,S0180,Cambridge,3rd Year,MBA,2025-06-30,Accepted,No,46
+111,Embedded Systems,S0181,IIT Delhi,3rd Year,M.Tech,2025-07-01,Accepted,Yes,19
+796,Embedded Systems,S0182,NUS,4th Year,B.Tech,2025-07-02,Pending,Yes,20
+838,AR/VR,S0183,IIT Delhi,3rd Year,B.Sc,2025-07-03,Rejected,No,46
+217,Web Development,S0184,Cambridge,1st Year,M.Sc,2025-07-04,Accepted,Yes,11
+798,UI/UX Design,S0185,NTU,1st Year,B.Sc,2025-07-05,Pending,No,37
+649,UI/UX Design,S0186,NUS,1st Year,M.Sc,2025-07-06,Rejected,No,41
+868,Cloud Computing,S0187,Cambridge,1st Year,MBA,2025-07-07,Accepted,No,20
+373,Blockchain,S0188,IIT Bombay,2nd Year,M.Tech,2025-07-08,Pending,No,31
+887,Blockchain,S0189,Oxford,2nd Year,B.Tech,2025-07-09,Rejected,No,46
+756,UI/UX Design,S0190,Harvard,1st Year,MBA,2025-07-10,Pending,No,29
+448,AR/VR,S0191,MIT,2nd Year,M.Tech,2025-07-11,Rejected,Yes,44
+214,AI/ML,S0192,Cambridge,1st Year,M.Sc,2025-07-12,Accepted,No,19
+400,UI/UX Design,S0193,NTU,4th Year,B.Tech,2025-07-13,Pending,No,10
+545,Data Science,S0194,Berkeley,2nd Year,B.Tech,2025-07-14,Rejected,Yes,48
+261,UI/UX Design,S0195,MIT,1st Year,M.Sc,2025-07-15,Rejected,No,45
+564,Data Science,S0196,Oxford,1st Year,B.Sc,2025-07-16,Pending,No,9
+103,Embedded Systems,S0197,MIT,4th Year,B.Sc,2025-07-17,Pending,No,10
+839,Blockchain,S0198,IIT Delhi,4th Year,B.Sc,2025-07-18,Accepted,No,39
+996,Cloud Computing,S0199,NUS,3rd Year,B.Tech,2025-07-19,Rejected,Yes,19
+836,Cloud Computing,S0200,Cambridge,1st Year,M.Tech,2025-07-20,Rejected,No,25
+369,AR/VR,S0201,NTU,3rd Year,M.Tech,2025-07-21,Rejected,Yes,17
+612,Web Development,S0202,Berkeley,2nd Year,M.Tech,2025-07-22,Pending,Yes,41
+880,UI/UX Design,S0203,Harvard,1st Year,MBA,2025-07-23,Pending,Yes,15
+282,Data Science,S0204,Stanford,1st Year,MBA,2025-07-24,Accepted,Yes,2
+619,AR/VR,S0205,Berkeley,2nd Year,B.Sc,2025-07-25,Pending,Yes,14
+208,Web Development,S0206,Berkeley,4th Year,B.Sc,2025-07-26,Rejected,Yes,38
+991,UI/UX Design,S0207,Oxford,1st Year,M.Tech,2025-07-27,Rejected,Yes,20
+740,Cloud Computing,S0208,NUS,4th Year,B.Sc,2025-07-28,Pending,No,10
+405,Blockchain,S0209,MIT,1st Year,M.Tech,2025-07-29,Accepted,No,38
+961,Web Development,S0210,Berkeley,3rd Year,M.Sc,2025-07-30,Pending,Yes,1
+754,AR/VR,S0211,NTU,4th Year,M.Tech,2025-07-31,Accepted,Yes,17
+619,Data Science,S0212,IIT Bombay,3rd Year,MBA,2025-08-01,Pending,Yes,24
+723,Cloud Computing,S0213,Cambridge,1st Year,M.Tech,2025-08-02,Pending,Yes,47
+303,Embedded Systems,S0214,Harvard,3rd Year,B.Sc,2025-08-03,Pending,No,33
+256,Blockchain,S0215,Harvard,1st Year,M.Tech,2025-08-04,Pending,Yes,48
+482,UI/UX Design,S0216,Berkeley,1st Year,B.Sc,2025-08-05,Accepted,Yes,34
+880,Web Development,S0217,NTU,3rd Year,M.Tech,2025-08-06,Accepted,No,26
+265,Embedded Systems,S0218,Cambridge,1st Year,B.Tech,2025-08-07,Rejected,Yes,31
+652,Data Science,S0219,Cambridge,2nd Year,MBA,2025-08-08,Accepted,Yes,40
+897,Blockchain,S0220,NTU,1st Year,MBA,2025-08-09,Rejected,Yes,11
+643,Embedded Systems,S0221,MIT,1st Year,M.Tech,2025-08-10,Pending,No,23
+100,UI/UX Design,S0222,Cambridge,2nd Year,M.Sc,2025-08-11,Pending,Yes,42
+713,AI/ML,S0223,NTU,4th Year,B.Sc,2025-08-12,Rejected,No,10
+431,UI/UX Design,S0224,NTU,2nd Year,M.Tech,2025-08-13,Accepted,No,38
+600,Cloud Computing,S0225,Harvard,2nd Year,MBA,2025-08-14,Rejected,No,33
+119,Web Development,S0226,NTU,2nd Year,M.Sc,2025-08-15,Accepted,No,21
+214,Cybersecurity,S0227,Berkeley,2nd Year,B.Sc,2025-08-16,Rejected,Yes,34
+471,UI/UX Design,S0228,IIT Delhi,4th Year,B.Tech,2025-08-17,Pending,Yes,24
+999,IoT,S0229,NUS,1st Year,B.Tech,2025-08-18,Pending,No,25
+951,Cybersecurity,S0230,Oxford,3rd Year,B.Sc,2025-08-19,Accepted,Yes,32
+926,Cybersecurity,S0231,Harvard,4th Year,M.Tech,2025-08-20,Accepted,Yes,42
+414,Web Development,S0232,IIT Delhi,4th Year,MBA,2025-08-21,Accepted,No,11
+345,Web Development,S0233,MIT,1st Year,B.Sc,2025-08-22,Accepted,Yes,34
+159,Data Science,S0234,Stanford,2nd Year,M.Tech,2025-08-23,Pending,No,31
+346,Cloud Computing,S0235,MIT,2nd Year,B.Sc,2025-08-24,Pending,No,12
+999,Data Science,S0236,Berkeley,4th Year,B.Sc,2025-08-25,Accepted,Yes,31
+680,Embedded Systems,S0237,NTU,3rd Year,M.Sc,2025-08-26,Accepted,Yes,25
+180,Embedded Systems,S0238,Berkeley,2nd Year,MBA,2025-08-27,Rejected,No,1
+187,Embedded Systems,S0239,MIT,4th Year,B.Tech,2025-08-28,Pending,No,43
+849,AI/ML,S0240,NUS,3rd Year,B.Tech,2025-08-29,Accepted,No,5
+597,UI/UX Design,S0241,IIT Delhi,3rd Year,M.Sc,2025-08-30,Accepted,No,22
+935,AR/VR,S0242,MIT,3rd Year,B.Tech,2025-08-31,Rejected,No,15
+170,Web Development,S0243,Cambridge,3rd Year,B.Tech,2025-09-01,Rejected,Yes,20
+878,AR/VR,S0244,NTU,4th Year,MBA,2025-09-02,Rejected,Yes,14
+645,Blockchain,S0245,Berkeley,4th Year,M.Tech,2025-09-03,Accepted,No,15
+884,Web Development,S0246,Harvard,3rd Year,B.Sc,2025-09-04,Pending,No,10
+228,Web Development,S0247,Cambridge,2nd Year,MBA,2025-09-05,Rejected,Yes,18
+231,Web Development,S0248,Harvard,2nd Year,M.Sc,2025-09-06,Pending,No,39
+775,AR/VR,S0249,Cambridge,4th Year,M.Sc,2025-09-07,Rejected,Yes,50
+586,Web Development,S0250,MIT,3rd Year,B.Tech,2025-09-08,Pending,Yes,47
+662,IoT,S0251,MIT,3rd Year,B.Tech,2025-09-09,Accepted,Yes,8
+269,AI/ML,S0252,Harvard,4th Year,MBA,2025-09-10,Pending,Yes,42
+371,Blockchain,S0253,NTU,4th Year,M.Sc,2025-09-11,Accepted,No,13
+640,UI/UX Design,S0254,Harvard,4th Year,M.Sc,2025-09-12,Pending,Yes,23
+993,Cybersecurity,S0255,Stanford,1st Year,B.Sc,2025-09-13,Pending,Yes,32
+721,IoT,S0256,NUS,1st Year,MBA,2025-09-14,Pending,Yes,30
+533,AR/VR,S0257,Cambridge,3rd Year,B.Sc,2025-09-15,Rejected,Yes,37
+316,Cloud Computing,S0258,Stanford,1st Year,MBA,2025-09-16,Accepted,No,41
+652,IoT,S0259,Cambridge,2nd Year,M.Tech,2025-09-17,Pending,No,1
+873,Cybersecurity,S0260,IIT Bombay,3rd Year,M.Sc,2025-09-18,Rejected,Yes,48
+847,Embedded Systems,S0261,NTU,1st Year,B.Tech,2025-09-19,Accepted,No,34
+806,Cybersecurity,S0262,Stanford,3rd Year,M.Sc,2025-09-20,Pending,Yes,15
+305,Cloud Computing,S0263,Cambridge,2nd Year,M.Tech,2025-09-21,Pending,No,48
+830,IoT,S0264,Oxford,2nd Year,MBA,2025-09-22,Accepted,Yes,13
+419,Cybersecurity,S0265,Cambridge,3rd Year,M.Tech,2025-09-23,Pending,No,24
+508,UI/UX Design,S0266,Harvard,1st Year,M.Sc,2025-09-24,Rejected,No,43
+787,AR/VR,S0267,Harvard,3rd Year,B.Sc,2025-09-25,Rejected,No,3
+765,IoT,S0268,IIT Bombay,2nd Year,MBA,2025-09-26,Pending,Yes,26
+482,IoT,S0269,IIT Delhi,1st Year,B.Sc,2025-09-27,Pending,Yes,41
+548,Cloud Computing,S0270,Cambridge,1st Year,M.Tech,2025-09-28,Pending,Yes,7
+629,Blockchain,S0271,Harvard,4th Year,B.Tech,2025-09-29,Pending,Yes,22
+562,Embedded Systems,S0272,NUS,3rd Year,MBA,2025-09-30,Rejected,No,33
+223,Embedded Systems,S0273,NTU,2nd Year,M.Sc,2025-10-01,Pending,No,5
+353,Blockchain,S0274,Cambridge,2nd Year,B.Sc,2025-10-02,Pending,No,18
+330,Web Development,S0275,Berkeley,3rd Year,M.Tech,2025-10-03,Pending,Yes,36
+165,Cybersecurity,S0276,NTU,3rd Year,MBA,2025-10-04,Rejected,No,35
+446,AR/VR,S0277,Harvard,2nd Year,B.Tech,2025-10-05,Accepted,Yes,48
+121,Web Development,S0278,IIT Bombay,2nd Year,MBA,2025-10-06,Accepted,Yes,35
+702,Cloud Computing,S0279,Oxford,3rd Year,B.Tech,2025-10-07,Rejected,No,6
+667,AI/ML,S0280,Oxford,3rd Year,M.Tech,2025-10-08,Accepted,No,4
+335,IoT,S0281,Harvard,1st Year,B.Sc,2025-10-09,Rejected,Yes,29
+702,UI/UX Design,S0282,Harvard,4th Year,MBA,2025-10-10,Accepted,No,37
+325,Embedded Systems,S0283,MIT,2nd Year,MBA,2025-10-11,Accepted,Yes,34
+107,Data Science,S0284,NTU,1st Year,B.Sc,2025-10-12,Accepted,Yes,16
+172,Embedded Systems,S0285,IIT Bombay,3rd Year,MBA,2025-10-13,Rejected,No,16
+824,Data Science,S0286,NTU,4th Year,MBA,2025-10-14,Pending,Yes,17
+746,Cloud Computing,S0287,MIT,2nd Year,M.Sc,2025-10-15,Pending,Yes,48
+160,Data Science,S0288,Harvard,4th Year,MBA,2025-10-16,Accepted,Yes,12
+334,Web Development,S0289,NTU,1st Year,M.Sc,2025-10-17,Pending,Yes,45
+169,Cloud Computing,S0290,Cambridge,3rd Year,MBA,2025-10-18,Accepted,No,42
+132,IoT,S0291,NTU,1st Year,B.Sc,2025-10-19,Pending,Yes,16
+980,Embedded Systems,S0292,Berkeley,4th Year,M.Tech,2025-10-20,Rejected,No,15
+438,Web Development,S0293,NTU,1st Year,MBA,2025-10-21,Accepted,Yes,45
+172,Blockchain,S0294,Stanford,1st Year,B.Sc,2025-10-22,Rejected,No,46
+626,Data Science,S0295,IIT Delhi,3rd Year,M.Tech,2025-10-23,Rejected,No,30
+343,Cybersecurity,S0296,Harvard,3rd Year,M.Sc,2025-10-24,Pending,No,12
+385,IoT,S0297,Cambridge,4th Year,B.Sc,2025-10-25,Pending,No,3
+785,UI/UX Design,S0298,Stanford,4th Year,B.Tech,2025-10-26,Accepted,Yes,39
+597,AI/ML,S0299,Berkeley,1st Year,M.Tech,2025-10-27,Rejected,Yes,18
+319,Blockchain,S0300,Cambridge,2nd Year,M.Tech,2025-10-28,Accepted,No,36
+652,AI/ML,S0301,Cambridge,1st Year,B.Tech,2025-10-29,Pending,No,18
+235,Blockchain,S0302,Harvard,4th Year,M.Tech,2025-10-30,Pending,Yes,6
+840,Embedded Systems,S0303,Stanford,1st Year,M.Tech,2025-10-31,Accepted,Yes,48
+684,UI/UX Design,S0304,Cambridge,3rd Year,B.Tech,2025-11-01,Rejected,No,13
+690,Cybersecurity,S0305,IIT Delhi,1st Year,B.Sc,2025-11-02,Rejected,No,47
+584,Blockchain,S0306,MIT,3rd Year,MBA,2025-11-03,Rejected,No,5
+348,Data Science,S0307,Oxford,2nd Year,M.Tech,2025-11-04,Rejected,Yes,9
+903,UI/UX Design,S0308,Berkeley,3rd Year,B.Sc,2025-11-05,Pending,No,34
+584,Cybersecurity,S0309,Berkeley,2nd Year,B.Sc,2025-11-06,Accepted,No,20
+926,AI/ML,S0310,Stanford,2nd Year,B.Tech,2025-11-07,Pending,No,4
+516,UI/UX Design,S0311,Cambridge,1st Year,B.Sc,2025-11-08,Pending,Yes,14
+294,Data Science,S0312,Oxford,4th Year,B.Tech,2025-11-09,Pending,Yes,15
+196,UI/UX Design,S0313,Stanford,4th Year,B.Sc,2025-11-10,Pending,No,16
+199,Web Development,S0314,MIT,1st Year,MBA,2025-11-11,Accepted,No,38
+774,Web Development,S0315,MIT,2nd Year,M.Sc,2025-11-12,Accepted,Yes,49
+541,AI/ML,S0316,IIT Bombay,4th Year,B.Sc,2025-11-13,Rejected,No,38
+462,Cloud Computing,S0317,IIT Delhi,3rd Year,B.Sc,2025-11-14,Accepted,Yes,31
+533,IoT,S0318,IIT Bombay,4th Year,B.Sc,2025-11-15,Pending,No,30
+520,Web Development,S0319,Harvard,2nd Year,B.Tech,2025-11-16,Rejected,Yes,7
+578,IoT,S0320,IIT Bombay,2nd Year,M.Tech,2025-11-17,Rejected,No,35
+984,IoT,S0321,IIT Delhi,3rd Year,B.Tech,2025-11-18,Accepted,No,4
+846,AR/VR,S0322,IIT Bombay,1st Year,MBA,2025-11-19,Rejected,No,21
+155,AI/ML,S0323,Cambridge,4th Year,B.Tech,2025-11-20,Accepted,Yes,41
+789,Data Science,S0324,NUS,1st Year,M.Tech,2025-11-21,Rejected,Yes,5
+769,AI/ML,S0325,IIT Bombay,4th Year,MBA,2025-11-22,Pending,Yes,13
+761,Cloud Computing,S0326,Stanford,3rd Year,M.Tech,2025-11-23,Rejected,Yes,31
+200,Cybersecurity,S0327,IIT Delhi,1st Year,M.Tech,2025-11-24,Accepted,Yes,8
+162,Web Development,S0328,NTU,4th Year,M.Sc,2025-11-25,Pending,Yes,29
+512,Embedded Systems,S0329,Berkeley,4th Year,MBA,2025-11-26,Rejected,Yes,6
+845,AR/VR,S0330,Harvard,2nd Year,M.Sc,2025-11-27,Accepted,Yes,31
+447,Embedded Systems,S0331,IIT Delhi,2nd Year,M.Sc,2025-11-28,Pending,No,13
+919,Blockchain,S0332,Stanford,4th Year,M.Tech,2025-11-29,Pending,Yes,7
+982,Data Science,S0333,MIT,2nd Year,M.Sc,2025-11-30,Pending,Yes,35
+211,Cloud Computing,S0334,Oxford,4th Year,B.Tech,2025-12-01,Accepted,Yes,38
+354,Cybersecurity,S0335,MIT,4th Year,M.Sc,2025-12-02,Pending,No,14
+296,Cloud Computing,S0336,Cambridge,2nd Year,M.Sc,2025-12-03,Rejected,Yes,39
+294,Data Science,S0337,Oxford,2nd Year,M.Tech,2025-12-04,Rejected,No,32
+649,AI/ML,S0338,Stanford,2nd Year,B.Sc,2025-12-05,Pending,No,20
+559,Cybersecurity,S0339,Stanford,1st Year,B.Tech,2025-12-06,Pending,No,37
+243,Blockchain,S0340,Cambridge,3rd Year,M.Tech,2025-12-07,Accepted,Yes,1
+532,AR/VR,S0341,Harvard,4th Year,B.Sc,2025-12-08,Rejected,Yes,38
+287,IoT,S0342,IIT Bombay,3rd Year,B.Tech,2025-12-09,Pending,No,28
+385,Data Science,S0343,Harvard,1st Year,MBA,2025-12-10,Pending,No,8
+573,Data Science,S0344,Stanford,1st Year,B.Tech,2025-12-11,Rejected,Yes,47
+355,IoT,S0345,NUS,4th Year,MBA,2025-12-12,Pending,Yes,29
+995,AR/VR,S0346,Stanford,4th Year,B.Tech,2025-12-13,Accepted,Yes,50
+177,Embedded Systems,S0347,Cambridge,3rd Year,B.Sc,2025-12-14,Rejected,No,42
+553,AI/ML,S0348,NTU,3rd Year,MBA,2025-12-15,Rejected,No,13
+927,Embedded Systems,S0349,NTU,2nd Year,M.Sc,2025-12-16,Pending,No,38
+982,AR/VR,S0350,IIT Delhi,3rd Year,B.Tech,2025-12-17,Rejected,Yes,41
+976,Cybersecurity,S0351,MIT,3rd Year,MBA,2025-12-18,Accepted,Yes,40
+663,Web Development,S0352,IIT Bombay,1st Year,M.Tech,2025-12-19,Rejected,Yes,49
+200,Cloud Computing,S0353,Harvard,3rd Year,B.Tech,2025-12-20,Accepted,No,30
+151,Blockchain,S0354,NTU,2nd Year,B.Tech,2025-12-21,Pending,No,1
+767,AI/ML,S0355,IIT Bombay,3rd Year,B.Sc,2025-12-22,Accepted,Yes,17
+653,AR/VR,S0356,Harvard,4th Year,B.Sc,2025-12-23,Pending,Yes,49
+956,UI/UX Design,S0357,MIT,2nd Year,B.Sc,2025-12-24,Accepted,No,27
+115,Cybersecurity,S0358,Stanford,4th Year,MBA,2025-12-25,Pending,Yes,39
+195,AR/VR,S0359,Cambridge,1st Year,M.Sc,2025-12-26,Pending,Yes,18
+871,Blockchain,S0360,Berkeley,2nd Year,B.Tech,2025-12-27,Accepted,Yes,32
+969,Web Development,S0361,Berkeley,2nd Year,MBA,2025-12-28,Accepted,No,41
+342,Data Science,S0362,IIT Bombay,3rd Year,B.Tech,2025-12-29,Rejected,No,12
+270,Embedded Systems,S0363,NUS,2nd Year,M.Sc,2025-12-30,Pending,Yes,22
+516,UI/UX Design,S0364,NUS,1st Year,B.Sc,2025-12-31,Rejected,Yes,33
+597,Data Science,S0365,Oxford,1st Year,MBA,2026-01-01,Rejected,No,31
+592,Embedded Systems,S0366,Oxford,1st Year,M.Sc,2026-01-02,Pending,No,33
+318,Embedded Systems,S0367,Oxford,2nd Year,M.Tech,2026-01-03,Accepted,No,19
+985,Embedded Systems,S0368,Berkeley,2nd Year,M.Tech,2026-01-04,Accepted,Yes,42
+510,Embedded Systems,S0369,Stanford,3rd Year,B.Tech,2026-01-05,Pending,Yes,20
+160,Embedded Systems,S0370,MIT,1st Year,MBA,2026-01-06,Rejected,No,17
+268,AI/ML,S0371,IIT Bombay,3rd Year,MBA,2026-01-07,Rejected,Yes,35
+488,Blockchain,S0372,NTU,1st Year,B.Tech,2026-01-08,Rejected,Yes,16
+102,IoT,S0373,NUS,3rd Year,B.Tech,2026-01-09,Pending,Yes,22
+499,AI/ML,S0374,IIT Delhi,4th Year,M.Sc,2026-01-10,Rejected,No,18
+371,Blockchain,S0375,Harvard,4th Year,M.Sc,2026-01-11,Rejected,No,44
+902,UI/UX Design,S0376,MIT,1st Year,B.Sc,2026-01-12,Rejected,Yes,36
+903,Cloud Computing,S0377,Cambridge,3rd Year,B.Tech,2026-01-13,Rejected,No,33
+565,AI/ML,S0378,MIT,2nd Year,B.Sc,2026-01-14,Accepted,Yes,20
+392,UI/UX Design,S0379,IIT Bombay,2nd Year,MBA,2026-01-15,Pending,No,41
+533,Data Science,S0380,Stanford,2nd Year,M.Tech,2026-01-16,Pending,Yes,29
+813,UI/UX Design,S0381,Oxford,3rd Year,M.Tech,2026-01-17,Rejected,Yes,8
+848,Cybersecurity,S0382,NTU,4th Year,B.Sc,2026-01-18,Rejected,Yes,49
+902,Data Science,S0383,IIT Delhi,2nd Year,B.Tech,2026-01-19,Pending,No,12
+669,AR/VR,S0384,Berkeley,1st Year,B.Tech,2026-01-20,Accepted,Yes,32
+777,UI/UX Design,S0385,Stanford,4th Year,M.Tech,2026-01-21,Pending,Yes,1
+835,Web Development,S0386,MIT,1st Year,M.Tech,2026-01-22,Pending,Yes,21
+598,AI/ML,S0387,Berkeley,3rd Year,B.Sc,2026-01-23,Rejected,Yes,33
+258,UI/UX Design,S0388,Harvard,2nd Year,B.Sc,2026-01-24,Accepted,Yes,31
+294,Embedded Systems,S0389,Oxford,1st Year,MBA,2026-01-25,Accepted,No,32
+403,UI/UX Design,S0390,Stanford,3rd Year,M.Tech,2026-01-26,Rejected,No,11
+322,Web Development,S0391,IIT Delhi,2nd Year,B.Tech,2026-01-27,Pending,No,12
+159,IoT,S0392,Stanford,3rd Year,MBA,2026-01-28,Accepted,No,5
+693,IoT,S0393,Oxford,1st Year,B.Sc,2026-01-29,Pending,No,49
+853,Web Development,S0394,IIT Bombay,4th Year,B.Sc,2026-01-30,Rejected,No,28
+655,Web Development,S0395,IIT Delhi,1st Year,MBA,2026-01-31,Rejected,No,44
+162,Data Science,S0396,IIT Delhi,1st Year,M.Sc,2026-02-01,Pending,No,20
+865,IoT,S0397,Oxford,4th Year,M.Tech,2026-02-02,Accepted,No,7
+421,AI/ML,S0398,Stanford,3rd Year,MBA,2026-02-03,Pending,No,29
+158,Cloud Computing,S0399,NUS,3rd Year,B.Tech,2026-02-04,Accepted,Yes,22
+151,Cybersecurity,S0400,IIT Bombay,1st Year,MBA,2026-02-05,Rejected,No,41
+698,AI/ML,S0401,Harvard,1st Year,M.Sc,2026-02-06,Pending,No,44
+588,Cybersecurity,S0402,Cambridge,3rd Year,M.Tech,2026-02-07,Rejected,No,35
+614,AI/ML,S0403,IIT Bombay,4th Year,B.Sc,2026-02-08,Rejected,No,12
+973,UI/UX Design,S0404,Cambridge,2nd Year,B.Sc,2026-02-09,Accepted,Yes,13
+643,Cloud Computing,S0405,Harvard,4th Year,B.Sc,2026-02-10,Accepted,No,50
+261,Embedded Systems,S0406,IIT Delhi,1st Year,B.Sc,2026-02-11,Accepted,Yes,7
+158,Blockchain,S0407,MIT,3rd Year,MBA,2026-02-12,Pending,Yes,49
+620,Embedded Systems,S0408,Oxford,4th Year,M.Sc,2026-02-13,Accepted,No,15
+182,IoT,S0409,IIT Delhi,1st Year,M.Sc,2026-02-14,Pending,Yes,14
+971,Cloud Computing,S0410,IIT Delhi,2nd Year,B.Sc,2026-02-15,Pending,Yes,20
+290,AI/ML,S0411,Oxford,2nd Year,B.Tech,2026-02-16,Accepted,No,33
+170,Cybersecurity,S0412,Berkeley,4th Year,B.Sc,2026-02-17,Rejected,No,20
+709,Cloud Computing,S0413,Oxford,1st Year,MBA,2026-02-18,Pending,Yes,21
+169,UI/UX Design,S0414,NTU,1st Year,M.Sc,2026-02-19,Pending,Yes,50
+791,AI/ML,S0415,MIT,2nd Year,M.Tech,2026-02-20,Accepted,No,34
+982,UI/UX Design,S0416,Harvard,3rd Year,B.Sc,2026-02-21,Pending,No,31
+340,Cloud Computing,S0417,Stanford,3rd Year,B.Sc,2026-02-22,Accepted,Yes,7
+513,Data Science,S0418,Stanford,4th Year,B.Tech,2026-02-23,Rejected,Yes,44
+222,UI/UX Design,S0419,Cambridge,4th Year,B.Tech,2026-02-24,Rejected,Yes,20
+683,Blockchain,S0420,NUS,2nd Year,M.Sc,2026-02-25,Pending,No,40
+352,Blockchain,S0421,IIT Bombay,1st Year,MBA,2026-02-26,Accepted,Yes,14
+692,IoT,S0422,NTU,3rd Year,B.Sc,2026-02-27,Accepted,No,37
+708,Blockchain,S0423,Berkeley,3rd Year,M.Tech,2026-02-28,Accepted,No,44
+140,UI/UX Design,S0424,NUS,3rd Year,M.Tech,2026-03-01,Rejected,Yes,10
+734,Web Development,S0425,MIT,3rd Year,B.Sc,2026-03-02,Rejected,No,21
+183,IoT,S0426,IIT Bombay,2nd Year,M.Sc,2026-03-03,Accepted,No,11
+529,IoT,S0427,NUS,3rd Year,M.Sc,2026-03-04,Accepted,No,13
+773,UI/UX Design,S0428,IIT Bombay,1st Year,B.Tech,2026-03-05,Accepted,No,50
+697,Embedded Systems,S0429,NUS,3rd Year,MBA,2026-03-06,Pending,No,26
+678,Cloud Computing,S0430,IIT Delhi,4th Year,B.Sc,2026-03-07,Pending,No,11
+635,Data Science,S0431,NTU,1st Year,B.Sc,2026-03-08,Rejected,No,11
+423,Blockchain,S0432,Berkeley,3rd Year,B.Tech,2026-03-09,Pending,Yes,40
+367,Data Science,S0433,IIT Delhi,2nd Year,B.Sc,2026-03-10,Rejected,Yes,43
+309,Blockchain,S0434,Oxford,2nd Year,MBA,2026-03-11,Accepted,No,11
+785,AR/VR,S0435,Stanford,3rd Year,M.Tech,2026-03-12,Pending,Yes,21
+833,Web Development,S0436,IIT Bombay,4th Year,M.Tech,2026-03-13,Pending,No,34
+421,Embedded Systems,S0437,MIT,2nd Year,MBA,2026-03-14,Rejected,No,31
+344,Cloud Computing,S0438,NUS,1st Year,M.Tech,2026-03-15,Accepted,No,42
+371,UI/UX Design,S0439,NTU,4th Year,M.Sc,2026-03-16,Accepted,No,39
+505,Data Science,S0440,NUS,2nd Year,B.Sc,2026-03-17,Accepted,Yes,27
+234,Data Science,S0441,NTU,4th Year,MBA,2026-03-18,Accepted,Yes,50
+787,UI/UX Design,S0442,NTU,2nd Year,M.Sc,2026-03-19,Rejected,No,47
+760,Cloud Computing,S0443,Harvard,2nd Year,B.Tech,2026-03-20,Rejected,Yes,18
+407,Cloud Computing,S0444,Stanford,4th Year,M.Sc,2026-03-21,Rejected,No,15
+568,IoT,S0445,IIT Delhi,3rd Year,B.Tech,2026-03-22,Pending,Yes,17
+423,AR/VR,S0446,Harvard,3rd Year,B.Tech,2026-03-23,Pending,No,31
+869,Blockchain,S0447,Harvard,4th Year,M.Sc,2026-03-24,Accepted,Yes,20
+174,Web Development,S0448,Berkeley,2nd Year,B.Tech,2026-03-25,Pending,No,24
+109,IoT,S0449,Berkeley,2nd Year,M.Sc,2026-03-26,Pending,No,10
+569,UI/UX Design,S0450,Harvard,2nd Year,B.Sc,2026-03-27,Rejected,No,20
+736,IoT,S0451,MIT,2nd Year,B.Sc,2026-03-28,Pending,Yes,22
+676,AI/ML,S0452,IIT Bombay,2nd Year,B.Tech,2026-03-29,Pending,No,47
+202,UI/UX Design,S0453,Stanford,3rd Year,B.Sc,2026-03-30,Pending,Yes,23
+175,AR/VR,S0454,IIT Bombay,2nd Year,M.Sc,2026-03-31,Accepted,No,48
+650,Blockchain,S0455,Berkeley,4th Year,MBA,2026-04-01,Rejected,Yes,21
+318,Cloud Computing,S0456,Harvard,2nd Year,MBA,2026-04-02,Pending,Yes,29
+618,AI/ML,S0457,NTU,2nd Year,MBA,2026-04-03,Rejected,No,20
+371,Data Science,S0458,Oxford,3rd Year,M.Sc,2026-04-04,Rejected,Yes,28
+235,Blockchain,S0459,Cambridge,1st Year,B.Tech,2026-04-05,Pending,Yes,37
+457,UI/UX Design,S0460,Stanford,1st Year,M.Sc,2026-04-06,Pending,No,26
+170,Embedded Systems,S0461,Stanford,2nd Year,B.Tech,2026-04-07,Rejected,No,49
+350,Web Development,S0462,IIT Bombay,3rd Year,B.Tech,2026-04-08,Rejected,Yes,27
+478,AI/ML,S0463,NUS,2nd Year,B.Sc,2026-04-09,Accepted,No,1
+391,Web Development,S0464,IIT Bombay,1st Year,M.Tech,2026-04-10,Accepted,No,49
+261,AR/VR,S0465,NUS,3rd Year,M.Tech,2026-04-11,Accepted,Yes,26
+548,IoT,S0466,Cambridge,4th Year,B.Sc,2026-04-12,Accepted,Yes,4
+953,AI/ML,S0467,Oxford,4th Year,B.Tech,2026-04-13,Accepted,No,27
+656,Web Development,S0468,NUS,3rd Year,B.Tech,2026-04-14,Rejected,Yes,23
+820,Data Science,S0469,IIT Delhi,4th Year,B.Sc,2026-04-15,Pending,No,42
+409,Cybersecurity,S0470,MIT,3rd Year,MBA,2026-04-16,Pending,No,9
+726,UI/UX Design,S0471,NTU,2nd Year,MBA,2026-04-17,Pending,Yes,30
+926,UI/UX Design,S0472,NTU,2nd Year,M.Sc,2026-04-18,Accepted,Yes,50
+769,Blockchain,S0473,NUS,1st Year,B.Sc,2026-04-19,Accepted,No,18
+641,AR/VR,S0474,IIT Bombay,2nd Year,B.Sc,2026-04-20,Pending,Yes,2
+108,AI/ML,S0475,Stanford,2nd Year,M.Sc,2026-04-21,Pending,Yes,46
+783,AR/VR,S0476,IIT Bombay,1st Year,MBA,2026-04-22,Pending,No,13
+936,Web Development,S0477,Harvard,3rd Year,MBA,2026-04-23,Rejected,Yes,14
+667,IoT,S0478,Harvard,2nd Year,M.Tech,2026-04-24,Rejected,No,43
+406,UI/UX Design,S0479,NTU,2nd Year,M.Tech,2026-04-25,Pending,Yes,46
+779,UI/UX Design,S0480,NTU,2nd Year,M.Tech,2026-04-26,Pending,Yes,17
+206,IoT,S0481,NTU,1st Year,B.Tech,2026-04-27,Accepted,No,19
+999,Data Science,S0482,Stanford,3rd Year,M.Sc,2026-04-28,Pending,No,24
+237,AR/VR,S0483,Stanford,1st Year,MBA,2026-04-29,Accepted,Yes,2
+370,Web Development,S0484,NTU,4th Year,B.Tech,2026-04-30,Rejected,No,21
+218,Embedded Systems,S0485,Stanford,2nd Year,B.Sc,2026-05-01,Rejected,No,28
+209,UI/UX Design,S0486,Oxford,4th Year,M.Sc,2026-05-02,Pending,No,25
+860,Blockchain,S0487,NUS,3rd Year,B.Tech,2026-05-03,Pending,Yes,21
+666,UI/UX Design,S0488,Cambridge,2nd Year,B.Tech,2026-05-04,Rejected,No,36
+259,Cloud Computing,S0489,IIT Bombay,4th Year,B.Sc,2026-05-05,Rejected,No,36
+378,Cybersecurity,S0490,Oxford,4th Year,B.Tech,2026-05-06,Pending,No,48
+388,Data Science,S0491,IIT Bombay,4th Year,B.Tech,2026-05-07,Accepted,Yes,13
+719,AI/ML,S0492,IIT Delhi,2nd Year,M.Tech,2026-05-08,Accepted,No,14
+315,Web Development,S0493,NTU,2nd Year,B.Sc,2026-05-09,Rejected,No,40
+834,IoT,S0494,NTU,2nd Year,B.Sc,2026-05-10,Accepted,Yes,33
+451,Embedded Systems,S0495,IIT Delhi,2nd Year,B.Sc,2026-05-11,Pending,Yes,29
+308,Blockchain,S0496,MIT,1st Year,M.Sc,2026-05-12,Pending,No,18
+803,Embedded Systems,S0497,Harvard,4th Year,B.Sc,2026-05-13,Accepted,Yes,7
+749,Data Science,S0498,Oxford,1st Year,MBA,2026-05-14,Rejected,No,5
+973,Cloud Computing,S0499,IIT Bombay,3rd Year,M.Sc,2026-05-15,Pending,Yes,16
+370,Cloud Computing,S0500,Harvard,4th Year,M.Sc,2026-05-16,Accepted,No,11
+617,IoT,S0501,NTU,2nd Year,MBA,2026-05-17,Rejected,No,21
+600,Cybersecurity,S0502,NTU,2nd Year,B.Sc,2026-05-18,Pending,Yes,47
+357,AR/VR,S0503,IIT Bombay,2nd Year,MBA,2026-05-19,Pending,No,31
+966,Cloud Computing,S0504,MIT,1st Year,B.Tech,2026-05-20,Pending,No,47
+152,IoT,S0505,IIT Bombay,2nd Year,M.Tech,2026-05-21,Rejected,Yes,38
+194,Cybersecurity,S0506,Cambridge,4th Year,M.Tech,2026-05-22,Accepted,No,31
+749,Data Science,S0507,Berkeley,4th Year,B.Tech,2026-05-23,Pending,No,3
+533,Web Development,S0508,MIT,3rd Year,M.Tech,2026-05-24,Pending,Yes,50
+949,Data Science,S0509,IIT Delhi,4th Year,B.Tech,2026-05-25,Pending,Yes,43
+383,IoT,S0510,Oxford,2nd Year,B.Tech,2026-05-26,Pending,No,25
+145,Web Development,S0511,Cambridge,4th Year,M.Tech,2026-05-27,Pending,No,45
+103,IoT,S0512,MIT,4th Year,B.Tech,2026-05-28,Accepted,No,46
+441,Data Science,S0513,Cambridge,1st Year,M.Tech,2026-05-29,Accepted,No,32
+889,UI/UX Design,S0514,Oxford,4th Year,B.Sc,2026-05-30,Pending,No,16
+233,UI/UX Design,S0515,Oxford,3rd Year,M.Tech,2026-05-31,Accepted,No,18
+752,Data Science,S0516,Oxford,4th Year,M.Tech,2026-06-01,Accepted,No,39
+368,Embedded Systems,S0517,IIT Delhi,1st Year,B.Sc,2026-06-02,Pending,No,38
+265,Embedded Systems,S0518,Stanford,1st Year,M.Sc,2026-06-03,Pending,No,25
+859,Cloud Computing,S0519,Berkeley,4th Year,M.Tech,2026-06-04,Accepted,No,4
+552,Cloud Computing,S0520,Harvard,4th Year,B.Tech,2026-06-05,Accepted,Yes,7
+664,Web Development,S0521,Oxford,1st Year,MBA,2026-06-06,Pending,Yes,4
+822,Web Development,S0522,IIT Delhi,2nd Year,B.Sc,2026-06-07,Rejected,No,41
+537,UI/UX Design,S0523,Cambridge,4th Year,M.Tech,2026-06-08,Rejected,Yes,22
+674,Embedded Systems,S0524,Oxford,1st Year,B.Sc,2026-06-09,Accepted,Yes,18
+109,Cybersecurity,S0525,IIT Bombay,4th Year,B.Sc,2026-06-10,Accepted,No,35
+214,Data Science,S0526,NTU,1st Year,B.Tech,2026-06-11,Accepted,Yes,24
+177,Cybersecurity,S0527,Stanford,2nd Year,B.Tech,2026-06-12,Pending,No,29
+807,Web Development,S0528,Berkeley,3rd Year,M.Tech,2026-06-13,Accepted,Yes,19
+252,Cybersecurity,S0529,IIT Delhi,4th Year,M.Tech,2026-06-14,Pending,No,8
+658,IoT,S0530,Berkeley,4th Year,B.Sc,2026-06-15,Accepted,Yes,31
+136,AI/ML,S0531,IIT Bombay,3rd Year,B.Sc,2026-06-16,Accepted,No,9
+954,UI/UX Design,S0532,IIT Delhi,3rd Year,B.Sc,2026-06-17,Pending,Yes,48
+478,Embedded Systems,S0533,NUS,4th Year,B.Tech,2026-06-18,Rejected,No,5
+696,AR/VR,S0534,Cambridge,2nd Year,B.Sc,2026-06-19,Accepted,Yes,21
+665,UI/UX Design,S0535,MIT,4th Year,M.Sc,2026-06-20,Accepted,No,50
+251,IoT,S0536,NUS,3rd Year,M.Tech,2026-06-21,Accepted,No,47
+540,Embedded Systems,S0537,Harvard,1st Year,M.Tech,2026-06-22,Pending,Yes,27
+230,Web Development,S0538,Stanford,2nd Year,MBA,2026-06-23,Rejected,Yes,10
+142,AR/VR,S0539,Oxford,4th Year,M.Sc,2026-06-24,Rejected,Yes,10
+415,Data Science,S0540,NUS,4th Year,B.Sc,2026-06-25,Pending,No,38
+473,Data Science,S0541,IIT Bombay,1st Year,B.Tech,2026-06-26,Accepted,Yes,20
+915,Cloud Computing,S0542,Harvard,1st Year,MBA,2026-06-27,Rejected,No,37
+981,Blockchain,S0543,NUS,2nd Year,B.Tech,2026-06-28,Pending,Yes,13
+140,IoT,S0544,NTU,2nd Year,B.Tech,2026-06-29,Accepted,No,36
+466,Embedded Systems,S0545,MIT,4th Year,B.Sc,2026-06-30,Accepted,No,6
+315,Blockchain,S0546,Harvard,4th Year,B.Sc,2026-07-01,Rejected,No,29
+798,Blockchain,S0547,Berkeley,3rd Year,B.Sc,2026-07-02,Accepted,Yes,16
+355,AR/VR,S0548,Berkeley,4th Year,M.Sc,2026-07-03,Pending,Yes,21
+782,Data Science,S0549,MIT,1st Year,M.Sc,2026-07-04,Rejected,Yes,37
+205,Web Development,S0550,Berkeley,2nd Year,M.Sc,2026-07-05,Pending,Yes,35
+462,UI/UX Design,S0551,MIT,4th Year,MBA,2026-07-06,Pending,Yes,49
+898,Data Science,S0552,IIT Delhi,2nd Year,B.Tech,2026-07-07,Rejected,No,43
+673,IoT,S0553,MIT,4th Year,B.Sc,2026-07-08,Accepted,Yes,17
+995,IoT,S0554,Cambridge,1st Year,B.Sc,2026-07-09,Pending,Yes,36
+516,Embedded Systems,S0555,Berkeley,3rd Year,B.Sc,2026-07-10,Rejected,Yes,34
+735,UI/UX Design,S0556,Oxford,3rd Year,M.Sc,2026-07-11,Pending,No,19
+867,Web Development,S0557,Cambridge,2nd Year,M.Sc,2026-07-12,Rejected,No,45
+258,Embedded Systems,S0558,IIT Delhi,1st Year,M.Sc,2026-07-13,Pending,Yes,2
+342,AR/VR,S0559,NUS,1st Year,B.Sc,2026-07-14,Rejected,No,9
+985,Web Development,S0560,IIT Bombay,1st Year,M.Tech,2026-07-15,Pending,Yes,50
+266,Web Development,S0561,Stanford,4th Year,B.Tech,2026-07-16,Pending,Yes,50
+919,Blockchain,S0562,MIT,3rd Year,M.Sc,2026-07-17,Pending,Yes,5
+930,Embedded Systems,S0563,Berkeley,1st Year,B.Tech,2026-07-18,Accepted,Yes,45
+281,AI/ML,S0564,Cambridge,4th Year,B.Sc,2026-07-19,Pending,Yes,46
+522,Data Science,S0565,IIT Delhi,2nd Year,M.Sc,2026-07-20,Accepted,Yes,48
+125,Embedded Systems,S0566,NTU,4th Year,MBA,2026-07-21,Pending,Yes,21
+283,Web Development,S0567,IIT Delhi,4th Year,M.Sc,2026-07-22,Accepted,Yes,24
+854,Cloud Computing,S0568,Harvard,1st Year,B.Tech,2026-07-23,Accepted,Yes,50
+440,Web Development,S0569,IIT Delhi,2nd Year,MBA,2026-07-24,Accepted,Yes,29
+901,Web Development,S0570,NTU,3rd Year,B.Sc,2026-07-25,Accepted,No,48
+521,UI/UX Design,S0571,NUS,2nd Year,B.Sc,2026-07-26,Accepted,Yes,14
+921,Cybersecurity,S0572,Cambridge,2nd Year,B.Tech,2026-07-27,Rejected,No,12
+785,UI/UX Design,S0573,Cambridge,2nd Year,B.Sc,2026-07-28,Accepted,No,21
+984,Embedded Systems,S0574,Harvard,2nd Year,M.Sc,2026-07-29,Accepted,Yes,30
+852,Cloud Computing,S0575,Oxford,1st Year,MBA,2026-07-30,Pending,Yes,15
+930,Data Science,S0576,Stanford,4th Year,B.Sc,2026-07-31,Pending,No,30
+354,Cloud Computing,S0577,Oxford,3rd Year,B.Sc,2026-08-01,Accepted,No,24
+373,Cybersecurity,S0578,MIT,3rd Year,B.Tech,2026-08-02,Pending,No,22
+263,Embedded Systems,S0579,IIT Bombay,4th Year,M.Tech,2026-08-03,Rejected,Yes,13
+906,Cloud Computing,S0580,MIT,3rd Year,MBA,2026-08-04,Rejected,Yes,44
+818,Web Development,S0581,Harvard,2nd Year,M.Tech,2026-08-05,Accepted,No,46
+210,Cloud Computing,S0582,NTU,1st Year,B.Sc,2026-08-06,Pending,No,17
+491,AR/VR,S0583,Berkeley,2nd Year,MBA,2026-08-07,Pending,Yes,17
+993,Embedded Systems,S0584,Berkeley,2nd Year,B.Sc,2026-08-08,Rejected,No,39
+139,Data Science,S0585,Berkeley,1st Year,M.Tech,2026-08-09,Accepted,Yes,48
+979,Embedded Systems,S0586,Berkeley,3rd Year,M.Sc,2026-08-10,Pending,Yes,2
+581,Web Development,S0587,Oxford,1st Year,M.Tech,2026-08-11,Rejected,Yes,9
+327,AR/VR,S0588,IIT Bombay,4th Year,M.Sc,2026-08-12,Rejected,Yes,8
+304,AR/VR,S0589,NUS,4th Year,MBA,2026-08-13,Rejected,Yes,42
+936,Web Development,S0590,MIT,4th Year,M.Sc,2026-08-14,Pending,Yes,27
+571,Web Development,S0591,MIT,1st Year,B.Sc,2026-08-15,Accepted,Yes,28
+458,AR/VR,S0592,IIT Delhi,4th Year,M.Tech,2026-08-16,Rejected,No,26
+412,AR/VR,S0593,Harvard,2nd Year,MBA,2026-08-17,Rejected,No,32
+940,UI/UX Design,S0594,Harvard,2nd Year,B.Sc,2026-08-18,Accepted,No,4
+914,AR/VR,S0595,NTU,4th Year,B.Sc,2026-08-19,Rejected,No,34
+992,AI/ML,S0596,MIT,4th Year,MBA,2026-08-20,Pending,Yes,4
+333,AI/ML,S0597,Berkeley,4th Year,B.Sc,2026-08-21,Rejected,No,33
+328,Data Science,S0598,Oxford,4th Year,M.Tech,2026-08-22,Pending,No,24
+124,AI/ML,S0599,NTU,1st Year,M.Sc,2026-08-23,Accepted,No,2
+775,AR/VR,S0600,Oxford,1st Year,M.Tech,2026-08-24,Pending,No,37
+297,Cloud Computing,S0601,Oxford,2nd Year,MBA,2026-08-25,Accepted,No,28
+508,Cybersecurity,S0602,IIT Bombay,3rd Year,B.Tech,2026-08-26,Accepted,Yes,3
+436,AR/VR,S0603,IIT Bombay,2nd Year,B.Sc,2026-08-27,Pending,No,33
+385,Blockchain,S0604,Cambridge,1st Year,M.Tech,2026-08-28,Pending,No,21
+985,AR/VR,S0605,IIT Delhi,2nd Year,M.Tech,2026-08-29,Rejected,No,35
+171,AI/ML,S0606,Oxford,2nd Year,M.Tech,2026-08-30,Pending,Yes,32
+891,IoT,S0607,Berkeley,1st Year,M.Tech,2026-08-31,Pending,Yes,19
+385,Embedded Systems,S0608,IIT Delhi,3rd Year,M.Sc,2026-09-01,Pending,No,37
+459,Cloud Computing,S0609,Oxford,1st Year,B.Sc,2026-09-02,Accepted,No,22
+756,Cloud Computing,S0610,NUS,2nd Year,B.Tech,2026-09-03,Pending,Yes,41
+621,IoT,S0611,NTU,1st Year,B.Sc,2026-09-04,Rejected,No,5
+509,Cybersecurity,S0612,IIT Bombay,3rd Year,B.Sc,2026-09-05,Pending,Yes,48
+795,Blockchain,S0613,NTU,3rd Year,MBA,2026-09-06,Pending,No,5
+963,Cloud Computing,S0614,Stanford,1st Year,M.Tech,2026-09-07,Pending,Yes,37
+649,IoT,S0615,MIT,1st Year,M.Tech,2026-09-08,Pending,No,6
+439,Data Science,S0616,NUS,1st Year,M.Sc,2026-09-09,Pending,Yes,36
+128,AI/ML,S0617,Cambridge,4th Year,B.Tech,2026-09-10,Accepted,No,50
+218,Web Development,S0618,NUS,2nd Year,B.Tech,2026-09-11,Rejected,Yes,8
+998,IoT,S0619,NTU,2nd Year,MBA,2026-09-12,Accepted,No,35
+367,Blockchain,S0620,NTU,3rd Year,MBA,2026-09-13,Rejected,No,11
+282,IoT,S0621,Oxford,2nd Year,MBA,2026-09-14,Rejected,No,33
+694,IoT,S0622,Oxford,4th Year,M.Tech,2026-09-15,Rejected,Yes,6
+371,Cybersecurity,S0623,Stanford,3rd Year,M.Tech,2026-09-16,Accepted,Yes,37
+139,UI/UX Design,S0624,IIT Delhi,1st Year,M.Sc,2026-09-17,Pending,No,30
+211,AR/VR,S0625,Stanford,1st Year,B.Tech,2026-09-18,Accepted,Yes,40
+710,Web Development,S0626,Cambridge,3rd Year,B.Tech,2026-09-19,Accepted,No,42
+544,UI/UX Design,S0627,Oxford,3rd Year,MBA,2026-09-20,Rejected,No,13
+453,UI/UX Design,S0628,Cambridge,3rd Year,B.Sc,2026-09-21,Accepted,Yes,49
+846,UI/UX Design,S0629,Oxford,4th Year,B.Tech,2026-09-22,Pending,Yes,5
+905,Blockchain,S0630,Oxford,1st Year,M.Sc,2026-09-23,Accepted,Yes,50
+421,Web Development,S0631,Oxford,4th Year,M.Tech,2026-09-24,Pending,No,44
+546,UI/UX Design,S0632,Berkeley,1st Year,B.Tech,2026-09-25,Pending,No,28
+720,Embedded Systems,S0633,Harvard,3rd Year,M.Sc,2026-09-26,Rejected,No,18
+623,Embedded Systems,S0634,NUS,4th Year,M.Tech,2026-09-27,Accepted,Yes,30
+218,Data Science,S0635,Berkeley,2nd Year,B.Sc,2026-09-28,Rejected,No,29
+494,UI/UX Design,S0636,MIT,1st Year,MBA,2026-09-29,Pending,No,48
+690,Cybersecurity,S0637,NTU,3rd Year,MBA,2026-09-30,Accepted,No,10
+294,IoT,S0638,IIT Bombay,3rd Year,MBA,2026-10-01,Rejected,Yes,42
+360,Data Science,S0639,Cambridge,4th Year,B.Tech,2026-10-02,Rejected,No,22
+145,Cloud Computing,S0640,Harvard,2nd Year,M.Sc,2026-10-03,Rejected,No,5
+825,IoT,S0641,MIT,2nd Year,MBA,2026-10-04,Accepted,No,12
+546,Cybersecurity,S0642,IIT Delhi,1st Year,M.Tech,2026-10-05,Accepted,Yes,42
+101,Web Development,S0643,Oxford,1st Year,M.Sc,2026-10-06,Rejected,No,37
+632,Data Science,S0644,Oxford,1st Year,M.Sc,2026-10-07,Accepted,Yes,22
+925,AI/ML,S0645,IIT Bombay,4th Year,B.Tech,2026-10-08,Accepted,No,30
+651,Cloud Computing,S0646,IIT Bombay,3rd Year,B.Tech,2026-10-09,Rejected,No,34
+803,Blockchain,S0647,IIT Bombay,4th Year,B.Sc,2026-10-10,Accepted,No,50
+836,AR/VR,S0648,MIT,3rd Year,B.Sc,2026-10-11,Rejected,Yes,45
+859,Blockchain,S0649,NTU,3rd Year,B.Tech,2026-10-12,Accepted,Yes,48
+854,Cybersecurity,S0650,NTU,3rd Year,B.Tech,2026-10-13,Accepted,Yes,28
+786,Web Development,S0651,Berkeley,2nd Year,M.Sc,2026-10-14,Accepted,Yes,2
+301,UI/UX Design,S0652,Cambridge,4th Year,M.Sc,2026-10-15,Pending,Yes,26
+472,AR/VR,S0653,Berkeley,4th Year,B.Tech,2026-10-16,Pending,Yes,37
+541,UI/UX Design,S0654,NUS,4th Year,M.Sc,2026-10-17,Rejected,Yes,19
+171,Cybersecurity,S0655,IIT Delhi,2nd Year,B.Tech,2026-10-18,Pending,No,1
+780,Web Development,S0656,Cambridge,2nd Year,M.Sc,2026-10-19,Rejected,No,40
+438,IoT,S0657,NUS,3rd Year,B.Tech,2026-10-20,Accepted,No,25
+738,Embedded Systems,S0658,Oxford,2nd Year,M.Tech,2026-10-21,Pending,Yes,2
+421,IoT,S0659,Harvard,1st Year,B.Tech,2026-10-22,Rejected,Yes,1
+779,IoT,S0660,NUS,1st Year,M.Tech,2026-10-23,Pending,Yes,15
+968,Cloud Computing,S0661,Harvard,1st Year,MBA,2026-10-24,Pending,Yes,21
+227,IoT,S0662,Oxford,4th Year,M.Tech,2026-10-25,Rejected,No,28
+837,AI/ML,S0663,Stanford,1st Year,MBA,2026-10-26,Pending,No,10
+407,Data Science,S0664,IIT Delhi,2nd Year,B.Sc,2026-10-27,Rejected,Yes,17
+619,Blockchain,S0665,Harvard,4th Year,M.Sc,2026-10-28,Pending,Yes,15
+416,Embedded Systems,S0666,Oxford,4th Year,B.Sc,2026-10-29,Accepted,No,38
+782,IoT,S0667,NUS,1st Year,B.Tech,2026-10-30,Accepted,Yes,44
+518,Cybersecurity,S0668,Harvard,3rd Year,M.Tech,2026-10-31,Accepted,Yes,50
+434,Cybersecurity,S0669,Cambridge,3rd Year,MBA,2026-11-01,Rejected,Yes,21
+512,AR/VR,S0670,Stanford,2nd Year,MBA,2026-11-02,Rejected,No,35
+813,UI/UX Design,S0671,Berkeley,1st Year,M.Tech,2026-11-03,Accepted,No,30
+402,AI/ML,S0672,Cambridge,2nd Year,B.Tech,2026-11-04,Rejected,Yes,42
+667,AI/ML,S0673,Berkeley,3rd Year,M.Tech,2026-11-05,Pending,Yes,43
+230,Cloud Computing,S0674,Oxford,3rd Year,B.Sc,2026-11-06,Pending,No,13
+296,IoT,S0675,IIT Bombay,1st Year,B.Sc,2026-11-07,Pending,Yes,50
+530,AR/VR,S0676,Cambridge,3rd Year,B.Tech,2026-11-08,Pending,No,37
+780,IoT,S0677,Cambridge,3rd Year,M.Tech,2026-11-09,Pending,No,23
+488,Cloud Computing,S0678,Oxford,3rd Year,B.Sc,2026-11-10,Rejected,Yes,46
+793,Embedded Systems,S0679,NTU,1st Year,MBA,2026-11-11,Rejected,Yes,37
+866,AI/ML,S0680,Oxford,1st Year,MBA,2026-11-12,Pending,Yes,10
+278,Data Science,S0681,IIT Delhi,3rd Year,M.Sc,2026-11-13,Accepted,No,13
+730,Blockchain,S0682,Stanford,3rd Year,M.Tech,2026-11-14,Rejected,No,50
+682,Web Development,S0683,IIT Delhi,4th Year,B.Tech,2026-11-15,Accepted,No,10
+408,Cloud Computing,S0684,MIT,1st Year,MBA,2026-11-16,Pending,No,14
+515,UI/UX Design,S0685,NTU,2nd Year,MBA,2026-11-17,Pending,Yes,20
+661,Blockchain,S0686,NTU,2nd Year,B.Sc,2026-11-18,Pending,Yes,12
+953,UI/UX Design,S0687,NTU,3rd Year,MBA,2026-11-19,Accepted,Yes,7
+100,AI/ML,S0688,Stanford,3rd Year,M.Tech,2026-11-20,Pending,No,2
+411,Blockchain,S0689,IIT Delhi,4th Year,M.Tech,2026-11-21,Accepted,Yes,35
+393,AI/ML,S0690,Berkeley,4th Year,M.Sc,2026-11-22,Accepted,Yes,39
+315,AR/VR,S0691,NUS,1st Year,B.Sc,2026-11-23,Rejected,Yes,3
+540,Embedded Systems,S0692,Stanford,2nd Year,M.Tech,2026-11-24,Pending,Yes,50
+904,Cybersecurity,S0693,IIT Bombay,4th Year,M.Tech,2026-11-25,Pending,Yes,9
+693,UI/UX Design,S0694,NUS,2nd Year,B.Sc,2026-11-26,Rejected,Yes,35
+721,Embedded Systems,S0695,Oxford,4th Year,B.Sc,2026-11-27,Accepted,Yes,23
+770,Cloud Computing,S0696,IIT Bombay,3rd Year,B.Sc,2026-11-28,Pending,Yes,5
+429,Data Science,S0697,MIT,4th Year,B.Sc,2026-11-29,Pending,No,21
+576,Blockchain,S0698,Harvard,4th Year,M.Sc,2026-11-30,Rejected,No,21
+552,Embedded Systems,S0699,Harvard,1st Year,MBA,2026-12-01,Pending,Yes,15
+552,IoT,S0700,Berkeley,3rd Year,B.Tech,2026-12-02,Accepted,No,43
+791,Embedded Systems,S0701,Cambridge,3rd Year,B.Sc,2026-12-03,Pending,Yes,14
+318,Cloud Computing,S0702,IIT Bombay,1st Year,M.Tech,2026-12-04,Pending,No,13
+623,AR/VR,S0703,NTU,2nd Year,B.Tech,2026-12-05,Rejected,Yes,20
+584,AR/VR,S0704,IIT Delhi,3rd Year,M.Sc,2026-12-06,Pending,Yes,11
+912,Data Science,S0705,Harvard,3rd Year,B.Tech,2026-12-07,Rejected,No,28
+915,Web Development,S0706,Cambridge,1st Year,B.Tech,2026-12-08,Accepted,No,18
+853,Data Science,S0707,Harvard,2nd Year,MBA,2026-12-09,Rejected,No,15
+273,Blockchain,S0708,Stanford,3rd Year,MBA,2026-12-10,Rejected,Yes,14
+774,UI/UX Design,S0709,IIT Delhi,1st Year,B.Sc,2026-12-11,Rejected,Yes,50
+186,UI/UX Design,S0710,Cambridge,3rd Year,M.Tech,2026-12-12,Pending,No,23
+390,Embedded Systems,S0711,Harvard,4th Year,B.Sc,2026-12-13,Rejected,No,2
+627,UI/UX Design,S0712,Cambridge,2nd Year,B.Tech,2026-12-14,Rejected,No,9
+779,Web Development,S0713,MIT,4th Year,B.Sc,2026-12-15,Rejected,Yes,29
+748,Cybersecurity,S0714,MIT,2nd Year,B.Tech,2026-12-16,Pending,Yes,8
+734,AR/VR,S0715,IIT Delhi,1st Year,M.Tech,2026-12-17,Pending,Yes,25
+443,Embedded Systems,S0716,Oxford,3rd Year,M.Sc,2026-12-18,Accepted,No,2
+195,Blockchain,S0717,Berkeley,3rd Year,B.Tech,2026-12-19,Rejected,Yes,29
+938,Embedded Systems,S0718,Harvard,1st Year,M.Sc,2026-12-20,Pending,Yes,48
+869,AI/ML,S0719,NTU,3rd Year,MBA,2026-12-21,Accepted,No,48
+340,AI/ML,S0720,Harvard,4th Year,B.Sc,2026-12-22,Rejected,Yes,14
+788,AI/ML,S0721,IIT Delhi,1st Year,B.Sc,2026-12-23,Rejected,Yes,25
+417,Web Development,S0722,Stanford,4th Year,M.Sc,2026-12-24,Rejected,No,4
+330,UI/UX Design,S0723,Harvard,2nd Year,MBA,2026-12-25,Accepted,Yes,29
+925,IoT,S0724,NTU,3rd Year,MBA,2026-12-26,Pending,Yes,29
+303,Embedded Systems,S0725,IIT Bombay,4th Year,MBA,2026-12-27,Accepted,No,26
+250,IoT,S0726,IIT Bombay,3rd Year,B.Tech,2026-12-28,Accepted,No,13
+125,Web Development,S0727,IIT Bombay,2nd Year,MBA,2026-12-29,Pending,No,14
+147,AR/VR,S0728,IIT Bombay,3rd Year,M.Sc,2026-12-30,Accepted,No,50
+350,Embedded Systems,S0729,IIT Delhi,2nd Year,M.Sc,2026-12-31,Accepted,Yes,25
+586,Web Development,S0730,IIT Bombay,1st Year,M.Tech,2027-01-01,Accepted,Yes,38
+725,UI/UX Design,S0731,MIT,3rd Year,B.Sc,2027-01-02,Pending,No,8
+970,AR/VR,S0732,MIT,1st Year,B.Sc,2027-01-03,Accepted,Yes,6
+886,UI/UX Design,S0733,NUS,2nd Year,M.Tech,2027-01-04,Accepted,Yes,12
+174,Web Development,S0734,Berkeley,1st Year,M.Sc,2027-01-05,Pending,No,33
+566,Blockchain,S0735,Cambridge,4th Year,M.Sc,2027-01-06,Rejected,No,38
+524,AR/VR,S0736,MIT,1st Year,M.Sc,2027-01-07,Pending,Yes,47
+744,Cloud Computing,S0737,Cambridge,4th Year,B.Sc,2027-01-08,Rejected,Yes,34
+689,AR/VR,S0738,NUS,2nd Year,MBA,2027-01-09,Accepted,No,8
+299,UI/UX Design,S0739,Berkeley,2nd Year,B.Sc,2027-01-10,Rejected,No,11
+835,Embedded Systems,S0740,MIT,3rd Year,M.Tech,2027-01-11,Pending,Yes,49
+813,Embedded Systems,S0741,MIT,4th Year,MBA,2027-01-12,Pending,Yes,14
+493,Embedded Systems,S0742,Berkeley,3rd Year,B.Tech,2027-01-13,Pending,No,8
+606,IoT,S0743,Berkeley,3rd Year,B.Tech,2027-01-14,Accepted,No,32
+509,AR/VR,S0744,Cambridge,2nd Year,M.Sc,2027-01-15,Rejected,No,48
+349,Cloud Computing,S0745,Oxford,1st Year,MBA,2027-01-16,Rejected,Yes,39
+251,IoT,S0746,Harvard,2nd Year,B.Sc,2027-01-17,Pending,No,23
+771,AI/ML,S0747,Stanford,2nd Year,M.Tech,2027-01-18,Pending,Yes,48
+804,UI/UX Design,S0748,IIT Bombay,1st Year,M.Sc,2027-01-19,Pending,Yes,21
+105,UI/UX Design,S0749,NUS,4th Year,M.Sc,2027-01-20,Pending,Yes,27
+868,Data Science,S0750,NTU,4th Year,MBA,2027-01-21,Pending,No,13
+981,Blockchain,S0751,Oxford,1st Year,M.Tech,2027-01-22,Accepted,Yes,14
+888,AR/VR,S0752,Harvard,1st Year,B.Tech,2027-01-23,Rejected,Yes,6
+209,Cloud Computing,S0753,Stanford,3rd Year,M.Sc,2027-01-24,Accepted,No,33
+897,AI/ML,S0754,MIT,1st Year,M.Sc,2027-01-25,Pending,Yes,24
+535,AR/VR,S0755,Oxford,1st Year,MBA,2027-01-26,Accepted,Yes,31
+324,IoT,S0756,Oxford,3rd Year,M.Sc,2027-01-27,Pending,No,17
+280,Cloud Computing,S0757,IIT Delhi,4th Year,MBA,2027-01-28,Accepted,Yes,33
+923,AR/VR,S0758,NUS,1st Year,M.Tech,2027-01-29,Pending,No,8
+812,AR/VR,S0759,NTU,1st Year,B.Tech,2027-01-30,Rejected,Yes,30
+630,Cybersecurity,S0760,NUS,3rd Year,B.Tech,2027-01-31,Pending,No,2
+575,AI/ML,S0761,Cambridge,1st Year,M.Sc,2027-02-01,Pending,Yes,1
+151,AR/VR,S0762,IIT Bombay,3rd Year,M.Sc,2027-02-02,Pending,No,25
+670,IoT,S0763,Harvard,2nd Year,MBA,2027-02-03,Rejected,Yes,27
+355,Web Development,S0764,Cambridge,3rd Year,M.Tech,2027-02-04,Accepted,Yes,26
+968,Embedded Systems,S0765,IIT Delhi,2nd Year,MBA,2027-02-05,Pending,Yes,7
+224,AR/VR,S0766,Cambridge,2nd Year,B.Sc,2027-02-06,Pending,No,23
+567,Blockchain,S0767,Berkeley,3rd Year,M.Sc,2027-02-07,Pending,Yes,24
+236,Web Development,S0768,Harvard,3rd Year,B.Tech,2027-02-08,Pending,No,20
+920,Cybersecurity,S0769,IIT Bombay,3rd Year,B.Tech,2027-02-09,Pending,No,5
+575,AI/ML,S0770,MIT,4th Year,MBA,2027-02-10,Accepted,No,28
+783,AR/VR,S0771,Berkeley,1st Year,MBA,2027-02-11,Pending,No,42
+643,Data Science,S0772,Berkeley,3rd Year,M.Sc,2027-02-12,Rejected,Yes,20
+672,Cybersecurity,S0773,Harvard,2nd Year,MBA,2027-02-13,Accepted,Yes,15
+709,AI/ML,S0774,Berkeley,2nd Year,B.Tech,2027-02-14,Pending,Yes,45
+424,IoT,S0775,MIT,3rd Year,B.Tech,2027-02-15,Pending,Yes,6
+873,UI/UX Design,S0776,NTU,1st Year,B.Tech,2027-02-16,Accepted,Yes,42
+553,Blockchain,S0777,NUS,1st Year,B.Sc,2027-02-17,Accepted,No,42
+727,Web Development,S0778,Harvard,1st Year,MBA,2027-02-18,Accepted,Yes,25
+934,Blockchain,S0779,Stanford,2nd Year,M.Sc,2027-02-19,Rejected,No,31
+836,Cybersecurity,S0780,Cambridge,3rd Year,B.Tech,2027-02-20,Accepted,Yes,2
+616,Blockchain,S0781,MIT,3rd Year,B.Sc,2027-02-21,Pending,No,18
+536,Embedded Systems,S0782,IIT Bombay,3rd Year,MBA,2027-02-22,Rejected,No,47
+950,AR/VR,S0783,Oxford,2nd Year,M.Tech,2027-02-23,Accepted,Yes,42
+661,IoT,S0784,NUS,3rd Year,M.Sc,2027-02-24,Rejected,No,21
+556,AI/ML,S0785,NTU,2nd Year,M.Sc,2027-02-25,Rejected,No,3
+262,Web Development,S0786,MIT,2nd Year,M.Sc,2027-02-26,Rejected,Yes,10
+861,Embedded Systems,S0787,NTU,1st Year,M.Sc,2027-02-27,Accepted,Yes,16
+982,Cybersecurity,S0788,MIT,3rd Year,M.Tech,2027-02-28,Rejected,No,12
+586,Embedded Systems,S0789,Stanford,3rd Year,MBA,2027-03-01,Accepted,Yes,37
+560,UI/UX Design,S0790,MIT,4th Year,MBA,2027-03-02,Rejected,No,1
+365,IoT,S0791,MIT,1st Year,MBA,2027-03-03,Pending,No,9
+869,Embedded Systems,S0792,Stanford,2nd Year,M.Sc,2027-03-04,Accepted,Yes,34
+353,Blockchain,S0793,IIT Bombay,1st Year,M.Tech,2027-03-05,Pending,No,10
+960,UI/UX Design,S0794,IIT Delhi,4th Year,B.Sc,2027-03-06,Accepted,No,9
+752,Web Development,S0795,IIT Bombay,1st Year,M.Sc,2027-03-07,Rejected,Yes,45
+383,IoT,S0796,Stanford,1st Year,M.Tech,2027-03-08,Rejected,Yes,31
+884,Embedded Systems,S0797,NUS,4th Year,B.Tech,2027-03-09,Rejected,Yes,49
+896,UI/UX Design,S0798,Oxford,1st Year,MBA,2027-03-10,Rejected,Yes,3
+633,Embedded Systems,S0799,IIT Delhi,1st Year,M.Sc,2027-03-11,Rejected,Yes,4
+596,UI/UX Design,S0800,Harvard,4th Year,M.Sc,2027-03-12,Accepted,Yes,39
+741,Cloud Computing,S0801,Berkeley,4th Year,M.Tech,2027-03-13,Accepted,No,14
+344,AR/VR,S0802,MIT,2nd Year,MBA,2027-03-14,Pending,Yes,48
+381,IoT,S0803,Oxford,4th Year,B.Sc,2027-03-15,Pending,Yes,43
+550,Cybersecurity,S0804,IIT Bombay,3rd Year,B.Tech,2027-03-16,Pending,Yes,19
+179,Cybersecurity,S0805,Stanford,3rd Year,M.Tech,2027-03-17,Rejected,Yes,24
+830,Cloud Computing,S0806,NUS,3rd Year,B.Sc,2027-03-18,Accepted,Yes,40
+392,Embedded Systems,S0807,Oxford,2nd Year,B.Sc,2027-03-19,Rejected,Yes,27
+340,Cloud Computing,S0808,NTU,1st Year,B.Tech,2027-03-20,Pending,Yes,11
+378,Cybersecurity,S0809,NTU,4th Year,B.Tech,2027-03-21,Pending,No,27
+443,Cloud Computing,S0810,Harvard,2nd Year,B.Tech,2027-03-22,Accepted,Yes,12
+427,Cloud Computing,S0811,IIT Bombay,1st Year,B.Sc,2027-03-23,Rejected,No,12
+653,Cybersecurity,S0812,Stanford,4th Year,M.Tech,2027-03-24,Pending,Yes,34
+182,IoT,S0813,NUS,1st Year,B.Sc,2027-03-25,Rejected,No,10
+241,UI/UX Design,S0814,NTU,4th Year,M.Tech,2027-03-26,Accepted,No,48
+254,IoT,S0815,Stanford,3rd Year,B.Sc,2027-03-27,Rejected,Yes,43
+336,UI/UX Design,S0816,Oxford,4th Year,B.Tech,2027-03-28,Accepted,No,12
+492,Embedded Systems,S0817,Stanford,4th Year,MBA,2027-03-29,Pending,Yes,24
+810,Cloud Computing,S0818,Stanford,2nd Year,M.Sc,2027-03-30,Rejected,No,8
+256,Cloud Computing,S0819,IIT Delhi,2nd Year,B.Sc,2027-03-31,Rejected,No,11
+823,Data Science,S0820,Berkeley,2nd Year,M.Sc,2027-04-01,Rejected,Yes,2
+319,AR/VR,S0821,NTU,3rd Year,M.Sc,2027-04-02,Rejected,Yes,32
+165,Embedded Systems,S0822,Berkeley,3rd Year,M.Sc,2027-04-03,Accepted,Yes,14
+524,Blockchain,S0823,Oxford,4th Year,B.Sc,2027-04-04,Accepted,No,20
+517,Blockchain,S0824,NUS,2nd Year,MBA,2027-04-05,Rejected,Yes,26
+438,UI/UX Design,S0825,Berkeley,3rd Year,M.Sc,2027-04-06,Pending,No,41
+655,Web Development,S0826,Cambridge,3rd Year,B.Sc,2027-04-07,Accepted,No,24
+577,Cloud Computing,S0827,IIT Bombay,4th Year,B.Sc,2027-04-08,Rejected,Yes,17
+525,AI/ML,S0828,Oxford,4th Year,B.Sc,2027-04-09,Rejected,No,40
+163,Cloud Computing,S0829,Harvard,1st Year,B.Sc,2027-04-10,Accepted,No,21
+311,Data Science,S0830,MIT,1st Year,B.Sc,2027-04-11,Accepted,No,2
+952,UI/UX Design,S0831,NUS,4th Year,M.Tech,2027-04-12,Rejected,No,2
+530,IoT,S0832,IIT Delhi,1st Year,M.Tech,2027-04-13,Rejected,Yes,22
+498,Cloud Computing,S0833,Berkeley,3rd Year,M.Sc,2027-04-14,Accepted,No,2
+888,IoT,S0834,IIT Delhi,4th Year,M.Tech,2027-04-15,Accepted,No,31
+698,Cybersecurity,S0835,Cambridge,4th Year,B.Sc,2027-04-16,Pending,Yes,3
+812,Cybersecurity,S0836,Berkeley,2nd Year,B.Sc,2027-04-17,Pending,Yes,48
+120,Embedded Systems,S0837,MIT,3rd Year,M.Tech,2027-04-18,Accepted,No,10
+977,Cloud Computing,S0838,MIT,3rd Year,M.Sc,2027-04-19,Rejected,No,27
+883,Embedded Systems,S0839,Stanford,2nd Year,M.Sc,2027-04-20,Accepted,No,3
+689,Cloud Computing,S0840,Stanford,1st Year,B.Tech,2027-04-21,Rejected,No,35
+489,Web Development,S0841,NTU,4th Year,M.Tech,2027-04-22,Accepted,Yes,25
+588,Data Science,S0842,IIT Delhi,1st Year,B.Sc,2027-04-23,Accepted,Yes,49
+106,AR/VR,S0843,Harvard,3rd Year,B.Sc,2027-04-24,Pending,Yes,39
+460,AR/VR,S0844,Stanford,1st Year,B.Tech,2027-04-25,Rejected,Yes,47
+405,Cybersecurity,S0845,NUS,3rd Year,M.Tech,2027-04-26,Accepted,No,34
+871,Cybersecurity,S0846,Stanford,4th Year,M.Sc,2027-04-27,Rejected,Yes,11
+499,AI/ML,S0847,Stanford,4th Year,MBA,2027-04-28,Rejected,Yes,11
+973,Embedded Systems,S0848,Oxford,4th Year,B.Tech,2027-04-29,Rejected,No,7
+955,Cybersecurity,S0849,Berkeley,2nd Year,M.Sc,2027-04-30,Rejected,Yes,1
+529,Cybersecurity,S0850,IIT Delhi,2nd Year,B.Sc,2027-05-01,Rejected,Yes,23
+651,AI/ML,S0851,Oxford,2nd Year,B.Tech,2027-05-02,Rejected,Yes,15
+865,Data Science,S0852,Oxford,4th Year,B.Tech,2027-05-03,Accepted,No,6
+852,Blockchain,S0853,IIT Delhi,4th Year,MBA,2027-05-04,Pending,No,27
+659,UI/UX Design,S0854,MIT,1st Year,M.Sc,2027-05-05,Rejected,Yes,5
+919,IoT,S0855,Stanford,3rd Year,MBA,2027-05-06,Accepted,Yes,8
+717,Data Science,S0856,Harvard,2nd Year,B.Tech,2027-05-07,Rejected,No,31
+325,Web Development,S0857,MIT,4th Year,M.Sc,2027-05-08,Pending,Yes,30
+599,AI/ML,S0858,Oxford,4th Year,M.Tech,2027-05-09,Rejected,No,27
+324,Embedded Systems,S0859,Cambridge,3rd Year,B.Tech,2027-05-10,Accepted,No,35
+379,Web Development,S0860,Cambridge,2nd Year,MBA,2027-05-11,Accepted,No,29
+546,Blockchain,S0861,IIT Bombay,2nd Year,MBA,2027-05-12,Rejected,No,9
+597,IoT,S0862,Stanford,1st Year,MBA,2027-05-13,Pending,Yes,39
+129,IoT,S0863,Stanford,4th Year,MBA,2027-05-14,Rejected,Yes,41
+498,Cybersecurity,S0864,MIT,1st Year,MBA,2027-05-15,Accepted,No,1
+444,Cloud Computing,S0865,MIT,4th Year,B.Sc,2027-05-16,Rejected,No,20
+784,UI/UX Design,S0866,Harvard,3rd Year,B.Tech,2027-05-17,Pending,No,31
+795,Cloud Computing,S0867,Harvard,1st Year,M.Tech,2027-05-18,Accepted,Yes,31
+917,AI/ML,S0868,Cambridge,4th Year,M.Tech,2027-05-19,Accepted,No,17
+514,Data Science,S0869,Cambridge,2nd Year,M.Sc,2027-05-20,Accepted,No,9
+841,AR/VR,S0870,IIT Delhi,3rd Year,B.Sc,2027-05-21,Rejected,No,21
+269,Cybersecurity,S0871,NTU,4th Year,B.Tech,2027-05-22,Accepted,Yes,43
+960,Embedded Systems,S0872,Oxford,1st Year,MBA,2027-05-23,Accepted,Yes,35
+578,AI/ML,S0873,Stanford,1st Year,MBA,2027-05-24,Rejected,Yes,24
+230,Web Development,S0874,Cambridge,4th Year,M.Tech,2027-05-25,Rejected,No,40
+737,Blockchain,S0875,Cambridge,3rd Year,M.Tech,2027-05-26,Pending,Yes,43
+646,Web Development,S0876,Harvard,4th Year,B.Sc,2027-05-27,Rejected,No,46
+127,AI/ML,S0877,Stanford,1st Year,B.Tech,2027-05-28,Accepted,Yes,7
+503,Blockchain,S0878,IIT Bombay,1st Year,B.Tech,2027-05-29,Accepted,No,31
+706,IoT,S0879,IIT Bombay,2nd Year,M.Sc,2027-05-30,Pending,Yes,32
+677,Web Development,S0880,IIT Delhi,2nd Year,MBA,2027-05-31,Accepted,No,48
+778,Cloud Computing,S0881,Oxford,1st Year,B.Tech,2027-06-01,Rejected,Yes,37
+127,AI/ML,S0882,IIT Bombay,2nd Year,B.Tech,2027-06-02,Pending,No,13
+185,AI/ML,S0883,IIT Delhi,2nd Year,B.Sc,2027-06-03,Rejected,No,9
+758,Cloud Computing,S0884,IIT Bombay,4th Year,B.Sc,2027-06-04,Accepted,Yes,15
+538,AR/VR,S0885,Harvard,3rd Year,M.Sc,2027-06-05,Rejected,Yes,33
+238,AR/VR,S0886,Stanford,4th Year,MBA,2027-06-06,Rejected,No,9
+987,Data Science,S0887,Harvard,4th Year,M.Sc,2027-06-07,Pending,No,10
+572,UI/UX Design,S0888,MIT,2nd Year,B.Sc,2027-06-08,Rejected,No,15
+286,Cloud Computing,S0889,Harvard,2nd Year,MBA,2027-06-09,Pending,Yes,43
+151,IoT,S0890,Stanford,3rd Year,B.Sc,2027-06-10,Pending,Yes,6
+366,Embedded Systems,S0891,IIT Bombay,3rd Year,B.Sc,2027-06-11,Accepted,No,48
+488,Embedded Systems,S0892,NTU,3rd Year,M.Sc,2027-06-12,Rejected,No,7
+435,IoT,S0893,IIT Delhi,4th Year,M.Tech,2027-06-13,Rejected,No,46
+316,Web Development,S0894,NTU,3rd Year,M.Tech,2027-06-14,Pending,No,26
+565,Embedded Systems,S0895,IIT Delhi,1st Year,M.Sc,2027-06-15,Pending,No,19
+434,IoT,S0896,Harvard,1st Year,B.Sc,2027-06-16,Pending,Yes,40
+445,Cloud Computing,S0897,NTU,4th Year,B.Sc,2027-06-17,Rejected,No,7
+879,Cybersecurity,S0898,IIT Bombay,2nd Year,B.Sc,2027-06-18,Accepted,No,16
+488,Data Science,S0899,Cambridge,3rd Year,M.Tech,2027-06-19,Accepted,Yes,15
+384,UI/UX Design,S0900,NTU,1st Year,MBA,2027-06-20,Accepted,Yes,17
+870,Web Development,S0901,MIT,3rd Year,B.Tech,2027-06-21,Accepted,Yes,12
+951,IoT,S0902,Harvard,1st Year,M.Sc,2027-06-22,Accepted,No,47
+531,Cloud Computing,S0903,IIT Delhi,1st Year,M.Sc,2027-06-23,Accepted,No,43
+358,Web Development,S0904,IIT Delhi,3rd Year,B.Sc,2027-06-24,Rejected,Yes,20
+954,AI/ML,S0905,Stanford,1st Year,B.Sc,2027-06-25,Pending,Yes,22
+183,UI/UX Design,S0906,IIT Bombay,3rd Year,M.Tech,2027-06-26,Accepted,No,46
+581,Cloud Computing,S0907,IIT Delhi,1st Year,B.Sc,2027-06-27,Pending,No,30
+119,AR/VR,S0908,MIT,2nd Year,MBA,2027-06-28,Accepted,No,43
+867,Cybersecurity,S0909,Stanford,4th Year,M.Sc,2027-06-29,Accepted,Yes,38
+652,Web Development,S0910,Oxford,4th Year,B.Tech,2027-06-30,Pending,No,34
+153,AR/VR,S0911,Cambridge,3rd Year,B.Sc,2027-07-01,Rejected,No,34
+458,Blockchain,S0912,MIT,4th Year,MBA,2027-07-02,Rejected,No,37
+329,Blockchain,S0913,NUS,4th Year,B.Tech,2027-07-03,Pending,No,18
+765,Embedded Systems,S0914,NTU,4th Year,M.Tech,2027-07-04,Pending,Yes,49
+170,UI/UX Design,S0915,NTU,4th Year,B.Tech,2027-07-05,Accepted,Yes,9
+899,Data Science,S0916,Berkeley,2nd Year,M.Sc,2027-07-06,Rejected,No,21
+767,Blockchain,S0917,Cambridge,2nd Year,MBA,2027-07-07,Rejected,No,28
+141,Data Science,S0918,NUS,4th Year,M.Sc,2027-07-08,Rejected,No,24
+872,Web Development,S0919,NUS,2nd Year,B.Tech,2027-07-09,Rejected,Yes,43
+131,Web Development,S0920,NTU,2nd Year,M.Sc,2027-07-10,Rejected,No,10
+353,IoT,S0921,Stanford,4th Year,B.Tech,2027-07-11,Accepted,No,38
+304,UI/UX Design,S0922,IIT Bombay,3rd Year,M.Tech,2027-07-12,Rejected,Yes,48
+959,Cybersecurity,S0923,Berkeley,4th Year,M.Sc,2027-07-13,Accepted,No,3
+120,AI/ML,S0924,IIT Delhi,2nd Year,M.Sc,2027-07-14,Pending,Yes,48
+736,Cloud Computing,S0925,Cambridge,3rd Year,M.Sc,2027-07-15,Accepted,No,25
+256,Blockchain,S0926,IIT Bombay,2nd Year,B.Tech,2027-07-16,Pending,Yes,41
+344,Cybersecurity,S0927,Harvard,2nd Year,M.Sc,2027-07-17,Pending,No,4
+229,IoT,S0928,NUS,1st Year,M.Sc,2027-07-18,Accepted,No,13
+584,Cloud Computing,S0929,NTU,1st Year,M.Tech,2027-07-19,Accepted,Yes,12
+785,UI/UX Design,S0930,MIT,1st Year,B.Sc,2027-07-20,Rejected,No,1
+217,Cloud Computing,S0931,MIT,2nd Year,M.Sc,2027-07-21,Accepted,Yes,10
+677,AR/VR,S0932,Harvard,4th Year,B.Tech,2027-07-22,Rejected,Yes,41
+323,AR/VR,S0933,NUS,4th Year,B.Tech,2027-07-23,Pending,No,3
+576,AI/ML,S0934,IIT Delhi,2nd Year,M.Sc,2027-07-24,Accepted,No,16
+816,Cloud Computing,S0935,IIT Delhi,1st Year,M.Tech,2027-07-25,Pending,Yes,11
+362,UI/UX Design,S0936,Harvard,2nd Year,B.Tech,2027-07-26,Rejected,No,26
+885,Cybersecurity,S0937,Stanford,4th Year,MBA,2027-07-27,Accepted,Yes,21
+477,AI/ML,S0938,IIT Delhi,4th Year,M.Tech,2027-07-28,Rejected,No,1
+271,Data Science,S0939,Cambridge,4th Year,M.Tech,2027-07-29,Pending,No,37
+720,IoT,S0940,Berkeley,2nd Year,M.Sc,2027-07-30,Accepted,No,31
+721,Cloud Computing,S0941,Cambridge,4th Year,B.Sc,2027-07-31,Pending,No,31
+865,Web Development,S0942,Oxford,4th Year,B.Tech,2027-08-01,Pending,Yes,23
+835,Blockchain,S0943,MIT,4th Year,M.Sc,2027-08-02,Pending,Yes,13
+217,Embedded Systems,S0944,NUS,4th Year,M.Sc,2027-08-03,Pending,Yes,41
+896,Cloud Computing,S0945,Berkeley,3rd Year,MBA,2027-08-04,Accepted,Yes,37
+938,Data Science,S0946,NUS,2nd Year,B.Sc,2027-08-05,Accepted,Yes,26
+267,Cloud Computing,S0947,IIT Bombay,2nd Year,M.Sc,2027-08-06,Pending,Yes,29
+418,UI/UX Design,S0948,IIT Bombay,4th Year,B.Tech,2027-08-07,Pending,Yes,14
+210,AR/VR,S0949,Berkeley,1st Year,B.Sc,2027-08-08,Pending,Yes,30
+692,Cybersecurity,S0950,Stanford,4th Year,B.Tech,2027-08-09,Accepted,Yes,40
+126,Cybersecurity,S0951,IIT Delhi,2nd Year,MBA,2027-08-10,Accepted,No,17
+419,Web Development,S0952,IIT Delhi,3rd Year,B.Sc,2027-08-11,Accepted,No,35
+689,IoT,S0953,NTU,4th Year,M.Tech,2027-08-12,Accepted,Yes,29
+793,Web Development,S0954,IIT Delhi,3rd Year,B.Sc,2027-08-13,Rejected,Yes,8
+484,IoT,S0955,Stanford,1st Year,B.Tech,2027-08-14,Accepted,Yes,48
+506,AR/VR,S0956,IIT Delhi,1st Year,M.Sc,2027-08-15,Rejected,No,18
+832,UI/UX Design,S0957,IIT Delhi,4th Year,MBA,2027-08-16,Accepted,No,42
+303,Blockchain,S0958,Cambridge,3rd Year,B.Sc,2027-08-17,Accepted,Yes,50
+177,Embedded Systems,S0959,Stanford,1st Year,MBA,2027-08-18,Rejected,No,33
+706,IoT,S0960,IIT Delhi,4th Year,B.Tech,2027-08-19,Accepted,Yes,22
+807,Embedded Systems,S0961,MIT,1st Year,B.Tech,2027-08-20,Pending,Yes,22
+950,Cybersecurity,S0962,Stanford,2nd Year,B.Tech,2027-08-21,Accepted,No,12
+742,Cybersecurity,S0963,IIT Bombay,3rd Year,M.Sc,2027-08-22,Accepted,Yes,17
+348,AR/VR,S0964,IIT Bombay,4th Year,M.Tech,2027-08-23,Accepted,Yes,22
+204,Data Science,S0965,MIT,1st Year,MBA,2027-08-24,Rejected,No,32
+813,Embedded Systems,S0966,NUS,1st Year,M.Tech,2027-08-25,Rejected,Yes,50
+891,IoT,S0967,NUS,2nd Year,M.Tech,2027-08-26,Pending,Yes,36
+408,Embedded Systems,S0968,MIT,4th Year,MBA,2027-08-27,Rejected,Yes,30
+970,UI/UX Design,S0969,Stanford,1st Year,B.Tech,2027-08-28,Pending,Yes,43
+800,Data Science,S0970,NTU,3rd Year,M.Tech,2027-08-29,Pending,No,7
+714,AR/VR,S0971,NTU,1st Year,MBA,2027-08-30,Accepted,No,43
+924,Data Science,S0972,Oxford,3rd Year,B.Sc,2027-08-31,Accepted,No,22
+223,AI/ML,S0973,NUS,1st Year,M.Tech,2027-09-01,Rejected,Yes,49
+915,Embedded Systems,S0974,NUS,4th Year,B.Tech,2027-09-02,Rejected,No,34
+679,Embedded Systems,S0975,Berkeley,4th Year,M.Sc,2027-09-03,Rejected,No,17
+901,Cybersecurity,S0976,IIT Delhi,4th Year,MBA,2027-09-04,Accepted,Yes,5
+142,AR/VR,S0977,Cambridge,3rd Year,M.Tech,2027-09-05,Pending,Yes,24
+455,Embedded Systems,S0978,Cambridge,4th Year,B.Tech,2027-09-06,Rejected,No,28
+645,Web Development,S0979,MIT,3rd Year,B.Tech,2027-09-07,Pending,No,42
+538,Web Development,S0980,Berkeley,3rd Year,MBA,2027-09-08,Accepted,No,2
+777,UI/UX Design,S0981,IIT Delhi,3rd Year,B.Sc,2027-09-09,Rejected,No,35
+479,Embedded Systems,S0982,Cambridge,2nd Year,B.Tech,2027-09-10,Accepted,No,9
+170,IoT,S0983,NUS,1st Year,MBA,2027-09-11,Rejected,No,7
+618,Data Science,S0984,NTU,3rd Year,M.Tech,2027-09-12,Rejected,No,15
+763,Cybersecurity,S0985,NTU,3rd Year,B.Sc,2027-09-13,Rejected,Yes,30
+449,AR/VR,S0986,IIT Delhi,1st Year,MBA,2027-09-14,Rejected,Yes,8
+112,IoT,S0987,Cambridge,4th Year,MBA,2027-09-15,Pending,No,8
+969,Data Science,S0988,IIT Delhi,2nd Year,B.Sc,2027-09-16,Rejected,Yes,36
+530,Embedded Systems,S0989,Stanford,1st Year,B.Tech,2027-09-17,Accepted,No,46
+942,IoT,S0990,Stanford,3rd Year,B.Tech,2027-09-18,Rejected,Yes,19
+601,AI/ML,S0991,Berkeley,1st Year,M.Tech,2027-09-19,Accepted,Yes,9
+208,IoT,S0992,MIT,3rd Year,M.Tech,2027-09-20,Accepted,Yes,23
+543,Web Development,S0993,Cambridge,4th Year,M.Sc,2027-09-21,Accepted,Yes,20
+470,Embedded Systems,S0994,Cambridge,1st Year,M.Sc,2027-09-22,Accepted,No,29
+750,Blockchain,S0995,Oxford,2nd Year,M.Tech,2027-09-23,Accepted,No,28
+948,IoT,S0996,NUS,1st Year,B.Sc,2027-09-24,Pending,Yes,36
+570,AR/VR,S0997,NUS,3rd Year,M.Sc,2027-09-25,Pending,No,6
+824,AI/ML,S0998,Cambridge,3rd Year,M.Sc,2027-09-26,Rejected,Yes,33
+256,Embedded Systems,S0999,Stanford,2nd Year,B.Sc,2027-09-27,Accepted,Yes,12
+545,IoT,S1000,MIT,3rd Year,B.Tech,2027-09-28,Rejected,No,26
+280,Cloud Computing,S1001,Harvard,3rd Year,MBA,2027-09-29,Rejected,Yes,33
+851,AI/ML,S1002,IIT Delhi,3rd Year,B.Tech,2027-09-30,Rejected,Yes,13
+634,Blockchain,S1003,Harvard,1st Year,MBA,2027-10-01,Pending,Yes,10
+766,Cloud Computing,S1004,IIT Bombay,1st Year,B.Sc,2027-10-02,Accepted,No,44
+376,AI/ML,S1005,Stanford,2nd Year,M.Sc,2027-10-03,Rejected,Yes,15
+730,Cybersecurity,S1006,Oxford,2nd Year,B.Sc,2027-10-04,Accepted,Yes,50
+927,AR/VR,S1007,NTU,4th Year,B.Tech,2027-10-05,Rejected,No,2
+651,Data Science,S1008,Berkeley,3rd Year,B.Sc,2027-10-06,Rejected,No,13
+893,AI/ML,S1009,Berkeley,2nd Year,B.Tech,2027-10-07,Rejected,No,47
+595,Blockchain,S1010,Stanford,3rd Year,B.Sc,2027-10-08,Rejected,No,48
+576,UI/UX Design,S1011,IIT Bombay,2nd Year,M.Tech,2027-10-09,Rejected,Yes,23
+546,Data Science,S1012,Berkeley,4th Year,B.Tech,2027-10-10,Accepted,No,34
+945,Embedded Systems,S1013,IIT Delhi,2nd Year,MBA,2027-10-11,Accepted,Yes,39
+848,AI/ML,S1014,Berkeley,1st Year,M.Sc,2027-10-12,Pending,No,50
+706,Data Science,S1015,Cambridge,3rd Year,M.Sc,2027-10-13,Accepted,Yes,10
+374,IoT,S1016,Stanford,1st Year,B.Tech,2027-10-14,Pending,No,37
+430,AI/ML,S1017,IIT Bombay,2nd Year,M.Tech,2027-10-15,Pending,Yes,34
+972,Cloud Computing,S1018,MIT,2nd Year,M.Sc,2027-10-16,Accepted,No,34
+351,Blockchain,S1019,NTU,4th Year,M.Tech,2027-10-17,Rejected,No,4
+950,Web Development,S1020,Stanford,4th Year,MBA,2027-10-18,Rejected,Yes,35
+188,Web Development,S1021,IIT Delhi,4th Year,M.Sc,2027-10-19,Pending,Yes,24
+385,Blockchain,S1022,IIT Delhi,2nd Year,B.Sc,2027-10-20,Rejected,No,35
+561,UI/UX Design,S1023,NTU,4th Year,B.Sc,2027-10-21,Pending,No,15
+349,Blockchain,S1024,NUS,2nd Year,B.Tech,2027-10-22,Pending,No,45
+868,IoT,S1025,Harvard,2nd Year,M.Sc,2027-10-23,Pending,Yes,34
+575,Blockchain,S1026,IIT Delhi,3rd Year,M.Tech,2027-10-24,Pending,No,11
+683,Blockchain,S1027,MIT,1st Year,M.Tech,2027-10-25,Rejected,Yes,24
+724,Data Science,S1028,NUS,3rd Year,MBA,2027-10-26,Accepted,No,11
+784,Embedded Systems,S1029,MIT,1st Year,M.Sc,2027-10-27,Pending,No,7
+488,Web Development,S1030,NUS,1st Year,M.Tech,2027-10-28,Rejected,Yes,44
+444,UI/UX Design,S1031,IIT Bombay,2nd Year,M.Tech,2027-10-29,Accepted,No,11
+129,Data Science,S1032,NTU,4th Year,M.Sc,2027-10-30,Pending,No,41
+606,Web Development,S1033,IIT Delhi,4th Year,B.Sc,2027-10-31,Rejected,Yes,41
+971,Embedded Systems,S1034,NUS,4th Year,M.Sc,2027-11-01,Accepted,Yes,40
+432,Blockchain,S1035,Harvard,3rd Year,B.Sc,2027-11-02,Accepted,Yes,15
+286,Embedded Systems,S1036,NTU,4th Year,B.Tech,2027-11-03,Accepted,No,49
+599,Web Development,S1037,Harvard,2nd Year,B.Tech,2027-11-04,Pending,Yes,46
+317,Cybersecurity,S1038,Harvard,4th Year,B.Sc,2027-11-05,Pending,No,10
+463,AI/ML,S1039,Stanford,4th Year,M.Sc,2027-11-06,Pending,No,35
+916,AI/ML,S1040,IIT Bombay,4th Year,MBA,2027-11-07,Accepted,No,40
+364,Cloud Computing,S1041,NTU,3rd Year,M.Tech,2027-11-08,Accepted,No,28
+448,IoT,S1042,NTU,2nd Year,B.Tech,2027-11-09,Pending,Yes,13
+386,Embedded Systems,S1043,Cambridge,4th Year,B.Tech,2027-11-10,Pending,Yes,18
+710,Blockchain,S1044,NUS,1st Year,B.Sc,2027-11-11,Accepted,No,4
+818,Embedded Systems,S1045,IIT Bombay,3rd Year,MBA,2027-11-12,Accepted,No,26
+382,Blockchain,S1046,IIT Bombay,4th Year,M.Sc,2027-11-13,Pending,Yes,19
+669,Cybersecurity,S1047,NTU,4th Year,MBA,2027-11-14,Rejected,No,25
+110,Cybersecurity,S1048,Berkeley,3rd Year,B.Sc,2027-11-15,Accepted,Yes,34
+629,IoT,S1049,Oxford,1st Year,MBA,2027-11-16,Accepted,Yes,27
+295,UI/UX Design,S1050,IIT Bombay,1st Year,M.Tech,2027-11-17,Pending,No,31
+187,Web Development,S1051,Cambridge,3rd Year,M.Sc,2027-11-18,Pending,Yes,30
+347,Cloud Computing,S1052,Oxford,4th Year,M.Sc,2027-11-19,Rejected,Yes,21
+837,Cybersecurity,S1053,IIT Delhi,3rd Year,MBA,2027-11-20,Rejected,Yes,9
+516,Data Science,S1054,Harvard,3rd Year,B.Tech,2027-11-21,Pending,No,47
+600,AI/ML,S1055,Harvard,3rd Year,M.Tech,2027-11-22,Rejected,No,20
+668,Blockchain,S1056,IIT Bombay,3rd Year,M.Sc,2027-11-23,Accepted,No,1
+876,AR/VR,S1057,NTU,1st Year,M.Sc,2027-11-24,Pending,Yes,5
+346,AI/ML,S1058,NUS,3rd Year,B.Tech,2027-11-25,Pending,Yes,17
+807,Cybersecurity,S1059,Oxford,4th Year,MBA,2027-11-26,Accepted,Yes,46
+587,Cybersecurity,S1060,NUS,4th Year,B.Tech,2027-11-27,Accepted,No,36
+761,Data Science,S1061,Cambridge,2nd Year,B.Sc,2027-11-28,Accepted,Yes,43
+828,Data Science,S1062,NUS,2nd Year,B.Tech,2027-11-29,Accepted,Yes,20
+602,AR/VR,S1063,Berkeley,3rd Year,M.Tech,2027-11-30,Rejected,Yes,14
+558,AI/ML,S1064,Berkeley,2nd Year,M.Sc,2027-12-01,Pending,Yes,47
+911,IoT,S1065,Berkeley,3rd Year,MBA,2027-12-02,Pending,No,40
+117,AR/VR,S1066,NTU,1st Year,B.Sc,2027-12-03,Rejected,No,39
+195,AI/ML,S1067,Oxford,1st Year,M.Tech,2027-12-04,Pending,No,5
+401,Cybersecurity,S1068,Cambridge,1st Year,M.Sc,2027-12-05,Rejected,Yes,4
+326,AI/ML,S1069,Harvard,1st Year,M.Sc,2027-12-06,Rejected,No,49
+514,Blockchain,S1070,Harvard,4th Year,MBA,2027-12-07,Rejected,Yes,27
+808,IoT,S1071,NUS,1st Year,MBA,2027-12-08,Pending,No,9
+349,Cybersecurity,S1072,NUS,1st Year,MBA,2027-12-09,Pending,Yes,10
+413,Embedded Systems,S1073,Cambridge,4th Year,B.Sc,2027-12-10,Accepted,No,31
+779,Cybersecurity,S1074,Stanford,3rd Year,MBA,2027-12-11,Rejected,No,11
+695,AI/ML,S1075,Cambridge,2nd Year,M.Tech,2027-12-12,Accepted,Yes,49
+477,Web Development,S1076,NUS,3rd Year,MBA,2027-12-13,Rejected,Yes,16
+584,Embedded Systems,S1077,IIT Delhi,3rd Year,MBA,2027-12-14,Rejected,Yes,26
+666,Cloud Computing,S1078,NTU,2nd Year,M.Tech,2027-12-15,Pending,No,11
+643,Cybersecurity,S1079,NTU,1st Year,B.Sc,2027-12-16,Pending,No,42
+452,AR/VR,S1080,IIT Bombay,1st Year,M.Sc,2027-12-17,Accepted,No,27
+535,UI/UX Design,S1081,NUS,1st Year,MBA,2027-12-18,Accepted,No,26
+863,AR/VR,S1082,Oxford,1st Year,B.Tech,2027-12-19,Pending,No,38
+663,AR/VR,S1083,IIT Bombay,2nd Year,M.Tech,2027-12-20,Rejected,No,13
+438,UI/UX Design,S1084,MIT,1st Year,B.Tech,2027-12-21,Pending,No,16
+460,Cybersecurity,S1085,NUS,1st Year,M.Sc,2027-12-22,Accepted,Yes,23
+819,Cloud Computing,S1086,Stanford,1st Year,B.Sc,2027-12-23,Rejected,Yes,5
+564,Web Development,S1087,MIT,2nd Year,B.Tech,2027-12-24,Accepted,Yes,15
+377,Embedded Systems,S1088,IIT Bombay,4th Year,B.Tech,2027-12-25,Pending,Yes,18
+413,Cybersecurity,S1089,Harvard,2nd Year,M.Tech,2027-12-26,Accepted,Yes,9
+357,Blockchain,S1090,MIT,1st Year,B.Sc,2027-12-27,Pending,No,26
+336,Cloud Computing,S1091,MIT,2nd Year,M.Sc,2027-12-28,Accepted,No,8
+223,Cloud Computing,S1092,Berkeley,3rd Year,B.Sc,2027-12-29,Pending,No,47
+838,AI/ML,S1093,Oxford,3rd Year,B.Sc,2027-12-30,Rejected,No,48
+297,Embedded Systems,S1094,Harvard,4th Year,M.Sc,2027-12-31,Rejected,No,38
+423,AR/VR,S1095,Oxford,1st Year,B.Tech,2028-01-01,Pending,Yes,44
+222,Web Development,S1096,Oxford,4th Year,B.Tech,2028-01-02,Pending,No,10
+860,Blockchain,S1097,Harvard,3rd Year,M.Sc,2028-01-03,Pending,Yes,14
+648,Embedded Systems,S1098,MIT,4th Year,B.Tech,2028-01-04,Accepted,Yes,29
+880,IoT,S1099,Oxford,3rd Year,B.Sc,2028-01-05,Accepted,No,10
+806,AI/ML,S1100,Berkeley,3rd Year,B.Tech,2028-01-06,Rejected,No,44
+289,UI/UX Design,S1101,NUS,2nd Year,MBA,2028-01-07,Pending,No,18
+296,Blockchain,S1102,MIT,1st Year,B.Sc,2028-01-08,Rejected,Yes,49
+321,Embedded Systems,S1103,Cambridge,3rd Year,M.Sc,2028-01-09,Pending,No,21
+856,UI/UX Design,S1104,IIT Delhi,1st Year,MBA,2028-01-10,Rejected,No,1
+595,Blockchain,S1105,Stanford,4th Year,B.Sc,2028-01-11,Rejected,No,41
+383,Blockchain,S1106,NTU,4th Year,M.Tech,2028-01-12,Pending,No,8
+841,Web Development,S1107,NUS,3rd Year,B.Tech,2028-01-13,Rejected,No,34
+703,Cloud Computing,S1108,Berkeley,1st Year,B.Tech,2028-01-14,Accepted,Yes,20
+878,Blockchain,S1109,NUS,3rd Year,B.Sc,2028-01-15,Accepted,Yes,34
+637,Web Development,S1110,IIT Bombay,3rd Year,MBA,2028-01-16,Accepted,Yes,7
+711,Embedded Systems,S1111,Berkeley,2nd Year,M.Tech,2028-01-17,Accepted,Yes,50
+389,IoT,S1112,NUS,4th Year,B.Sc,2028-01-18,Pending,No,41
+202,Cybersecurity,S1113,Oxford,1st Year,B.Tech,2028-01-19,Accepted,No,39
+952,Cybersecurity,S1114,MIT,4th Year,M.Tech,2028-01-20,Pending,No,31
+298,Cloud Computing,S1115,IIT Bombay,2nd Year,B.Tech,2028-01-21,Pending,Yes,15
+403,Web Development,S1116,IIT Bombay,4th Year,MBA,2028-01-22,Accepted,No,43
+332,IoT,S1117,IIT Bombay,2nd Year,MBA,2028-01-23,Pending,No,29
+469,AI/ML,S1118,Cambridge,4th Year,M.Tech,2028-01-24,Rejected,Yes,20
+283,Embedded Systems,S1119,NUS,1st Year,B.Tech,2028-01-25,Pending,Yes,8
+409,Blockchain,S1120,MIT,2nd Year,M.Sc,2028-01-26,Pending,No,35
+114,Blockchain,S1121,MIT,4th Year,MBA,2028-01-27,Pending,No,48
+825,Embedded Systems,S1122,Oxford,2nd Year,M.Tech,2028-01-28,Pending,No,40
+646,Embedded Systems,S1123,Berkeley,1st Year,M.Tech,2028-01-29,Rejected,No,30
+229,Web Development,S1124,NTU,4th Year,B.Sc,2028-01-30,Rejected,Yes,10
+380,Blockchain,S1125,IIT Delhi,3rd Year,MBA,2028-01-31,Accepted,Yes,5
+146,Cybersecurity,S1126,Berkeley,1st Year,B.Tech,2028-02-01,Rejected,No,49
+155,Cloud Computing,S1127,Cambridge,1st Year,MBA,2028-02-02,Pending,No,47
+666,Cybersecurity,S1128,NTU,1st Year,B.Sc,2028-02-03,Rejected,Yes,22
+399,UI/UX Design,S1129,NUS,1st Year,M.Sc,2028-02-04,Pending,Yes,18
+814,Data Science,S1130,NTU,3rd Year,M.Tech,2028-02-05,Accepted,No,3
+229,IoT,S1131,Berkeley,4th Year,B.Tech,2028-02-06,Accepted,Yes,25
+753,UI/UX Design,S1132,Berkeley,1st Year,M.Tech,2028-02-07,Accepted,Yes,17
+989,Data Science,S1133,Oxford,4th Year,B.Sc,2028-02-08,Accepted,Yes,8
+870,Embedded Systems,S1134,IIT Delhi,2nd Year,B.Tech,2028-02-09,Pending,Yes,41
+602,Cybersecurity,S1135,Harvard,1st Year,MBA,2028-02-10,Accepted,Yes,30
+205,AI/ML,S1136,Stanford,1st Year,M.Sc,2028-02-11,Rejected,Yes,28
+993,Cloud Computing,S1137,Harvard,4th Year,M.Sc,2028-02-12,Accepted,Yes,38
+112,Blockchain,S1138,Harvard,3rd Year,B.Sc,2028-02-13,Pending,Yes,11
+687,AR/VR,S1139,NUS,2nd Year,M.Tech,2028-02-14,Accepted,No,46
+391,AR/VR,S1140,Stanford,3rd Year,M.Sc,2028-02-15,Rejected,Yes,45
+580,AI/ML,S1141,IIT Bombay,4th Year,M.Tech,2028-02-16,Accepted,No,32
+590,Data Science,S1142,MIT,1st Year,M.Sc,2028-02-17,Rejected,Yes,49
+551,Cybersecurity,S1143,IIT Bombay,4th Year,M.Sc,2028-02-18,Accepted,No,19
+448,AR/VR,S1144,Oxford,4th Year,M.Sc,2028-02-19,Pending,No,15
+288,Embedded Systems,S1145,NUS,4th Year,M.Tech,2028-02-20,Accepted,No,34
+152,Cybersecurity,S1146,Oxford,4th Year,B.Tech,2028-02-21,Accepted,Yes,7
+358,IoT,S1147,Harvard,1st Year,M.Sc,2028-02-22,Pending,No,6
+982,Cybersecurity,S1148,Harvard,2nd Year,M.Tech,2028-02-23,Accepted,No,47
+589,UI/UX Design,S1149,NTU,1st Year,B.Tech,2028-02-24,Accepted,Yes,39
+216,Cloud Computing,S1150,Oxford,4th Year,M.Tech,2028-02-25,Pending,Yes,39
+941,AI/ML,S1151,MIT,4th Year,MBA,2028-02-26,Rejected,No,24
+166,Cybersecurity,S1152,Cambridge,1st Year,M.Sc,2028-02-27,Pending,No,16
+510,Cybersecurity,S1153,IIT Delhi,3rd Year,M.Tech,2028-02-28,Pending,No,43
+603,Data Science,S1154,Harvard,3rd Year,M.Sc,2028-02-29,Rejected,No,32
+175,IoT,S1155,MIT,3rd Year,MBA,2028-03-01,Rejected,Yes,45
+690,Cybersecurity,S1156,Harvard,4th Year,M.Tech,2028-03-02,Accepted,Yes,28
+744,AR/VR,S1157,Cambridge,1st Year,B.Tech,2028-03-03,Pending,No,27
+802,Cybersecurity,S1158,NTU,1st Year,M.Sc,2028-03-04,Pending,Yes,4
+154,Blockchain,S1159,MIT,3rd Year,M.Sc,2028-03-05,Rejected,No,41
+255,Cybersecurity,S1160,NTU,3rd Year,MBA,2028-03-06,Pending,Yes,7
+252,Embedded Systems,S1161,Oxford,1st Year,M.Sc,2028-03-07,Accepted,Yes,50
+930,UI/UX Design,S1162,IIT Delhi,4th Year,B.Sc,2028-03-08,Rejected,Yes,18
+676,Cloud Computing,S1163,NTU,3rd Year,B.Tech,2028-03-09,Pending,No,47
+411,Blockchain,S1164,NUS,2nd Year,B.Sc,2028-03-10,Rejected,Yes,47
+187,IoT,S1165,Cambridge,2nd Year,B.Tech,2028-03-11,Rejected,No,18
+354,Embedded Systems,S1166,Stanford,1st Year,MBA,2028-03-12,Accepted,No,17
+221,UI/UX Design,S1167,Cambridge,4th Year,B.Sc,2028-03-13,Pending,No,41
+671,Cloud Computing,S1168,NUS,2nd Year,B.Sc,2028-03-14,Accepted,Yes,33
+882,Cloud Computing,S1169,Berkeley,3rd Year,MBA,2028-03-15,Rejected,No,22
+526,UI/UX Design,S1170,Harvard,4th Year,B.Tech,2028-03-16,Accepted,Yes,27
+720,Embedded Systems,S1171,NUS,1st Year,M.Sc,2028-03-17,Pending,No,43
+710,IoT,S1172,Stanford,3rd Year,B.Sc,2028-03-18,Rejected,Yes,17
+909,IoT,S1173,NUS,4th Year,B.Sc,2028-03-19,Accepted,No,23
+733,Data Science,S1174,Harvard,1st Year,MBA,2028-03-20,Rejected,Yes,6
+331,IoT,S1175,IIT Bombay,4th Year,M.Sc,2028-03-21,Accepted,Yes,1
+894,UI/UX Design,S1176,NUS,2nd Year,B.Tech,2028-03-22,Pending,Yes,7
+635,Cybersecurity,S1177,NUS,2nd Year,M.Tech,2028-03-23,Pending,Yes,46
+489,UI/UX Design,S1178,IIT Bombay,1st Year,B.Tech,2028-03-24,Pending,Yes,32
+561,UI/UX Design,S1179,Stanford,2nd Year,MBA,2028-03-25,Accepted,No,16
+553,Blockchain,S1180,Cambridge,1st Year,B.Sc,2028-03-26,Pending,Yes,38
+404,AI/ML,S1181,Berkeley,2nd Year,M.Sc,2028-03-27,Pending,Yes,32
+980,AR/VR,S1182,Berkeley,4th Year,B.Sc,2028-03-28,Pending,No,15
+702,Cybersecurity,S1183,Cambridge,4th Year,MBA,2028-03-29,Rejected,No,38
+539,Web Development,S1184,Cambridge,1st Year,B.Tech,2028-03-30,Pending,Yes,28
+412,AI/ML,S1185,Cambridge,3rd Year,B.Sc,2028-03-31,Rejected,No,43
+682,Cloud Computing,S1186,Oxford,4th Year,M.Tech,2028-04-01,Pending,Yes,18
+735,Embedded Systems,S1187,Berkeley,4th Year,MBA,2028-04-02,Pending,No,7
+161,AR/VR,S1188,NTU,1st Year,B.Tech,2028-04-03,Pending,No,50
+724,AR/VR,S1189,NUS,1st Year,M.Sc,2028-04-04,Pending,Yes,46
+857,Blockchain,S1190,IIT Delhi,3rd Year,B.Tech,2028-04-05,Accepted,Yes,32
+201,Cloud Computing,S1191,NUS,1st Year,M.Tech,2028-04-06,Rejected,Yes,36
+881,Web Development,S1192,MIT,3rd Year,B.Sc,2028-04-07,Accepted,Yes,39
+312,Cybersecurity,S1193,Stanford,1st Year,B.Tech,2028-04-08,Rejected,Yes,37
+740,UI/UX Design,S1194,Cambridge,4th Year,M.Tech,2028-04-09,Rejected,No,25
+316,Cybersecurity,S1195,IIT Delhi,1st Year,M.Tech,2028-04-10,Accepted,Yes,39
+370,Blockchain,S1196,Berkeley,2nd Year,M.Tech,2028-04-11,Pending,No,34
+776,AR/VR,S1197,NTU,4th Year,MBA,2028-04-12,Pending,Yes,43
+183,Cybersecurity,S1198,NTU,2nd Year,MBA,2028-04-13,Rejected,Yes,25
+260,IoT,S1199,Berkeley,2nd Year,B.Tech,2028-04-14,Accepted,Yes,3
+345,Embedded Systems,S1200,MIT,1st Year,B.Tech,2028-04-15,Rejected,No,39
+277,UI/UX Design,S1201,Cambridge,1st Year,B.Tech,2028-04-16,Accepted,No,7
+665,Cloud Computing,S1202,IIT Bombay,2nd Year,B.Sc,2028-04-17,Pending,No,38
+176,IoT,S1203,Stanford,4th Year,B.Sc,2028-04-18,Pending,Yes,42
+260,IoT,S1204,IIT Bombay,1st Year,B.Tech,2028-04-19,Rejected,No,7
+102,IoT,S1205,Oxford,4th Year,M.Sc,2028-04-20,Rejected,No,37
+518,Web Development,S1206,NUS,1st Year,MBA,2028-04-21,Accepted,Yes,7
+561,UI/UX Design,S1207,Oxford,2nd Year,MBA,2028-04-22,Rejected,No,8
+805,Web Development,S1208,MIT,2nd Year,M.Tech,2028-04-23,Accepted,Yes,49
+708,Web Development,S1209,NUS,1st Year,B.Tech,2028-04-24,Rejected,No,16
+581,Embedded Systems,S1210,Cambridge,2nd Year,B.Sc,2028-04-25,Accepted,No,24
+398,IoT,S1211,NUS,1st Year,M.Tech,2028-04-26,Rejected,No,38
+133,Web Development,S1212,NUS,3rd Year,MBA,2028-04-27,Accepted,No,44
+337,Embedded Systems,S1213,IIT Delhi,1st Year,B.Tech,2028-04-28,Accepted,No,46
+395,AI/ML,S1214,IIT Delhi,4th Year,MBA,2028-04-29,Accepted,No,39
+823,Embedded Systems,S1215,MIT,2nd Year,M.Sc,2028-04-30,Pending,No,27
+389,AI/ML,S1216,Oxford,1st Year,M.Tech,2028-05-01,Rejected,Yes,26
+819,Data Science,S1217,Berkeley,1st Year,B.Tech,2028-05-02,Pending,Yes,46
+980,AI/ML,S1218,Cambridge,1st Year,M.Sc,2028-05-03,Accepted,Yes,48
+564,AI/ML,S1219,NUS,4th Year,M.Sc,2028-05-04,Pending,No,3
+172,Blockchain,S1220,Stanford,2nd Year,B.Sc,2028-05-05,Rejected,No,23
+803,Web Development,S1221,Stanford,1st Year,B.Tech,2028-05-06,Accepted,No,42
+339,Cybersecurity,S1222,Harvard,2nd Year,B.Sc,2028-05-07,Rejected,No,29
+370,Data Science,S1223,NUS,4th Year,M.Sc,2028-05-08,Accepted,Yes,30
+906,Web Development,S1224,NUS,3rd Year,B.Tech,2028-05-09,Accepted,No,37
+910,AI/ML,S1225,MIT,4th Year,B.Tech,2028-05-10,Rejected,Yes,34
+740,Cybersecurity,S1226,Stanford,3rd Year,B.Tech,2028-05-11,Pending,Yes,3
+703,Embedded Systems,S1227,Berkeley,1st Year,B.Tech,2028-05-12,Pending,No,26
+777,IoT,S1228,Berkeley,2nd Year,B.Sc,2028-05-13,Accepted,No,41
+923,UI/UX Design,S1229,IIT Bombay,3rd Year,MBA,2028-05-14,Accepted,Yes,48
+302,AI/ML,S1230,Stanford,2nd Year,B.Tech,2028-05-15,Accepted,No,50
+535,AR/VR,S1231,Berkeley,1st Year,M.Tech,2028-05-16,Accepted,No,28
+217,AR/VR,S1232,NUS,2nd Year,B.Tech,2028-05-17,Rejected,Yes,43
+657,IoT,S1233,IIT Bombay,3rd Year,B.Sc,2028-05-18,Accepted,No,2
+330,IoT,S1234,Stanford,1st Year,B.Tech,2028-05-19,Rejected,No,14
+763,AI/ML,S1235,Harvard,1st Year,MBA,2028-05-20,Pending,No,37
+252,AI/ML,S1236,MIT,3rd Year,M.Sc,2028-05-21,Rejected,Yes,12
+372,Embedded Systems,S1237,IIT Delhi,2nd Year,B.Sc,2028-05-22,Accepted,Yes,2
+946,Embedded Systems,S1238,Cambridge,4th Year,B.Tech,2028-05-23,Pending,No,41
+245,Blockchain,S1239,MIT,2nd Year,B.Tech,2028-05-24,Pending,No,22
+173,AI/ML,S1240,Stanford,3rd Year,B.Tech,2028-05-25,Accepted,Yes,7
+161,AI/ML,S1241,Stanford,2nd Year,M.Sc,2028-05-26,Pending,No,19
+269,Embedded Systems,S1242,MIT,4th Year,B.Tech,2028-05-27,Accepted,Yes,27
+911,Cloud Computing,S1243,Harvard,2nd Year,MBA,2028-05-28,Pending,No,2
+414,Embedded Systems,S1244,Oxford,1st Year,B.Sc,2028-05-29,Accepted,No,47
+709,Cloud Computing,S1245,NUS,2nd Year,B.Sc,2028-05-30,Rejected,No,30
+866,AI/ML,S1246,Stanford,1st Year,B.Tech,2028-05-31,Rejected,No,17
+944,Embedded Systems,S1247,NTU,4th Year,M.Sc,2028-06-01,Accepted,No,23
+682,Blockchain,S1248,Berkeley,2nd Year,B.Sc,2028-06-02,Accepted,No,44
+395,Web Development,S1249,Oxford,1st Year,M.Tech,2028-06-03,Accepted,No,23
+549,Data Science,S1250,IIT Bombay,4th Year,M.Sc,2028-06-04,Pending,No,23
+227,Data Science,S1251,IIT Bombay,1st Year,M.Sc,2028-06-05,Accepted,No,16
+579,Embedded Systems,S1252,IIT Delhi,1st Year,B.Tech,2028-06-06,Accepted,Yes,18
+805,Web Development,S1253,IIT Bombay,1st Year,B.Sc,2028-06-07,Accepted,No,29
+411,Cybersecurity,S1254,IIT Bombay,2nd Year,B.Sc,2028-06-08,Accepted,No,4
+816,Cybersecurity,S1255,Cambridge,1st Year,B.Sc,2028-06-09,Rejected,Yes,21
+512,AR/VR,S1256,MIT,3rd Year,B.Sc,2028-06-10,Accepted,No,30
+378,Embedded Systems,S1257,IIT Bombay,4th Year,M.Sc,2028-06-11,Pending,Yes,45
+612,Cloud Computing,S1258,Stanford,4th Year,M.Sc,2028-06-12,Pending,No,41
+652,UI/UX Design,S1259,NUS,2nd Year,B.Tech,2028-06-13,Accepted,No,17
+605,Cloud Computing,S1260,MIT,2nd Year,MBA,2028-06-14,Accepted,No,50
+548,Blockchain,S1261,NTU,2nd Year,B.Tech,2028-06-15,Accepted,Yes,11
+182,Data Science,S1262,Stanford,3rd Year,B.Sc,2028-06-16,Pending,Yes,14
+712,UI/UX Design,S1263,NTU,4th Year,M.Sc,2028-06-17,Pending,Yes,36
+140,Blockchain,S1264,MIT,4th Year,MBA,2028-06-18,Rejected,Yes,50
+542,IoT,S1265,Stanford,2nd Year,M.Sc,2028-06-19,Pending,No,36
+852,AR/VR,S1266,Cambridge,2nd Year,M.Tech,2028-06-20,Accepted,Yes,42
+430,Cybersecurity,S1267,NUS,1st Year,B.Tech,2028-06-21,Accepted,Yes,21
+718,Cybersecurity,S1268,Stanford,2nd Year,B.Tech,2028-06-22,Accepted,Yes,48
+356,Cloud Computing,S1269,Oxford,4th Year,B.Tech,2028-06-23,Rejected,No,26
+126,Data Science,S1270,Oxford,1st Year,M.Sc,2028-06-24,Pending,Yes,49
+193,AI/ML,S1271,NTU,3rd Year,B.Tech,2028-06-25,Rejected,No,23
+334,Data Science,S1272,Stanford,3rd Year,M.Sc,2028-06-26,Accepted,No,50
+790,Blockchain,S1273,Oxford,4th Year,M.Tech,2028-06-27,Rejected,Yes,12
+956,Blockchain,S1274,IIT Delhi,1st Year,M.Sc,2028-06-28,Rejected,Yes,32
+981,Blockchain,S1275,IIT Bombay,2nd Year,M.Tech,2028-06-29,Rejected,Yes,6
+689,Embedded Systems,S1276,IIT Bombay,2nd Year,M.Sc,2028-06-30,Accepted,No,22
+701,IoT,S1277,MIT,1st Year,MBA,2028-07-01,Accepted,Yes,23
+121,AI/ML,S1278,IIT Delhi,1st Year,MBA,2028-07-02,Accepted,Yes,40
+883,AI/ML,S1279,Harvard,3rd Year,B.Sc,2028-07-03,Pending,No,35
+788,Web Development,S1280,NUS,2nd Year,B.Sc,2028-07-04,Pending,Yes,48
+941,Data Science,S1281,Berkeley,4th Year,M.Sc,2028-07-05,Rejected,No,15
+375,IoT,S1282,Harvard,2nd Year,B.Sc,2028-07-06,Pending,Yes,21
+690,Blockchain,S1283,IIT Bombay,3rd Year,M.Tech,2028-07-07,Pending,No,20
+141,UI/UX Design,S1284,NUS,1st Year,M.Tech,2028-07-08,Accepted,No,7
+881,AR/VR,S1285,Oxford,2nd Year,M.Tech,2028-07-09,Accepted,No,47
+874,Data Science,S1286,Harvard,1st Year,B.Tech,2028-07-10,Accepted,Yes,6
+279,Embedded Systems,S1287,Oxford,2nd Year,B.Tech,2028-07-11,Accepted,Yes,41
+581,AI/ML,S1288,Cambridge,4th Year,M.Tech,2028-07-12,Pending,Yes,26
+631,Cybersecurity,S1289,MIT,4th Year,MBA,2028-07-13,Rejected,Yes,21
+767,Cybersecurity,S1290,NUS,2nd Year,M.Sc,2028-07-14,Accepted,Yes,40
+552,AR/VR,S1291,NUS,2nd Year,B.Sc,2028-07-15,Pending,Yes,32
+384,IoT,S1292,Harvard,1st Year,M.Sc,2028-07-16,Rejected,No,41
+285,Cloud Computing,S1293,Stanford,1st Year,MBA,2028-07-17,Accepted,No,12
+699,AI/ML,S1294,MIT,3rd Year,MBA,2028-07-18,Accepted,Yes,49
+546,Data Science,S1295,MIT,3rd Year,M.Sc,2028-07-19,Accepted,Yes,25
+750,Cloud Computing,S1296,NTU,2nd Year,M.Sc,2028-07-20,Accepted,No,13
+933,Embedded Systems,S1297,NTU,4th Year,M.Tech,2028-07-21,Accepted,No,17
+603,AR/VR,S1298,IIT Bombay,3rd Year,M.Tech,2028-07-22,Rejected,Yes,46
+193,AI/ML,S1299,NUS,3rd Year,B.Sc,2028-07-23,Rejected,Yes,32
+581,Web Development,S1300,NUS,4th Year,MBA,2028-07-24,Accepted,Yes,23
+456,UI/UX Design,S1301,Stanford,1st Year,M.Sc,2028-07-25,Rejected,Yes,22
+518,AI/ML,S1302,Oxford,1st Year,MBA,2028-07-26,Pending,No,29
+441,Cybersecurity,S1303,Berkeley,1st Year,MBA,2028-07-27,Rejected,Yes,24
+428,AR/VR,S1304,Cambridge,2nd Year,MBA,2028-07-28,Accepted,No,49
+786,Web Development,S1305,Berkeley,2nd Year,B.Tech,2028-07-29,Pending,No,11
+207,Blockchain,S1306,IIT Bombay,1st Year,M.Sc,2028-07-30,Rejected,Yes,11
+978,Data Science,S1307,NUS,4th Year,M.Sc,2028-07-31,Pending,No,21
+264,Cloud Computing,S1308,Harvard,1st Year,M.Tech,2028-08-01,Pending,Yes,2
+437,Web Development,S1309,Harvard,1st Year,B.Tech,2028-08-02,Accepted,Yes,8
+521,AR/VR,S1310,Harvard,2nd Year,M.Tech,2028-08-03,Rejected,Yes,13
+810,Cybersecurity,S1311,Berkeley,4th Year,M.Sc,2028-08-04,Accepted,No,38
+607,AR/VR,S1312,NTU,3rd Year,M.Sc,2028-08-05,Accepted,Yes,20
+395,Blockchain,S1313,Oxford,4th Year,B.Tech,2028-08-06,Accepted,Yes,33
+778,Embedded Systems,S1314,Berkeley,2nd Year,B.Sc,2028-08-07,Accepted,Yes,45
+510,UI/UX Design,S1315,Stanford,3rd Year,MBA,2028-08-08,Rejected,Yes,42
+933,Blockchain,S1316,Harvard,2nd Year,M.Tech,2028-08-09,Rejected,No,36
+878,Web Development,S1317,NTU,1st Year,M.Tech,2028-08-10,Accepted,Yes,19
+663,Data Science,S1318,MIT,3rd Year,M.Tech,2028-08-11,Pending,No,49
+137,Embedded Systems,S1319,NUS,2nd Year,B.Tech,2028-08-12,Rejected,No,36
+565,UI/UX Design,S1320,IIT Delhi,1st Year,MBA,2028-08-13,Accepted,No,35
+190,AI/ML,S1321,NUS,2nd Year,M.Tech,2028-08-14,Rejected,Yes,12
+422,Data Science,S1322,Stanford,4th Year,B.Sc,2028-08-15,Accepted,No,26
+358,Blockchain,S1323,Oxford,2nd Year,B.Sc,2028-08-16,Accepted,No,40
+431,Cybersecurity,S1324,Stanford,4th Year,M.Sc,2028-08-17,Pending,No,45
+218,Data Science,S1325,Oxford,2nd Year,MBA,2028-08-18,Accepted,Yes,5
+891,UI/UX Design,S1326,Stanford,1st Year,M.Sc,2028-08-19,Accepted,Yes,13
+513,AR/VR,S1327,Berkeley,4th Year,M.Sc,2028-08-20,Rejected,No,6
+985,AR/VR,S1328,NTU,4th Year,MBA,2028-08-21,Pending,No,6
+626,AR/VR,S1329,IIT Delhi,1st Year,M.Sc,2028-08-22,Rejected,No,46
+944,Blockchain,S1330,Cambridge,4th Year,MBA,2028-08-23,Pending,No,39
+101,UI/UX Design,S1331,Cambridge,2nd Year,B.Sc,2028-08-24,Accepted,No,43
+773,AI/ML,S1332,Harvard,2nd Year,MBA,2028-08-25,Pending,Yes,26
+990,Cloud Computing,S1333,Berkeley,4th Year,M.Tech,2028-08-26,Rejected,Yes,17
+655,IoT,S1334,Stanford,2nd Year,B.Tech,2028-08-27,Accepted,No,10
+573,IoT,S1335,Oxford,4th Year,B.Sc,2028-08-28,Pending,No,46
+523,Cybersecurity,S1336,NTU,3rd Year,B.Tech,2028-08-29,Pending,No,22
+155,UI/UX Design,S1337,Stanford,2nd Year,B.Sc,2028-08-30,Rejected,No,35
+292,Embedded Systems,S1338,Berkeley,4th Year,M.Tech,2028-08-31,Pending,Yes,23
+630,Blockchain,S1339,Cambridge,2nd Year,B.Tech,2028-09-01,Rejected,No,26
+470,Blockchain,S1340,IIT Delhi,3rd Year,M.Tech,2028-09-02,Rejected,Yes,9
+737,Web Development,S1341,IIT Delhi,3rd Year,M.Tech,2028-09-03,Accepted,No,25
+874,AR/VR,S1342,Cambridge,2nd Year,B.Sc,2028-09-04,Rejected,No,7
+610,Blockchain,S1343,NTU,3rd Year,M.Sc,2028-09-05,Rejected,No,48
+740,Data Science,S1344,Oxford,2nd Year,M.Tech,2028-09-06,Pending,Yes,19
+552,AR/VR,S1345,NTU,1st Year,M.Tech,2028-09-07,Rejected,No,40
+878,Cloud Computing,S1346,Harvard,1st Year,B.Sc,2028-09-08,Rejected,Yes,37
+152,Cybersecurity,S1347,NTU,3rd Year,MBA,2028-09-09,Pending,Yes,6
+308,Data Science,S1348,NTU,2nd Year,B.Sc,2028-09-10,Accepted,No,21
+373,Data Science,S1349,Cambridge,1st Year,M.Tech,2028-09-11,Accepted,Yes,15
+662,Cloud Computing,S1350,Cambridge,4th Year,B.Sc,2028-09-12,Accepted,No,29
+234,Web Development,S1351,IIT Bombay,4th Year,M.Tech,2028-09-13,Pending,No,3
+394,Blockchain,S1352,Harvard,4th Year,B.Tech,2028-09-14,Accepted,No,16
+548,Web Development,S1353,MIT,2nd Year,MBA,2028-09-15,Rejected,Yes,36
+815,Blockchain,S1354,Cambridge,3rd Year,B.Tech,2028-09-16,Accepted,No,10
+596,UI/UX Design,S1355,Berkeley,2nd Year,B.Tech,2028-09-17,Rejected,No,43
+224,UI/UX Design,S1356,Berkeley,3rd Year,MBA,2028-09-18,Rejected,Yes,18
+129,Data Science,S1357,IIT Bombay,2nd Year,B.Tech,2028-09-19,Pending,Yes,2
+745,Data Science,S1358,Oxford,2nd Year,M.Sc,2028-09-20,Rejected,Yes,32
+723,AI/ML,S1359,Cambridge,2nd Year,B.Tech,2028-09-21,Accepted,Yes,15
+918,Cloud Computing,S1360,Harvard,1st Year,M.Tech,2028-09-22,Accepted,Yes,45
+345,IoT,S1361,Cambridge,4th Year,MBA,2028-09-23,Pending,No,15
+826,UI/UX Design,S1362,IIT Delhi,4th Year,B.Sc,2028-09-24,Rejected,Yes,16
+262,Cloud Computing,S1363,IIT Delhi,2nd Year,M.Tech,2028-09-25,Pending,Yes,15
+418,Data Science,S1364,IIT Delhi,4th Year,M.Sc,2028-09-26,Rejected,Yes,29
+664,Web Development,S1365,Cambridge,4th Year,MBA,2028-09-27,Accepted,No,42
+114,Data Science,S1366,Oxford,3rd Year,B.Tech,2028-09-28,Accepted,No,14
+665,Web Development,S1367,IIT Delhi,1st Year,B.Tech,2028-09-29,Rejected,Yes,10
+517,Blockchain,S1368,NUS,4th Year,M.Tech,2028-09-30,Accepted,Yes,1
+195,IoT,S1369,Stanford,2nd Year,M.Tech,2028-10-01,Accepted,No,19
+330,Embedded Systems,S1370,Harvard,2nd Year,MBA,2028-10-02,Rejected,No,16
+961,Embedded Systems,S1371,NTU,3rd Year,M.Tech,2028-10-03,Rejected,No,2
+216,Embedded Systems,S1372,Stanford,4th Year,M.Tech,2028-10-04,Rejected,No,40
+572,Blockchain,S1373,Oxford,2nd Year,MBA,2028-10-05,Rejected,No,31
+220,Data Science,S1374,Harvard,2nd Year,M.Tech,2028-10-06,Rejected,Yes,29
+763,AI/ML,S1375,NUS,1st Year,MBA,2028-10-07,Rejected,Yes,27
+952,Data Science,S1376,Berkeley,4th Year,M.Sc,2028-10-08,Pending,No,36
+257,UI/UX Design,S1377,Oxford,1st Year,M.Tech,2028-10-09,Rejected,No,36
+610,Embedded Systems,S1378,Stanford,1st Year,M.Tech,2028-10-10,Pending,Yes,37
+833,Data Science,S1379,Stanford,4th Year,M.Tech,2028-10-11,Pending,No,13
+398,AR/VR,S1380,MIT,1st Year,B.Tech,2028-10-12,Rejected,Yes,27
+621,AR/VR,S1381,NUS,4th Year,M.Tech,2028-10-13,Accepted,No,12
+822,UI/UX Design,S1382,MIT,4th Year,MBA,2028-10-14,Pending,No,34
+379,Blockchain,S1383,NTU,4th Year,B.Tech,2028-10-15,Accepted,No,38
+525,AI/ML,S1384,NTU,1st Year,B.Tech,2028-10-16,Rejected,Yes,26
+954,Cloud Computing,S1385,IIT Bombay,4th Year,M.Tech,2028-10-17,Rejected,No,41
+594,Blockchain,S1386,NTU,4th Year,B.Sc,2028-10-18,Pending,No,37
+583,Blockchain,S1387,Berkeley,2nd Year,B.Tech,2028-10-19,Rejected,No,25
+349,Data Science,S1388,MIT,1st Year,MBA,2028-10-20,Pending,Yes,48
+567,Embedded Systems,S1389,NUS,1st Year,M.Tech,2028-10-21,Pending,Yes,17
+664,Cybersecurity,S1390,Oxford,4th Year,MBA,2028-10-22,Rejected,No,46
+248,AR/VR,S1391,NUS,2nd Year,B.Sc,2028-10-23,Pending,Yes,24
+492,Embedded Systems,S1392,NUS,2nd Year,M.Tech,2028-10-24,Pending,No,17
+295,Web Development,S1393,IIT Delhi,3rd Year,MBA,2028-10-25,Accepted,Yes,28
+713,Blockchain,S1394,Harvard,3rd Year,MBA,2028-10-26,Rejected,Yes,24
+620,Web Development,S1395,Cambridge,2nd Year,M.Tech,2028-10-27,Accepted,Yes,24
+864,Web Development,S1396,IIT Bombay,1st Year,M.Sc,2028-10-28,Pending,Yes,16
+239,Cloud Computing,S1397,Berkeley,1st Year,M.Sc,2028-10-29,Pending,Yes,21
+984,Cloud Computing,S1398,NTU,4th Year,B.Sc,2028-10-30,Rejected,Yes,35
+171,Cloud Computing,S1399,Oxford,3rd Year,B.Tech,2028-10-31,Pending,No,23
+382,IoT,S1400,Harvard,2nd Year,B.Tech,2028-11-01,Pending,Yes,5
+891,Web Development,S1401,IIT Delhi,4th Year,M.Tech,2028-11-02,Pending,Yes,45
+908,Data Science,S1402,NUS,1st Year,M.Tech,2028-11-03,Pending,No,9
+974,Web Development,S1403,NUS,4th Year,M.Tech,2028-11-04,Accepted,No,21
+524,Blockchain,S1404,Stanford,4th Year,M.Tech,2028-11-05,Pending,Yes,45
+448,Cloud Computing,S1405,IIT Bombay,2nd Year,M.Sc,2028-11-06,Accepted,No,16
+906,Blockchain,S1406,Cambridge,4th Year,B.Sc,2028-11-07,Accepted,Yes,35
+619,Cloud Computing,S1407,NUS,2nd Year,MBA,2028-11-08,Rejected,No,38
+373,IoT,S1408,MIT,3rd Year,MBA,2028-11-09,Accepted,No,9
+940,Data Science,S1409,Berkeley,4th Year,M.Sc,2028-11-10,Accepted,Yes,7
+102,UI/UX Design,S1410,NTU,1st Year,B.Sc,2028-11-11,Accepted,No,33
+389,Cloud Computing,S1411,Harvard,1st Year,M.Tech,2028-11-12,Rejected,Yes,46
+843,Cybersecurity,S1412,NUS,4th Year,B.Tech,2028-11-13,Pending,No,31
+405,IoT,S1413,Harvard,3rd Year,M.Sc,2028-11-14,Rejected,No,35
+957,AR/VR,S1414,IIT Delhi,1st Year,M.Sc,2028-11-15,Accepted,No,21
+701,AR/VR,S1415,Harvard,3rd Year,M.Tech,2028-11-16,Accepted,No,7
+693,Cybersecurity,S1416,Harvard,4th Year,M.Sc,2028-11-17,Accepted,No,39
+775,IoT,S1417,NTU,3rd Year,MBA,2028-11-18,Rejected,Yes,15
+601,Data Science,S1418,NTU,2nd Year,M.Tech,2028-11-19,Rejected,Yes,47
+986,Web Development,S1419,Harvard,1st Year,MBA,2028-11-20,Accepted,No,23
+252,Cloud Computing,S1420,IIT Delhi,3rd Year,M.Tech,2028-11-21,Rejected,Yes,46
+557,AI/ML,S1421,Cambridge,1st Year,B.Tech,2028-11-22,Rejected,No,45
+651,Blockchain,S1422,MIT,3rd Year,MBA,2028-11-23,Accepted,No,42
+595,UI/UX Design,S1423,Berkeley,1st Year,M.Tech,2028-11-24,Pending,No,36
+453,AR/VR,S1424,IIT Delhi,1st Year,M.Sc,2028-11-25,Rejected,No,15
+440,Blockchain,S1425,Berkeley,4th Year,M.Sc,2028-11-26,Accepted,Yes,30
+665,UI/UX Design,S1426,Stanford,3rd Year,B.Sc,2028-11-27,Accepted,No,18
+881,IoT,S1427,Oxford,4th Year,M.Tech,2028-11-28,Accepted,Yes,37
+656,UI/UX Design,S1428,Cambridge,1st Year,B.Tech,2028-11-29,Accepted,Yes,4
+486,Blockchain,S1429,Berkeley,3rd Year,B.Sc,2028-11-30,Pending,No,30
+566,AR/VR,S1430,MIT,3rd Year,M.Sc,2028-12-01,Accepted,Yes,40
+429,Web Development,S1431,Berkeley,2nd Year,B.Tech,2028-12-02,Accepted,No,29
+990,Cloud Computing,S1432,NUS,1st Year,M.Tech,2028-12-03,Pending,No,32
+293,UI/UX Design,S1433,Cambridge,2nd Year,M.Sc,2028-12-04,Pending,Yes,38
+814,AR/VR,S1434,IIT Bombay,2nd Year,B.Sc,2028-12-05,Accepted,Yes,28
+344,Cybersecurity,S1435,IIT Delhi,3rd Year,M.Sc,2028-12-06,Rejected,No,5
+685,IoT,S1436,IIT Delhi,2nd Year,MBA,2028-12-07,Pending,Yes,11
+492,UI/UX Design,S1437,MIT,1st Year,B.Sc,2028-12-08,Accepted,Yes,2
+339,Web Development,S1438,MIT,4th Year,M.Sc,2028-12-09,Pending,No,36
+976,Blockchain,S1439,Cambridge,2nd Year,B.Sc,2028-12-10,Rejected,Yes,29
+894,UI/UX Design,S1440,Stanford,2nd Year,M.Tech,2028-12-11,Rejected,Yes,36
+520,Cloud Computing,S1441,NUS,3rd Year,MBA,2028-12-12,Accepted,Yes,42
+144,IoT,S1442,Oxford,3rd Year,MBA,2028-12-13,Pending,No,4
+425,AR/VR,S1443,Oxford,3rd Year,M.Sc,2028-12-14,Accepted,No,23
+862,Cybersecurity,S1444,NTU,4th Year,B.Sc,2028-12-15,Pending,Yes,31
+584,UI/UX Design,S1445,NUS,3rd Year,B.Sc,2028-12-16,Pending,Yes,46
+822,Blockchain,S1446,NTU,1st Year,B.Sc,2028-12-17,Accepted,No,10
+930,Cloud Computing,S1447,Harvard,1st Year,MBA,2028-12-18,Rejected,Yes,5
+490,Blockchain,S1448,IIT Bombay,3rd Year,M.Sc,2028-12-19,Pending,Yes,44
+495,UI/UX Design,S1449,IIT Bombay,3rd Year,B.Sc,2028-12-20,Accepted,No,23
+779,Data Science,S1450,Cambridge,4th Year,M.Sc,2028-12-21,Accepted,Yes,5
+911,AR/VR,S1451,NTU,4th Year,B.Tech,2028-12-22,Accepted,No,47
+940,Cybersecurity,S1452,Stanford,1st Year,M.Tech,2028-12-23,Rejected,Yes,18
+767,AR/VR,S1453,NUS,4th Year,M.Tech,2028-12-24,Accepted,Yes,37
+255,Embedded Systems,S1454,Oxford,3rd Year,M.Tech,2028-12-25,Accepted,No,17
+607,Web Development,S1455,IIT Bombay,4th Year,B.Sc,2028-12-26,Accepted,No,47
+137,Embedded Systems,S1456,Berkeley,3rd Year,M.Tech,2028-12-27,Accepted,No,2
+229,AI/ML,S1457,NUS,1st Year,B.Sc,2028-12-28,Accepted,No,46
+614,IoT,S1458,IIT Bombay,2nd Year,M.Tech,2028-12-29,Pending,No,39
+704,Cybersecurity,S1459,Cambridge,4th Year,MBA,2028-12-30,Rejected,No,32
+439,IoT,S1460,Cambridge,1st Year,B.Sc,2028-12-31,Accepted,No,28
+990,Cloud Computing,S1461,IIT Delhi,1st Year,B.Sc,2029-01-01,Accepted,Yes,46
+202,Data Science,S1462,IIT Delhi,4th Year,M.Sc,2029-01-02,Rejected,Yes,49
+995,Blockchain,S1463,NTU,2nd Year,M.Tech,2029-01-03,Pending,Yes,9
+965,IoT,S1464,MIT,3rd Year,MBA,2029-01-04,Accepted,Yes,26
+550,Web Development,S1465,NUS,1st Year,MBA,2029-01-05,Pending,Yes,14
+202,Cloud Computing,S1466,Harvard,1st Year,M.Sc,2029-01-06,Pending,No,43
+638,Cybersecurity,S1467,IIT Delhi,2nd Year,B.Tech,2029-01-07,Pending,Yes,29
+567,Cloud Computing,S1468,Harvard,3rd Year,M.Tech,2029-01-08,Rejected,No,20
+115,Web Development,S1469,Berkeley,1st Year,B.Tech,2029-01-09,Rejected,Yes,35
+839,Blockchain,S1470,Stanford,2nd Year,MBA,2029-01-10,Rejected,Yes,45
+247,Blockchain,S1471,NUS,4th Year,B.Sc,2029-01-11,Pending,No,44
+519,Data Science,S1472,Oxford,2nd Year,M.Sc,2029-01-12,Rejected,No,20
+991,IoT,S1473,Berkeley,2nd Year,MBA,2029-01-13,Rejected,No,22
+770,AR/VR,S1474,Harvard,1st Year,M.Tech,2029-01-14,Pending,No,15
+258,IoT,S1475,Harvard,3rd Year,M.Sc,2029-01-15,Pending,Yes,37
+176,AR/VR,S1476,Harvard,4th Year,B.Tech,2029-01-16,Accepted,Yes,33
+580,Blockchain,S1477,Cambridge,2nd Year,B.Sc,2029-01-17,Rejected,Yes,27
+900,Embedded Systems,S1478,NTU,4th Year,M.Sc,2029-01-18,Accepted,Yes,10
+371,Embedded Systems,S1479,Stanford,3rd Year,M.Sc,2029-01-19,Accepted,Yes,50
+446,Blockchain,S1480,Berkeley,4th Year,MBA,2029-01-20,Accepted,Yes,35
+738,Embedded Systems,S1481,IIT Bombay,4th Year,B.Sc,2029-01-21,Pending,Yes,44
+809,AI/ML,S1482,Cambridge,1st Year,B.Sc,2029-01-22,Accepted,Yes,38
+507,UI/UX Design,S1483,Stanford,3rd Year,B.Sc,2029-01-23,Pending,Yes,21
+765,Embedded Systems,S1484,IIT Delhi,2nd Year,B.Sc,2029-01-24,Accepted,No,1
+182,AR/VR,S1485,IIT Delhi,1st Year,B.Sc,2029-01-25,Pending,Yes,40
+972,Data Science,S1486,IIT Delhi,1st Year,MBA,2029-01-26,Accepted,No,4
+436,Data Science,S1487,Berkeley,2nd Year,B.Sc,2029-01-27,Accepted,Yes,46
+972,Cybersecurity,S1488,NTU,3rd Year,MBA,2029-01-28,Rejected,Yes,49
+790,UI/UX Design,S1489,Harvard,4th Year,MBA,2029-01-29,Rejected,Yes,23
+979,Web Development,S1490,IIT Bombay,3rd Year,B.Sc,2029-01-30,Pending,No,38
+646,AR/VR,S1491,MIT,3rd Year,B.Tech,2029-01-31,Rejected,No,8
+489,AI/ML,S1492,Berkeley,4th Year,M.Tech,2029-02-01,Pending,No,50
+424,AR/VR,S1493,MIT,4th Year,B.Sc,2029-02-02,Pending,No,5
+741,Blockchain,S1494,Harvard,4th Year,M.Tech,2029-02-03,Rejected,No,40
+835,UI/UX Design,S1495,NTU,3rd Year,MBA,2029-02-04,Pending,Yes,5
+877,Blockchain,S1496,NTU,2nd Year,B.Tech,2029-02-05,Pending,Yes,34
+599,Data Science,S1497,Harvard,3rd Year,MBA,2029-02-06,Rejected,No,27
+993,AI/ML,S1498,Harvard,2nd Year,B.Tech,2029-02-07,Pending,No,47
+654,Data Science,S1499,NUS,3rd Year,MBA,2029-02-08,Accepted,No,11
+136,Cloud Computing,S1500,MIT,2nd Year,M.Sc,2029-02-09,Rejected,No,47
+732,Cybersecurity,S1501,NTU,4th Year,M.Sc,2029-02-10,Accepted,No,13
+170,Embedded Systems,S1502,Harvard,3rd Year,M.Sc,2029-02-11,Rejected,No,16
+340,Embedded Systems,S1503,MIT,3rd Year,B.Tech,2029-02-12,Accepted,No,39
+746,Embedded Systems,S1504,Harvard,1st Year,MBA,2029-02-13,Pending,Yes,50
+800,AR/VR,S1505,Oxford,2nd Year,M.Tech,2029-02-14,Rejected,Yes,49
+394,AR/VR,S1506,Harvard,3rd Year,B.Tech,2029-02-15,Accepted,Yes,12
+332,Cybersecurity,S1507,NUS,3rd Year,B.Tech,2029-02-16,Pending,No,12
+864,IoT,S1508,IIT Bombay,4th Year,B.Tech,2029-02-17,Accepted,Yes,2
+192,UI/UX Design,S1509,NTU,2nd Year,MBA,2029-02-18,Rejected,No,42
+544,Blockchain,S1510,NTU,2nd Year,B.Tech,2029-02-19,Pending,No,32
+200,IoT,S1511,MIT,3rd Year,M.Sc,2029-02-20,Accepted,No,47
+878,AR/VR,S1512,Oxford,2nd Year,M.Tech,2029-02-21,Accepted,No,8
+748,Embedded Systems,S1513,Stanford,2nd Year,MBA,2029-02-22,Rejected,Yes,22
+820,Web Development,S1514,Berkeley,2nd Year,M.Tech,2029-02-23,Accepted,No,6
+993,UI/UX Design,S1515,IIT Delhi,2nd Year,MBA,2029-02-24,Pending,No,7
+202,AI/ML,S1516,NTU,2nd Year,MBA,2029-02-25,Pending,Yes,26
+554,IoT,S1517,IIT Delhi,1st Year,MBA,2029-02-26,Pending,Yes,37
+270,Data Science,S1518,IIT Delhi,1st Year,MBA,2029-02-27,Accepted,No,45
+810,Cloud Computing,S1519,Harvard,3rd Year,M.Tech,2029-02-28,Pending,No,44
+406,Blockchain,S1520,Berkeley,2nd Year,M.Sc,2029-03-01,Rejected,No,25
+129,Data Science,S1521,IIT Bombay,4th Year,M.Tech,2029-03-02,Rejected,No,27
+147,Data Science,S1522,NTU,3rd Year,M.Sc,2029-03-03,Rejected,Yes,25
+432,Web Development,S1523,Harvard,3rd Year,MBA,2029-03-04,Pending,Yes,45
+915,UI/UX Design,S1524,NTU,2nd Year,B.Tech,2029-03-05,Pending,No,31
+157,Cloud Computing,S1525,Harvard,2nd Year,MBA,2029-03-06,Rejected,No,9
+400,UI/UX Design,S1526,NTU,1st Year,MBA,2029-03-07,Rejected,Yes,22
+467,IoT,S1527,NUS,3rd Year,MBA,2029-03-08,Accepted,Yes,12
+483,Cybersecurity,S1528,Oxford,3rd Year,B.Sc,2029-03-09,Accepted,Yes,7
+541,Embedded Systems,S1529,Harvard,2nd Year,B.Sc,2029-03-10,Rejected,No,20
+249,IoT,S1530,Cambridge,3rd Year,M.Sc,2029-03-11,Pending,No,23
+350,UI/UX Design,S1531,IIT Delhi,4th Year,B.Tech,2029-03-12,Rejected,Yes,12
+643,IoT,S1532,NTU,2nd Year,B.Sc,2029-03-13,Accepted,Yes,46
+521,Data Science,S1533,NTU,3rd Year,M.Sc,2029-03-14,Rejected,No,28
+679,IoT,S1534,Stanford,1st Year,M.Tech,2029-03-15,Accepted,No,17
+798,IoT,S1535,Berkeley,1st Year,B.Sc,2029-03-16,Accepted,Yes,32
+911,UI/UX Design,S1536,IIT Bombay,4th Year,M.Tech,2029-03-17,Accepted,No,6
+284,Data Science,S1537,IIT Bombay,4th Year,M.Tech,2029-03-18,Rejected,No,12
+274,Cloud Computing,S1538,Harvard,2nd Year,M.Tech,2029-03-19,Pending,Yes,17
+279,AI/ML,S1539,Stanford,4th Year,B.Sc,2029-03-20,Rejected,No,26
+180,Data Science,S1540,MIT,3rd Year,M.Tech,2029-03-21,Accepted,Yes,13
+724,AI/ML,S1541,Berkeley,2nd Year,M.Sc,2029-03-22,Accepted,No,15
+991,UI/UX Design,S1542,NUS,1st Year,M.Sc,2029-03-23,Rejected,No,23
+491,Data Science,S1543,NUS,3rd Year,M.Sc,2029-03-24,Accepted,No,42
+734,Web Development,S1544,IIT Bombay,3rd Year,B.Sc,2029-03-25,Pending,Yes,41
+799,Cybersecurity,S1545,Harvard,4th Year,B.Sc,2029-03-26,Accepted,No,6
+346,Embedded Systems,S1546,NTU,3rd Year,MBA,2029-03-27,Accepted,No,22
+609,Web Development,S1547,Stanford,2nd Year,B.Tech,2029-03-28,Accepted,Yes,29
+697,Embedded Systems,S1548,Harvard,4th Year,MBA,2029-03-29,Pending,Yes,49
+246,Web Development,S1549,IIT Delhi,3rd Year,M.Tech,2029-03-30,Accepted,No,7
+337,UI/UX Design,S1550,NTU,1st Year,B.Sc,2029-03-31,Rejected,No,34
+572,Embedded Systems,S1551,NTU,4th Year,B.Sc,2029-04-01,Accepted,No,17
+753,Blockchain,S1552,MIT,1st Year,M.Tech,2029-04-02,Pending,Yes,2
+360,IoT,S1553,NUS,2nd Year,B.Sc,2029-04-03,Accepted,No,39
+570,Cybersecurity,S1554,NUS,1st Year,B.Sc,2029-04-04,Pending,Yes,4
+361,Blockchain,S1555,Stanford,3rd Year,M.Sc,2029-04-05,Accepted,Yes,36
+782,Web Development,S1556,Stanford,1st Year,B.Tech,2029-04-06,Accepted,No,4
+109,Web Development,S1557,IIT Delhi,4th Year,MBA,2029-04-07,Rejected,Yes,44
+923,Blockchain,S1558,Harvard,2nd Year,M.Tech,2029-04-08,Accepted,Yes,24
+576,Blockchain,S1559,NTU,4th Year,M.Sc,2029-04-09,Pending,Yes,7
+394,AI/ML,S1560,NUS,3rd Year,M.Tech,2029-04-10,Pending,Yes,11
+793,AR/VR,S1561,MIT,1st Year,MBA,2029-04-11,Accepted,Yes,1
+659,Cybersecurity,S1562,IIT Bombay,3rd Year,B.Tech,2029-04-12,Pending,No,34
+261,IoT,S1563,NUS,1st Year,B.Sc,2029-04-13,Rejected,Yes,1
+175,AR/VR,S1564,IIT Bombay,2nd Year,MBA,2029-04-14,Accepted,Yes,1
+552,Blockchain,S1565,Cambridge,2nd Year,MBA,2029-04-15,Accepted,No,21
+453,Blockchain,S1566,MIT,3rd Year,M.Tech,2029-04-16,Rejected,Yes,25
+701,AI/ML,S1567,NUS,2nd Year,B.Sc,2029-04-17,Accepted,No,20
+406,Cybersecurity,S1568,IIT Bombay,1st Year,B.Sc,2029-04-18,Rejected,Yes,2
+754,Cybersecurity,S1569,Berkeley,1st Year,B.Sc,2029-04-19,Accepted,No,37
+534,Cloud Computing,S1570,IIT Delhi,4th Year,M.Sc,2029-04-20,Rejected,Yes,37
+806,Data Science,S1571,IIT Bombay,1st Year,MBA,2029-04-21,Rejected,Yes,24
+356,AR/VR,S1572,Cambridge,4th Year,MBA,2029-04-22,Rejected,No,5
+567,Data Science,S1573,NTU,2nd Year,M.Sc,2029-04-23,Pending,No,12
+965,Embedded Systems,S1574,NTU,4th Year,B.Tech,2029-04-24,Accepted,Yes,13
+409,Web Development,S1575,Stanford,3rd Year,M.Sc,2029-04-25,Rejected,No,41
+303,UI/UX Design,S1576,IIT Bombay,1st Year,B.Tech,2029-04-26,Rejected,Yes,40
+493,UI/UX Design,S1577,Harvard,3rd Year,M.Tech,2029-04-27,Pending,No,32
+973,Cybersecurity,S1578,Oxford,4th Year,M.Tech,2029-04-28,Rejected,No,12
+594,IoT,S1579,IIT Delhi,2nd Year,MBA,2029-04-29,Accepted,Yes,35
+209,Data Science,S1580,Berkeley,4th Year,M.Sc,2029-04-30,Pending,Yes,14
+342,Cloud Computing,S1581,Stanford,3rd Year,M.Sc,2029-05-01,Pending,Yes,23
+490,IoT,S1582,Oxford,4th Year,M.Sc,2029-05-02,Accepted,Yes,7
+685,Embedded Systems,S1583,NTU,3rd Year,M.Sc,2029-05-03,Rejected,No,44
+467,UI/UX Design,S1584,NUS,1st Year,B.Sc,2029-05-04,Rejected,Yes,10
+688,AR/VR,S1585,IIT Bombay,3rd Year,B.Sc,2029-05-05,Pending,Yes,39
+402,Blockchain,S1586,Oxford,3rd Year,M.Tech,2029-05-06,Pending,No,24
+816,AR/VR,S1587,Berkeley,3rd Year,B.Sc,2029-05-07,Accepted,Yes,37
+402,Blockchain,S1588,MIT,3rd Year,B.Tech,2029-05-08,Pending,No,12
+122,AR/VR,S1589,MIT,4th Year,M.Sc,2029-05-09,Accepted,Yes,29
+949,Data Science,S1590,NTU,1st Year,B.Sc,2029-05-10,Accepted,No,46
+774,UI/UX Design,S1591,NUS,2nd Year,M.Tech,2029-05-11,Pending,Yes,50
+505,UI/UX Design,S1592,Stanford,4th Year,B.Sc,2029-05-12,Rejected,Yes,12
+381,IoT,S1593,NUS,4th Year,B.Tech,2029-05-13,Rejected,No,33
+108,AR/VR,S1594,MIT,4th Year,MBA,2029-05-14,Pending,No,10
+679,Web Development,S1595,IIT Bombay,3rd Year,M.Sc,2029-05-15,Accepted,No,29
+985,Cloud Computing,S1596,Berkeley,2nd Year,B.Sc,2029-05-16,Rejected,Yes,2
+802,AR/VR,S1597,Cambridge,4th Year,MBA,2029-05-17,Accepted,No,40
+896,AR/VR,S1598,IIT Bombay,4th Year,B.Tech,2029-05-18,Accepted,No,3
+862,Data Science,S1599,Cambridge,2nd Year,M.Tech,2029-05-19,Pending,Yes,35
+150,Web Development,S1600,Stanford,1st Year,B.Tech,2029-05-20,Rejected,No,8
+720,UI/UX Design,S1601,Harvard,2nd Year,M.Sc,2029-05-21,Accepted,Yes,20
+863,Data Science,S1602,IIT Bombay,2nd Year,M.Tech,2029-05-22,Pending,Yes,19
+608,Cybersecurity,S1603,NTU,3rd Year,B.Tech,2029-05-23,Accepted,Yes,7
+952,Cloud Computing,S1604,Oxford,4th Year,M.Sc,2029-05-24,Pending,Yes,23
+393,Data Science,S1605,Oxford,3rd Year,B.Sc,2029-05-25,Accepted,Yes,44
+894,Web Development,S1606,NUS,1st Year,B.Tech,2029-05-26,Accepted,Yes,12
+918,UI/UX Design,S1607,IIT Bombay,4th Year,M.Tech,2029-05-27,Pending,No,38
+335,Web Development,S1608,NTU,1st Year,M.Tech,2029-05-28,Pending,Yes,34
+721,Embedded Systems,S1609,Cambridge,1st Year,B.Tech,2029-05-29,Accepted,Yes,11
+921,Blockchain,S1610,NTU,4th Year,B.Sc,2029-05-30,Pending,Yes,7
+460,Blockchain,S1611,Oxford,3rd Year,MBA,2029-05-31,Accepted,Yes,32
+324,AR/VR,S1612,IIT Bombay,4th Year,M.Tech,2029-06-01,Pending,No,13
+751,Web Development,S1613,Berkeley,2nd Year,M.Tech,2029-06-02,Pending,No,39
+294,AR/VR,S1614,IIT Bombay,4th Year,MBA,2029-06-03,Pending,Yes,10
+735,Blockchain,S1615,NUS,2nd Year,M.Sc,2029-06-04,Pending,Yes,40
+356,Blockchain,S1616,NUS,2nd Year,B.Tech,2029-06-05,Pending,No,22
+794,Web Development,S1617,IIT Delhi,2nd Year,B.Sc,2029-06-06,Pending,Yes,30
+873,IoT,S1618,Harvard,4th Year,B.Tech,2029-06-07,Rejected,Yes,43
+838,Embedded Systems,S1619,Cambridge,3rd Year,MBA,2029-06-08,Rejected,No,36
+885,Web Development,S1620,NUS,4th Year,M.Sc,2029-06-09,Accepted,Yes,25
+775,Embedded Systems,S1621,NUS,1st Year,B.Tech,2029-06-10,Rejected,No,29
+797,Web Development,S1622,IIT Delhi,3rd Year,M.Tech,2029-06-11,Rejected,No,8
+958,IoT,S1623,Oxford,3rd Year,MBA,2029-06-12,Rejected,Yes,43
+240,Cloud Computing,S1624,Oxford,4th Year,B.Sc,2029-06-13,Pending,No,36
+743,Web Development,S1625,NTU,4th Year,B.Sc,2029-06-14,Rejected,Yes,5
+199,Web Development,S1626,Cambridge,2nd Year,M.Tech,2029-06-15,Accepted,No,22
+742,UI/UX Design,S1627,IIT Bombay,1st Year,B.Tech,2029-06-16,Pending,No,16
+761,IoT,S1628,Harvard,1st Year,M.Tech,2029-06-17,Pending,Yes,24
+140,AR/VR,S1629,Stanford,2nd Year,M.Sc,2029-06-18,Rejected,Yes,10
+416,AI/ML,S1630,Berkeley,3rd Year,B.Sc,2029-06-19,Accepted,No,16
+907,UI/UX Design,S1631,IIT Delhi,3rd Year,B.Sc,2029-06-20,Accepted,Yes,32
+551,AI/ML,S1632,Harvard,4th Year,B.Tech,2029-06-21,Pending,Yes,13
+134,IoT,S1633,Stanford,1st Year,B.Sc,2029-06-22,Pending,No,26
+693,Web Development,S1634,Berkeley,3rd Year,M.Tech,2029-06-23,Accepted,No,3
+473,Cybersecurity,S1635,NUS,4th Year,M.Tech,2029-06-24,Accepted,No,23
+849,Blockchain,S1636,IIT Bombay,2nd Year,M.Tech,2029-06-25,Pending,No,4
+234,Embedded Systems,S1637,Cambridge,4th Year,MBA,2029-06-26,Pending,Yes,31
+192,Embedded Systems,S1638,NUS,2nd Year,B.Sc,2029-06-27,Rejected,No,43
+402,IoT,S1639,NTU,1st Year,B.Sc,2029-06-28,Accepted,No,46
+434,Blockchain,S1640,MIT,1st Year,M.Tech,2029-06-29,Accepted,No,49
+865,IoT,S1641,Harvard,3rd Year,M.Sc,2029-06-30,Accepted,No,38
+525,Blockchain,S1642,IIT Bombay,4th Year,M.Sc,2029-07-01,Rejected,No,7
+279,IoT,S1643,MIT,1st Year,MBA,2029-07-02,Pending,Yes,34
+305,IoT,S1644,Stanford,3rd Year,M.Sc,2029-07-03,Accepted,Yes,6
+235,Web Development,S1645,Harvard,4th Year,M.Tech,2029-07-04,Rejected,No,43
+905,Data Science,S1646,IIT Delhi,4th Year,M.Sc,2029-07-05,Accepted,Yes,42
+652,AR/VR,S1647,NTU,3rd Year,B.Sc,2029-07-06,Rejected,Yes,21
+997,AI/ML,S1648,IIT Bombay,4th Year,MBA,2029-07-07,Rejected,No,34
+474,Cybersecurity,S1649,Stanford,1st Year,M.Tech,2029-07-08,Accepted,No,37
+643,Cloud Computing,S1650,Stanford,3rd Year,B.Tech,2029-07-09,Rejected,No,37
+613,AI/ML,S1651,Oxford,1st Year,M.Tech,2029-07-10,Accepted,Yes,45
+379,Cloud Computing,S1652,Berkeley,3rd Year,B.Sc,2029-07-11,Accepted,No,35
+950,Cybersecurity,S1653,Cambridge,2nd Year,B.Tech,2029-07-12,Rejected,No,34
+268,Embedded Systems,S1654,Stanford,1st Year,B.Sc,2029-07-13,Pending,Yes,26
+363,Cloud Computing,S1655,NTU,2nd Year,M.Sc,2029-07-14,Rejected,Yes,49
+944,Web Development,S1656,MIT,3rd Year,M.Tech,2029-07-15,Rejected,No,35
+593,IoT,S1657,IIT Bombay,4th Year,M.Sc,2029-07-16,Accepted,Yes,42
+925,AR/VR,S1658,IIT Bombay,2nd Year,MBA,2029-07-17,Accepted,No,13
+402,IoT,S1659,NTU,3rd Year,M.Sc,2029-07-18,Accepted,No,19
+864,Embedded Systems,S1660,NUS,2nd Year,B.Sc,2029-07-19,Pending,Yes,21
+991,Embedded Systems,S1661,Oxford,1st Year,B.Sc,2029-07-20,Rejected,Yes,9
+446,Data Science,S1662,NTU,3rd Year,B.Sc,2029-07-21,Rejected,Yes,29
+923,AR/VR,S1663,MIT,3rd Year,M.Sc,2029-07-22,Rejected,No,49
+217,Data Science,S1664,Harvard,4th Year,B.Tech,2029-07-23,Rejected,Yes,13
+579,Cloud Computing,S1665,IIT Delhi,3rd Year,B.Tech,2029-07-24,Rejected,No,19
+177,Embedded Systems,S1666,IIT Delhi,1st Year,MBA,2029-07-25,Pending,No,41
+244,UI/UX Design,S1667,MIT,3rd Year,B.Sc,2029-07-26,Accepted,No,28
+872,Embedded Systems,S1668,Berkeley,3rd Year,MBA,2029-07-27,Accepted,No,26
+331,AI/ML,S1669,NUS,1st Year,MBA,2029-07-28,Pending,Yes,28
+980,IoT,S1670,Oxford,2nd Year,B.Sc,2029-07-29,Rejected,No,25
+792,Embedded Systems,S1671,Berkeley,2nd Year,M.Sc,2029-07-30,Accepted,Yes,6
+841,Cybersecurity,S1672,MIT,1st Year,M.Tech,2029-07-31,Rejected,No,32
+790,Blockchain,S1673,NTU,2nd Year,B.Sc,2029-08-01,Rejected,Yes,2
+506,Data Science,S1674,NUS,3rd Year,M.Tech,2029-08-02,Rejected,Yes,32
+966,Cybersecurity,S1675,NUS,3rd Year,M.Tech,2029-08-03,Rejected,No,7
+923,Cloud Computing,S1676,Berkeley,3rd Year,M.Sc,2029-08-04,Pending,No,21
+670,AI/ML,S1677,NTU,3rd Year,B.Sc,2029-08-05,Pending,No,36
+474,IoT,S1678,Harvard,3rd Year,B.Sc,2029-08-06,Accepted,No,31
+192,Cloud Computing,S1679,MIT,1st Year,B.Sc,2029-08-07,Rejected,Yes,40
+909,UI/UX Design,S1680,Cambridge,3rd Year,M.Tech,2029-08-08,Rejected,Yes,25
+504,Data Science,S1681,Berkeley,2nd Year,M.Sc,2029-08-09,Pending,No,20
+114,IoT,S1682,MIT,1st Year,B.Tech,2029-08-10,Pending,No,32
+370,Data Science,S1683,Harvard,2nd Year,B.Sc,2029-08-11,Rejected,Yes,50
+649,Cybersecurity,S1684,Stanford,3rd Year,B.Tech,2029-08-12,Rejected,No,19
+226,Cybersecurity,S1685,Oxford,3rd Year,M.Tech,2029-08-13,Accepted,Yes,50
+565,AR/VR,S1686,IIT Bombay,4th Year,M.Tech,2029-08-14,Pending,Yes,44
+477,UI/UX Design,S1687,Cambridge,4th Year,MBA,2029-08-15,Rejected,No,45
+788,AR/VR,S1688,IIT Bombay,3rd Year,M.Sc,2029-08-16,Pending,No,4
+866,Blockchain,S1689,IIT Bombay,2nd Year,MBA,2029-08-17,Rejected,No,34
+788,Web Development,S1690,NTU,1st Year,B.Tech,2029-08-18,Rejected,No,3
+368,AR/VR,S1691,Berkeley,2nd Year,M.Tech,2029-08-19,Pending,No,13
+698,Web Development,S1692,NUS,2nd Year,B.Sc,2029-08-20,Accepted,Yes,6
+490,Cybersecurity,S1693,MIT,2nd Year,B.Sc,2029-08-21,Pending,No,20
+942,Cybersecurity,S1694,Stanford,2nd Year,M.Sc,2029-08-22,Pending,No,38
+753,AI/ML,S1695,Stanford,1st Year,B.Tech,2029-08-23,Accepted,No,48
+480,AR/VR,S1696,NUS,4th Year,MBA,2029-08-24,Pending,No,37
+210,UI/UX Design,S1697,Oxford,4th Year,B.Tech,2029-08-25,Accepted,No,35
+791,Embedded Systems,S1698,NUS,1st Year,B.Tech,2029-08-26,Pending,No,12
+339,Cloud Computing,S1699,NTU,1st Year,M.Sc,2029-08-27,Pending,Yes,42
+582,AR/VR,S1700,Cambridge,2nd Year,MBA,2029-08-28,Accepted,Yes,21
+125,Embedded Systems,S1701,Cambridge,1st Year,B.Sc,2029-08-29,Accepted,Yes,48
+734,Web Development,S1702,Oxford,4th Year,B.Sc,2029-08-30,Accepted,No,4
+674,UI/UX Design,S1703,Berkeley,3rd Year,M.Tech,2029-08-31,Rejected,No,35
+435,Cloud Computing,S1704,NTU,3rd Year,MBA,2029-09-01,Rejected,No,2
+724,Cloud Computing,S1705,Berkeley,3rd Year,M.Tech,2029-09-02,Accepted,No,4
+326,AR/VR,S1706,IIT Delhi,2nd Year,M.Sc,2029-09-03,Pending,Yes,20
+763,Cloud Computing,S1707,IIT Bombay,4th Year,B.Tech,2029-09-04,Rejected,Yes,25
+164,Embedded Systems,S1708,NTU,3rd Year,B.Sc,2029-09-05,Accepted,Yes,13
+750,Data Science,S1709,MIT,2nd Year,B.Tech,2029-09-06,Accepted,No,23
+943,Web Development,S1710,Oxford,3rd Year,B.Tech,2029-09-07,Rejected,Yes,35
+575,Blockchain,S1711,Harvard,1st Year,B.Sc,2029-09-08,Rejected,Yes,4
+817,AI/ML,S1712,IIT Bombay,1st Year,B.Sc,2029-09-09,Pending,Yes,44
+409,Cloud Computing,S1713,NUS,2nd Year,MBA,2029-09-10,Accepted,No,28
+764,Web Development,S1714,Stanford,2nd Year,B.Sc,2029-09-11,Rejected,Yes,48
+518,Web Development,S1715,NUS,2nd Year,M.Tech,2029-09-12,Rejected,Yes,33
+219,Cybersecurity,S1716,Stanford,2nd Year,B.Sc,2029-09-13,Rejected,No,34
+243,Web Development,S1717,NUS,3rd Year,B.Tech,2029-09-14,Pending,Yes,12
+146,UI/UX Design,S1718,Oxford,2nd Year,B.Tech,2029-09-15,Pending,No,33
+138,Cybersecurity,S1719,Cambridge,2nd Year,MBA,2029-09-16,Rejected,No,24
+411,Blockchain,S1720,Stanford,2nd Year,B.Tech,2029-09-17,Accepted,No,44
+604,IoT,S1721,NUS,1st Year,M.Tech,2029-09-18,Accepted,Yes,45
+218,Web Development,S1722,Oxford,4th Year,MBA,2029-09-19,Accepted,No,3
+199,AR/VR,S1723,NUS,1st Year,B.Sc,2029-09-20,Pending,Yes,14
+340,Cloud Computing,S1724,NTU,1st Year,B.Sc,2029-09-21,Accepted,Yes,7
+650,Blockchain,S1725,Oxford,1st Year,B.Sc,2029-09-22,Rejected,Yes,30
+238,Blockchain,S1726,IIT Delhi,4th Year,B.Tech,2029-09-23,Rejected,Yes,12
+497,IoT,S1727,IIT Bombay,4th Year,B.Tech,2029-09-24,Accepted,No,15
+564,Data Science,S1728,NTU,1st Year,M.Sc,2029-09-25,Rejected,No,46
+479,Data Science,S1729,IIT Delhi,2nd Year,M.Tech,2029-09-26,Rejected,Yes,21
+786,Blockchain,S1730,Berkeley,1st Year,B.Sc,2029-09-27,Accepted,Yes,5
+860,Embedded Systems,S1731,Cambridge,1st Year,M.Tech,2029-09-28,Rejected,Yes,46
+813,Cloud Computing,S1732,IIT Delhi,1st Year,B.Sc,2029-09-29,Rejected,Yes,14
+653,UI/UX Design,S1733,IIT Delhi,4th Year,MBA,2029-09-30,Pending,No,32
+529,IoT,S1734,NTU,1st Year,M.Tech,2029-10-01,Rejected,Yes,14
+701,IoT,S1735,MIT,3rd Year,M.Tech,2029-10-02,Accepted,Yes,37
+860,UI/UX Design,S1736,IIT Delhi,1st Year,B.Tech,2029-10-03,Pending,Yes,41
+844,AR/VR,S1737,Stanford,1st Year,M.Sc,2029-10-04,Pending,No,40
+258,AI/ML,S1738,Oxford,3rd Year,B.Tech,2029-10-05,Rejected,Yes,1
+524,Data Science,S1739,Stanford,1st Year,M.Tech,2029-10-06,Accepted,No,3
+770,IoT,S1740,IIT Bombay,1st Year,MBA,2029-10-07,Rejected,Yes,25
+201,UI/UX Design,S1741,Berkeley,1st Year,B.Tech,2029-10-08,Rejected,No,14
+953,Data Science,S1742,Berkeley,2nd Year,M.Sc,2029-10-09,Accepted,Yes,45
+601,Embedded Systems,S1743,Cambridge,2nd Year,B.Sc,2029-10-10,Pending,No,8
+730,Blockchain,S1744,IIT Bombay,2nd Year,M.Tech,2029-10-11,Accepted,No,19
+517,Cybersecurity,S1745,Cambridge,3rd Year,B.Tech,2029-10-12,Rejected,Yes,1
+386,Blockchain,S1746,NUS,1st Year,B.Tech,2029-10-13,Accepted,No,16
+133,Cybersecurity,S1747,NUS,1st Year,MBA,2029-10-14,Pending,No,43
+806,IoT,S1748,MIT,2nd Year,M.Tech,2029-10-15,Accepted,No,22
+479,Cloud Computing,S1749,Oxford,3rd Year,B.Sc,2029-10-16,Rejected,Yes,12
+322,UI/UX Design,S1750,Berkeley,3rd Year,MBA,2029-10-17,Pending,Yes,25
+554,Cloud Computing,S1751,Oxford,3rd Year,M.Tech,2029-10-18,Accepted,No,15
+555,UI/UX Design,S1752,Stanford,2nd Year,M.Tech,2029-10-19,Pending,Yes,24
+341,Embedded Systems,S1753,IIT Bombay,2nd Year,B.Tech,2029-10-20,Rejected,No,26
+975,AR/VR,S1754,Cambridge,1st Year,M.Sc,2029-10-21,Accepted,Yes,3
+471,Web Development,S1755,Stanford,1st Year,M.Tech,2029-10-22,Rejected,No,10
+201,AR/VR,S1756,NUS,1st Year,B.Sc,2029-10-23,Rejected,No,10
+802,IoT,S1757,Harvard,2nd Year,B.Tech,2029-10-24,Rejected,No,39
+476,UI/UX Design,S1758,IIT Delhi,2nd Year,M.Sc,2029-10-25,Accepted,No,16
+657,AI/ML,S1759,Cambridge,3rd Year,B.Tech,2029-10-26,Accepted,No,40
+760,AI/ML,S1760,Cambridge,2nd Year,B.Sc,2029-10-27,Accepted,Yes,43
+467,Data Science,S1761,Berkeley,1st Year,MBA,2029-10-28,Accepted,No,17
+162,IoT,S1762,NTU,1st Year,B.Sc,2029-10-29,Pending,No,28
+507,AI/ML,S1763,Oxford,2nd Year,B.Tech,2029-10-30,Rejected,Yes,44
+382,Data Science,S1764,Harvard,4th Year,M.Sc,2029-10-31,Rejected,Yes,37
+294,Web Development,S1765,Berkeley,3rd Year,B.Tech,2029-11-01,Rejected,Yes,46
+225,IoT,S1766,IIT Delhi,2nd Year,B.Tech,2029-11-02,Pending,Yes,41
+968,IoT,S1767,Berkeley,4th Year,B.Sc,2029-11-03,Accepted,No,20
+943,AI/ML,S1768,Berkeley,1st Year,M.Tech,2029-11-04,Accepted,No,14
+565,Blockchain,S1769,Berkeley,2nd Year,M.Tech,2029-11-05,Accepted,No,42
+193,Cybersecurity,S1770,Oxford,3rd Year,MBA,2029-11-06,Accepted,Yes,48
+778,Web Development,S1771,Berkeley,4th Year,M.Tech,2029-11-07,Rejected,No,18
+317,Cloud Computing,S1772,Berkeley,4th Year,M.Tech,2029-11-08,Rejected,Yes,27
+757,Web Development,S1773,Berkeley,2nd Year,B.Tech,2029-11-09,Accepted,Yes,45
+754,Cloud Computing,S1774,Berkeley,2nd Year,B.Tech,2029-11-10,Rejected,Yes,1
+711,Data Science,S1775,NTU,4th Year,B.Sc,2029-11-11,Pending,No,27
+121,UI/UX Design,S1776,Cambridge,1st Year,B.Tech,2029-11-12,Rejected,Yes,27
+151,Cloud Computing,S1777,Harvard,3rd Year,B.Tech,2029-11-13,Rejected,Yes,25
+905,Data Science,S1778,Stanford,1st Year,MBA,2029-11-14,Pending,Yes,18
+441,UI/UX Design,S1779,Stanford,4th Year,M.Tech,2029-11-15,Accepted,No,13
+349,Web Development,S1780,Stanford,1st Year,B.Tech,2029-11-16,Pending,No,50
+228,AI/ML,S1781,IIT Delhi,2nd Year,M.Tech,2029-11-17,Rejected,Yes,32
+905,Blockchain,S1782,NTU,4th Year,B.Tech,2029-11-18,Accepted,No,17
+678,Cloud Computing,S1783,MIT,3rd Year,M.Tech,2029-11-19,Accepted,No,39
+310,Cybersecurity,S1784,NUS,3rd Year,M.Tech,2029-11-20,Accepted,Yes,1
+170,Blockchain,S1785,MIT,1st Year,B.Tech,2029-11-21,Rejected,No,41
+949,Data Science,S1786,IIT Delhi,1st Year,B.Sc,2029-11-22,Rejected,Yes,45
+883,Data Science,S1787,Cambridge,3rd Year,M.Sc,2029-11-23,Rejected,No,26
+667,AI/ML,S1788,NTU,4th Year,B.Tech,2029-11-24,Accepted,No,3
+312,Cybersecurity,S1789,Cambridge,1st Year,MBA,2029-11-25,Accepted,No,45
+700,IoT,S1790,IIT Delhi,4th Year,MBA,2029-11-26,Rejected,No,50
+321,Data Science,S1791,NTU,3rd Year,M.Sc,2029-11-27,Rejected,Yes,29
+932,Web Development,S1792,Oxford,4th Year,M.Tech,2029-11-28,Rejected,No,9
+990,AR/VR,S1793,IIT Delhi,3rd Year,M.Sc,2029-11-29,Rejected,No,43
+338,Cybersecurity,S1794,Harvard,4th Year,M.Tech,2029-11-30,Pending,Yes,45
+436,Embedded Systems,S1795,NUS,2nd Year,M.Sc,2029-12-01,Pending,Yes,15
+892,IoT,S1796,Oxford,4th Year,B.Sc,2029-12-02,Accepted,No,5
+251,AI/ML,S1797,IIT Bombay,3rd Year,B.Sc,2029-12-03,Pending,Yes,41
+907,AI/ML,S1798,Berkeley,4th Year,B.Tech,2029-12-04,Rejected,No,8
+710,UI/UX Design,S1799,NTU,2nd Year,M.Tech,2029-12-05,Rejected,Yes,8
+102,Data Science,S1800,Harvard,1st Year,M.Tech,2029-12-06,Pending,No,11
+383,Blockchain,S1801,MIT,4th Year,B.Tech,2029-12-07,Pending,Yes,32
+979,Web Development,S1802,NUS,3rd Year,MBA,2029-12-08,Rejected,No,5
+248,IoT,S1803,IIT Bombay,2nd Year,MBA,2029-12-09,Accepted,Yes,12
+233,Data Science,S1804,IIT Delhi,1st Year,M.Tech,2029-12-10,Pending,Yes,35
+653,Cybersecurity,S1805,NUS,4th Year,B.Tech,2029-12-11,Pending,No,21
+356,Blockchain,S1806,MIT,1st Year,B.Sc,2029-12-12,Accepted,Yes,11
+917,Data Science,S1807,NUS,4th Year,MBA,2029-12-13,Accepted,No,48
+278,Data Science,S1808,Cambridge,4th Year,B.Tech,2029-12-14,Pending,No,17
+212,Data Science,S1809,IIT Bombay,1st Year,B.Sc,2029-12-15,Pending,Yes,44
+776,UI/UX Design,S1810,Harvard,1st Year,M.Tech,2029-12-16,Pending,No,46
+987,UI/UX Design,S1811,IIT Delhi,2nd Year,B.Sc,2029-12-17,Pending,No,45
+126,Cloud Computing,S1812,Stanford,4th Year,M.Tech,2029-12-18,Accepted,No,26
+234,Web Development,S1813,NUS,4th Year,B.Tech,2029-12-19,Rejected,Yes,19
+115,Blockchain,S1814,IIT Delhi,1st Year,MBA,2029-12-20,Pending,No,35
+466,Web Development,S1815,Cambridge,2nd Year,M.Sc,2029-12-21,Pending,No,19
+908,Web Development,S1816,MIT,1st Year,MBA,2029-12-22,Pending,No,19
+907,Data Science,S1817,MIT,3rd Year,B.Tech,2029-12-23,Pending,Yes,37
+343,Embedded Systems,S1818,Berkeley,2nd Year,B.Tech,2029-12-24,Pending,No,17
+702,AR/VR,S1819,IIT Bombay,3rd Year,M.Tech,2029-12-25,Rejected,No,7
+431,AI/ML,S1820,NTU,2nd Year,B.Sc,2029-12-26,Accepted,No,49
+116,AR/VR,S1821,Stanford,4th Year,MBA,2029-12-27,Accepted,No,8
+278,Web Development,S1822,Cambridge,1st Year,M.Sc,2029-12-28,Rejected,No,26
+371,IoT,S1823,Cambridge,2nd Year,B.Sc,2029-12-29,Accepted,Yes,13
+153,UI/UX Design,S1824,NTU,4th Year,B.Tech,2029-12-30,Rejected,Yes,6
+229,Cybersecurity,S1825,Oxford,4th Year,M.Sc,2029-12-31,Rejected,No,36
+859,Web Development,S1826,Harvard,3rd Year,M.Sc,2030-01-01,Accepted,No,32
+531,Blockchain,S1827,NUS,3rd Year,M.Tech,2030-01-02,Pending,Yes,13
+638,AR/VR,S1828,Oxford,4th Year,MBA,2030-01-03,Rejected,Yes,9
+216,IoT,S1829,Berkeley,3rd Year,B.Tech,2030-01-04,Rejected,Yes,34
+863,Cybersecurity,S1830,Oxford,4th Year,M.Sc,2030-01-05,Pending,No,3
+165,Data Science,S1831,IIT Delhi,4th Year,MBA,2030-01-06,Pending,No,31
+587,Data Science,S1832,NTU,4th Year,B.Sc,2030-01-07,Accepted,Yes,31
+559,Web Development,S1833,Cambridge,3rd Year,M.Tech,2030-01-08,Rejected,No,7
+896,Data Science,S1834,Cambridge,2nd Year,MBA,2030-01-09,Accepted,No,8
+470,AR/VR,S1835,Harvard,4th Year,M.Tech,2030-01-10,Pending,Yes,15
+625,Blockchain,S1836,IIT Delhi,1st Year,MBA,2030-01-11,Rejected,No,3
+707,UI/UX Design,S1837,IIT Bombay,1st Year,B.Sc,2030-01-12,Pending,No,25
+211,Blockchain,S1838,Berkeley,3rd Year,B.Tech,2030-01-13,Pending,Yes,12
+562,UI/UX Design,S1839,IIT Bombay,4th Year,MBA,2030-01-14,Accepted,Yes,6
+615,Web Development,S1840,Cambridge,4th Year,B.Tech,2030-01-15,Accepted,No,49
+326,Cybersecurity,S1841,Cambridge,2nd Year,M.Sc,2030-01-16,Accepted,No,45
+729,Cloud Computing,S1842,IIT Bombay,2nd Year,M.Sc,2030-01-17,Pending,No,5
+144,Data Science,S1843,Oxford,1st Year,B.Sc,2030-01-18,Accepted,Yes,16
+844,Cybersecurity,S1844,IIT Delhi,1st Year,B.Sc,2030-01-19,Rejected,No,28
+902,Embedded Systems,S1845,Harvard,1st Year,M.Sc,2030-01-20,Pending,No,40
+987,AR/VR,S1846,NTU,1st Year,M.Tech,2030-01-21,Pending,No,24
+774,AR/VR,S1847,Harvard,4th Year,M.Sc,2030-01-22,Accepted,No,29
+633,AR/VR,S1848,NTU,1st Year,M.Sc,2030-01-23,Pending,No,48
+408,Cloud Computing,S1849,Berkeley,2nd Year,B.Tech,2030-01-24,Rejected,Yes,10
+569,AI/ML,S1850,Stanford,4th Year,M.Tech,2030-01-25,Accepted,No,29
+758,Cloud Computing,S1851,Oxford,3rd Year,B.Tech,2030-01-26,Rejected,Yes,39
+131,Cybersecurity,S1852,Berkeley,2nd Year,M.Sc,2030-01-27,Accepted,No,50
+162,Embedded Systems,S1853,NUS,3rd Year,B.Tech,2030-01-28,Accepted,No,3
+590,AR/VR,S1854,IIT Bombay,1st Year,MBA,2030-01-29,Pending,No,43
+967,Embedded Systems,S1855,IIT Bombay,1st Year,M.Tech,2030-01-30,Pending,Yes,33
+511,Cybersecurity,S1856,Berkeley,4th Year,B.Sc,2030-01-31,Accepted,No,50
+536,Blockchain,S1857,Harvard,4th Year,M.Tech,2030-02-01,Rejected,No,13
+802,Cloud Computing,S1858,Harvard,2nd Year,M.Sc,2030-02-02,Rejected,No,50
+210,AI/ML,S1859,IIT Delhi,3rd Year,B.Tech,2030-02-03,Accepted,Yes,14
+602,Cybersecurity,S1860,MIT,4th Year,B.Tech,2030-02-04,Rejected,Yes,47
+829,IoT,S1861,Harvard,4th Year,M.Tech,2030-02-05,Rejected,No,21
+554,Blockchain,S1862,IIT Bombay,3rd Year,MBA,2030-02-06,Pending,Yes,3
+175,Data Science,S1863,IIT Delhi,3rd Year,B.Sc,2030-02-07,Accepted,No,37
+182,Cybersecurity,S1864,Harvard,1st Year,MBA,2030-02-08,Pending,Yes,1
+429,IoT,S1865,NUS,1st Year,M.Tech,2030-02-09,Rejected,Yes,10
+722,AR/VR,S1866,NUS,4th Year,M.Tech,2030-02-10,Pending,Yes,22
+251,Data Science,S1867,Cambridge,1st Year,B.Sc,2030-02-11,Rejected,Yes,17
+167,Embedded Systems,S1868,IIT Delhi,4th Year,M.Tech,2030-02-12,Rejected,Yes,12
+229,AI/ML,S1869,Oxford,4th Year,B.Tech,2030-02-13,Rejected,Yes,23
+381,UI/UX Design,S1870,Oxford,3rd Year,M.Tech,2030-02-14,Rejected,No,30
+739,UI/UX Design,S1871,NUS,4th Year,M.Sc,2030-02-15,Rejected,No,13
+748,Web Development,S1872,NTU,4th Year,B.Sc,2030-02-16,Pending,No,42
+699,Blockchain,S1873,MIT,4th Year,MBA,2030-02-17,Rejected,No,4
+661,AR/VR,S1874,IIT Bombay,1st Year,M.Tech,2030-02-18,Pending,No,26
+829,Blockchain,S1875,Stanford,1st Year,MBA,2030-02-19,Rejected,Yes,25
+432,UI/UX Design,S1876,Harvard,2nd Year,MBA,2030-02-20,Accepted,No,10
+490,Embedded Systems,S1877,MIT,3rd Year,B.Tech,2030-02-21,Accepted,Yes,19
+711,Web Development,S1878,Berkeley,2nd Year,M.Sc,2030-02-22,Rejected,Yes,33
+643,IoT,S1879,Oxford,4th Year,B.Sc,2030-02-23,Rejected,No,5
+401,Data Science,S1880,IIT Delhi,4th Year,MBA,2030-02-24,Rejected,No,15
+564,AI/ML,S1881,Stanford,2nd Year,B.Tech,2030-02-25,Accepted,Yes,12
+617,AR/VR,S1882,IIT Delhi,3rd Year,M.Tech,2030-02-26,Pending,Yes,41
+719,Data Science,S1883,Cambridge,4th Year,MBA,2030-02-27,Pending,Yes,13
+540,AI/ML,S1884,Oxford,4th Year,MBA,2030-02-28,Accepted,No,22
+201,Cloud Computing,S1885,Cambridge,1st Year,M.Tech,2030-03-01,Pending,Yes,43
+912,Cybersecurity,S1886,Cambridge,4th Year,M.Tech,2030-03-02,Rejected,No,47
+818,AI/ML,S1887,NUS,4th Year,M.Sc,2030-03-03,Rejected,No,29
+217,AI/ML,S1888,NUS,4th Year,B.Tech,2030-03-04,Rejected,No,2
+973,Blockchain,S1889,Oxford,2nd Year,M.Tech,2030-03-05,Pending,No,29
+770,Embedded Systems,S1890,Cambridge,1st Year,M.Tech,2030-03-06,Pending,Yes,5
+766,Cloud Computing,S1891,MIT,4th Year,M.Sc,2030-03-07,Pending,Yes,16
+998,Embedded Systems,S1892,IIT Bombay,3rd Year,B.Sc,2030-03-08,Rejected,No,39
+887,Blockchain,S1893,Stanford,4th Year,M.Sc,2030-03-09,Pending,Yes,34
+664,Blockchain,S1894,Cambridge,4th Year,MBA,2030-03-10,Rejected,No,19
+838,Blockchain,S1895,NTU,3rd Year,M.Tech,2030-03-11,Pending,Yes,36
+986,Data Science,S1896,Berkeley,3rd Year,B.Sc,2030-03-12,Pending,Yes,11
+320,Embedded Systems,S1897,NTU,3rd Year,B.Tech,2030-03-13,Accepted,No,10
+540,Embedded Systems,S1898,NTU,1st Year,B.Tech,2030-03-14,Accepted,No,36
+562,AR/VR,S1899,NUS,1st Year,B.Sc,2030-03-15,Accepted,Yes,21
+333,Web Development,S1900,Harvard,1st Year,B.Tech,2030-03-16,Accepted,Yes,4
+523,Cloud Computing,S1901,Oxford,2nd Year,M.Tech,2030-03-17,Pending,No,8
+447,Data Science,S1902,Cambridge,3rd Year,B.Tech,2030-03-18,Accepted,No,44
+947,Cloud Computing,S1903,Cambridge,3rd Year,M.Tech,2030-03-19,Pending,Yes,5
+564,Data Science,S1904,NUS,1st Year,M.Tech,2030-03-20,Rejected,No,27
+508,Embedded Systems,S1905,IIT Delhi,3rd Year,M.Tech,2030-03-21,Accepted,No,34
+525,Cybersecurity,S1906,IIT Delhi,4th Year,B.Tech,2030-03-22,Rejected,Yes,35
+847,Web Development,S1907,Stanford,1st Year,M.Tech,2030-03-23,Pending,No,2
+197,Embedded Systems,S1908,IIT Bombay,4th Year,M.Sc,2030-03-24,Pending,Yes,40
+420,UI/UX Design,S1909,NTU,3rd Year,M.Sc,2030-03-25,Pending,No,47
+537,Blockchain,S1910,Oxford,3rd Year,M.Tech,2030-03-26,Accepted,Yes,11
+420,AR/VR,S1911,IIT Delhi,4th Year,M.Tech,2030-03-27,Pending,No,47
+781,Data Science,S1912,Harvard,3rd Year,M.Sc,2030-03-28,Rejected,No,21
+361,Cloud Computing,S1913,Harvard,1st Year,B.Tech,2030-03-29,Pending,Yes,24
+483,Blockchain,S1914,Cambridge,2nd Year,B.Sc,2030-03-30,Pending,No,3
+256,Cybersecurity,S1915,IIT Bombay,2nd Year,B.Sc,2030-03-31,Accepted,Yes,10
+803,AI/ML,S1916,NTU,2nd Year,MBA,2030-04-01,Pending,Yes,7
+585,Cybersecurity,S1917,NTU,3rd Year,M.Tech,2030-04-02,Rejected,No,44
+168,Data Science,S1918,IIT Bombay,1st Year,M.Tech,2030-04-03,Rejected,Yes,15
+193,Blockchain,S1919,Stanford,1st Year,M.Tech,2030-04-04,Accepted,No,1
+951,Data Science,S1920,Stanford,3rd Year,B.Sc,2030-04-05,Accepted,No,25
+187,IoT,S1921,Harvard,1st Year,M.Tech,2030-04-06,Rejected,No,1
+195,AR/VR,S1922,Cambridge,3rd Year,M.Sc,2030-04-07,Pending,No,37
+542,AR/VR,S1923,Berkeley,2nd Year,M.Tech,2030-04-08,Rejected,Yes,4
+198,AI/ML,S1924,Cambridge,1st Year,MBA,2030-04-09,Accepted,Yes,25
+862,Cloud Computing,S1925,Cambridge,3rd Year,MBA,2030-04-10,Accepted,Yes,50
+856,Web Development,S1926,Oxford,1st Year,M.Sc,2030-04-11,Rejected,Yes,37
+481,Data Science,S1927,Oxford,4th Year,B.Sc,2030-04-12,Accepted,No,8
+931,AI/ML,S1928,NTU,4th Year,M.Tech,2030-04-13,Rejected,Yes,15
+233,Web Development,S1929,IIT Bombay,4th Year,MBA,2030-04-14,Rejected,Yes,49
+669,AI/ML,S1930,Oxford,3rd Year,B.Sc,2030-04-15,Rejected,No,41
+161,Web Development,S1931,IIT Delhi,1st Year,B.Tech,2030-04-16,Pending,No,3
+700,IoT,S1932,Cambridge,4th Year,MBA,2030-04-17,Pending,No,37
+675,UI/UX Design,S1933,NTU,1st Year,B.Sc,2030-04-18,Pending,No,35
+675,Embedded Systems,S1934,NUS,3rd Year,B.Sc,2030-04-19,Rejected,No,5
+437,Embedded Systems,S1935,IIT Delhi,4th Year,M.Tech,2030-04-20,Accepted,No,2
+786,Cloud Computing,S1936,IIT Bombay,4th Year,B.Sc,2030-04-21,Rejected,Yes,42
+225,Web Development,S1937,Harvard,3rd Year,B.Sc,2030-04-22,Accepted,No,31
+520,UI/UX Design,S1938,Harvard,1st Year,B.Sc,2030-04-23,Pending,No,37
+462,Web Development,S1939,MIT,4th Year,M.Sc,2030-04-24,Rejected,No,42
+994,Cloud Computing,S1940,Harvard,1st Year,M.Sc,2030-04-25,Rejected,No,25
+781,Data Science,S1941,Berkeley,2nd Year,B.Sc,2030-04-26,Pending,No,19
+868,AI/ML,S1942,Oxford,3rd Year,M.Tech,2030-04-27,Rejected,Yes,44
+533,UI/UX Design,S1943,Stanford,4th Year,B.Sc,2030-04-28,Rejected,No,40
+988,Blockchain,S1944,Berkeley,3rd Year,B.Tech,2030-04-29,Rejected,No,25
+838,Cloud Computing,S1945,Harvard,2nd Year,B.Sc,2030-04-30,Pending,Yes,29
+152,Embedded Systems,S1946,IIT Bombay,3rd Year,B.Sc,2030-05-01,Accepted,Yes,48
+394,Data Science,S1947,Stanford,3rd Year,B.Tech,2030-05-02,Accepted,No,16
+714,Cloud Computing,S1948,Stanford,4th Year,MBA,2030-05-03,Rejected,No,44
+419,AR/VR,S1949,Stanford,2nd Year,M.Sc,2030-05-04,Accepted,No,32
+460,Data Science,S1950,IIT Delhi,4th Year,M.Sc,2030-05-05,Accepted,Yes,40
+206,IoT,S1951,NUS,1st Year,M.Tech,2030-05-06,Accepted,Yes,17
+691,IoT,S1952,MIT,2nd Year,M.Sc,2030-05-07,Accepted,No,23
+619,Embedded Systems,S1953,MIT,3rd Year,M.Tech,2030-05-08,Rejected,No,41
+317,UI/UX Design,S1954,IIT Bombay,3rd Year,MBA,2030-05-09,Pending,Yes,30
+258,AI/ML,S1955,NUS,1st Year,B.Sc,2030-05-10,Pending,Yes,31
+772,IoT,S1956,Stanford,3rd Year,B.Sc,2030-05-11,Pending,No,10
+593,AR/VR,S1957,Stanford,4th Year,MBA,2030-05-12,Rejected,No,30
+329,Web Development,S1958,Oxford,2nd Year,B.Sc,2030-05-13,Rejected,No,35
+967,UI/UX Design,S1959,NTU,1st Year,MBA,2030-05-14,Accepted,No,24
+210,Web Development,S1960,Harvard,1st Year,B.Sc,2030-05-15,Pending,No,15
+458,Cloud Computing,S1961,Stanford,3rd Year,M.Sc,2030-05-16,Rejected,No,10
+965,Data Science,S1962,IIT Bombay,3rd Year,M.Sc,2030-05-17,Accepted,Yes,19
+669,AR/VR,S1963,Oxford,1st Year,B.Sc,2030-05-18,Pending,Yes,41
+476,Data Science,S1964,Berkeley,4th Year,B.Tech,2030-05-19,Rejected,Yes,47
+217,Cybersecurity,S1965,Berkeley,4th Year,MBA,2030-05-20,Accepted,No,12
+880,Embedded Systems,S1966,Oxford,2nd Year,M.Tech,2030-05-21,Pending,No,25
+385,AI/ML,S1967,IIT Delhi,3rd Year,B.Sc,2030-05-22,Pending,No,17
+687,AI/ML,S1968,Harvard,1st Year,M.Tech,2030-05-23,Rejected,Yes,11
+331,AI/ML,S1969,Harvard,3rd Year,M.Tech,2030-05-24,Accepted,No,24
+926,Cybersecurity,S1970,NUS,3rd Year,M.Tech,2030-05-25,Pending,No,48
+539,AI/ML,S1971,Harvard,4th Year,B.Tech,2030-05-26,Rejected,Yes,2
+965,IoT,S1972,MIT,3rd Year,B.Tech,2030-05-27,Accepted,No,28
+674,UI/UX Design,S1973,MIT,2nd Year,M.Sc,2030-05-28,Pending,Yes,20
+885,Blockchain,S1974,Cambridge,4th Year,MBA,2030-05-29,Rejected,No,10
+938,Web Development,S1975,Cambridge,4th Year,B.Sc,2030-05-30,Pending,Yes,3
+736,Web Development,S1976,IIT Delhi,3rd Year,B.Sc,2030-05-31,Accepted,Yes,30
+728,AI/ML,S1977,IIT Delhi,4th Year,B.Sc,2030-06-01,Rejected,No,27
+791,Embedded Systems,S1978,NUS,2nd Year,B.Sc,2030-06-02,Rejected,Yes,46
+758,Blockchain,S1979,Oxford,1st Year,MBA,2030-06-03,Pending,Yes,35
+670,Cybersecurity,S1980,NUS,2nd Year,B.Sc,2030-06-04,Accepted,Yes,15
+126,UI/UX Design,S1981,IIT Delhi,4th Year,B.Sc,2030-06-05,Rejected,No,26
+723,Cybersecurity,S1982,Harvard,2nd Year,MBA,2030-06-06,Accepted,Yes,9
+773,Blockchain,S1983,NUS,4th Year,M.Sc,2030-06-07,Accepted,Yes,41
+949,UI/UX Design,S1984,Harvard,3rd Year,B.Tech,2030-06-08,Pending,No,23
+810,Cloud Computing,S1985,NTU,4th Year,B.Sc,2030-06-09,Accepted,No,14
+373,Data Science,S1986,NTU,1st Year,B.Tech,2030-06-10,Pending,No,26
+129,AR/VR,S1987,IIT Delhi,2nd Year,B.Tech,2030-06-11,Accepted,Yes,27
+284,UI/UX Design,S1988,NTU,3rd Year,B.Sc,2030-06-12,Pending,No,27
+379,Data Science,S1989,IIT Bombay,4th Year,M.Sc,2030-06-13,Pending,No,30
+819,Embedded Systems,S1990,NUS,2nd Year,M.Tech,2030-06-14,Rejected,No,47
+880,AI/ML,S1991,NUS,2nd Year,M.Tech,2030-06-15,Pending,No,29
+416,Web Development,S1992,Oxford,2nd Year,B.Sc,2030-06-16,Rejected,Yes,29
+447,Cybersecurity,S1993,Cambridge,3rd Year,MBA,2030-06-17,Pending,No,25
+459,Embedded Systems,S1994,IIT Delhi,4th Year,MBA,2030-06-18,Accepted,No,30
+106,AI/ML,S1995,NUS,4th Year,M.Sc,2030-06-19,Rejected,Yes,24
+285,Blockchain,S1996,Berkeley,3rd Year,B.Sc,2030-06-20,Accepted,No,22
+990,Data Science,S1997,Stanford,1st Year,MBA,2030-06-21,Accepted,No,21
+246,IoT,S1998,IIT Delhi,2nd Year,B.Tech,2030-06-22,Accepted,No,43
+679,Cloud Computing,S1999,Oxford,4th Year,B.Sc,2030-06-23,Accepted,No,26
